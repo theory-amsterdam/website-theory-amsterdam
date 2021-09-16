@@ -37,6 +37,7 @@ email: ""
 superuser: true
 user_groups:
   - Researchers
+  - Postdocs
 highlight_name: false
 ---
 Mathematician and computer scientist working as an assistant professor at the [Korteweg-de Vries Institute for Mathematics](https://staff.fnwi.uva.nl/j.zuiddam/kdvi.uva.nl) of the [University of Amsterdam](https://staff.fnwi.uva.nl/j.zuiddam/uva.nl).
