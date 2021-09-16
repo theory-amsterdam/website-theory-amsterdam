@@ -12,32 +12,32 @@ font_size: L
 
 # SEO
 
-site_type: Organization
+site_type: Theory of Computing Amsterdam
 local_business_type: ''
-org_name: ''
-description: My research group description.
+org_name: 'Theory of Computing Amsterdam'
+description: The website of the theory of computing group in Amsterdam.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: contact@theory.amsterdam
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Lab 42, Science Park
+  city: Amsterdam
+  region: NH
+  postcode: '1090 GB'
+  country: Netherlands
+  country_code: NL
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
+  latitude: '52.3563913'
+  longitude: '4.952'
+directions: Enter LAB42
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
+#contact_links:
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
@@ -56,8 +56,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: '2 Aug 2006'
+time_format: '15:04'
 address_format: en-us
 
 # Site features
