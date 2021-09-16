@@ -22,6 +22,9 @@ social:
 organizations:
   - name: University of Amsterdam
     url: ""
+  - name: QuSoft
+    url: https://www.qusoft.org/
+
 education:
   courses:
     - course: PhD in Artificial Intelligence

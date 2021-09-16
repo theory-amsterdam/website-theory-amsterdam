@@ -13,7 +13,7 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0002-1754-1415
 organizations:
-  - name: University of Amsterdam
+  - name: University of Amsterdam, Institute for Logic, Language and Computation (ILLC)
   - name: QuSoft
     url: https://www.qusoft.org/
 superuser: true
