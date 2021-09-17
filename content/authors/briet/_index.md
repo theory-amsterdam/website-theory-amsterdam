@@ -18,7 +18,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=pWvIuEoAAAAJ
 organizations:
-  - name: CWI, Algorithms & Complexity
+  - name: CWI Algorithms & Complexity
     url: https://www.cwi.nl
   - name: QuSoft
     url: https://www.qusoft.org/

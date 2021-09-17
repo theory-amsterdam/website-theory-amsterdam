@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: People
-subtitle: 'UvA: [University of Amsterdam](https://uva.nl)<br> CWI: [Centrum Wiskunde & Informatica](https://cwi.nl)<br>VU: [Vrije Universiteit](https://vu.nl)'
+subtitle:
 
 content:
   # Choose which groups/teams of users to display.
@@ -27,3 +27,7 @@ design:
   show_social: true
   show_organizations: true
 ---
+#### Institutions:
+UvA: [University of Amsterdam](https://uva.nl) ;
+CWI: [Centrum Wiskunde & Informatica](https://cwi.nl) ;
+VU: [Vrije Universiteit](https://vu.nl)
