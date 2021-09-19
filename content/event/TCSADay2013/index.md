@@ -1,23 +1,24 @@
 ---
-title: TCS seminar @VU
+title: TCSA Day 2011
 
-event: weekly informal seminar of the VU TCS group
-event_url: https://www.cs.vu.nl/~tcs/seminar/
+event: Theoretical Computer Science Amsterdam (TCS) Day
+event_url: https://event.cwi.nl/qc/tcsa10/
 
-location: VU
+location: CWI
 
 # summary:
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-25T11:00:00Z"
+date: "2011-10-28T9:30:00Z"
+date_end: "2011-10-28T14:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
 
-authors: [femke-van-raamsdonk]
+authors: [ronald-de-wolf]
 tags: []
 
 # Is this a featured talk? (true/false)

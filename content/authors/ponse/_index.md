@@ -1,0 +1,28 @@
+---
+title: Alban Ponse
+lastname: Ponse
+role: Associate Professor
+social:
+- icon: link
+  icon_pack: fas
+  link: https://staff.fnwi.uva.nl/a.ponse
+- icon: envelope
+  icon_pack: fas
+  link: mailto:a.ponse@uva.nl
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=v709bGQAAAAJ
+organizations:
+  - name: UvA Informatics
+    url: https://ivi.uva.nl
+superuser: true
+user_groups:
+  - Researchers
+  - UvA Informatics
+
+interests:
+  - Process Algebra
+  - Program and Thread Algebra
+  - Short-Circuit Logic
+
+---
