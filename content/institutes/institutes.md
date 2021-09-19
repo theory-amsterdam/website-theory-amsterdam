@@ -28,3 +28,17 @@ design:
   show_role: true
   show_social: true
 ---
+#### Institutions:
+UvA: [University of Amsterdam](https://uva.nl) <br>
+CWI: [Centrum Wiskunde & Informatica](https://cwi.nl) <br>
+VU: [Vrije Universiteit](https://vu.nl)
+
+#### Research Groups:
+[UvA Informatics](https://ivi.uva.nl) <br>
+[UvA Logic, Language and Computation](https://illc.uva.nl) <br>
+[UvA Korteweg de Vries](https://kdvi.uva.nl) <br>
+[UvA Physics](httsp://iop.uva.nl) <br>
+[CWI Algorithms and Complexity](https://www.cwi.nl/research/groups/algorithms-and-complexity) <br>
+[CWI Networks and Optimization](https://www.cwi.nl/research/groups/networks-and-optimization) <br>
+[VU Theoretical Computer Science](https://www.cs.vu.nl/~tcs/) <br>
+[QuSoft](https://qusoft.org)

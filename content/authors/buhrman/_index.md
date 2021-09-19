@@ -24,9 +24,9 @@ social:
     link: https://scholar.google.com/citations?user=wlOytxsAAAAJ
 organizations:
   - name: CWI Algorithms and Complexity
-    url: https://www.cwi.nl
+    url: https://www.cwi.nl/research/groups/algorithms-and-complexity
   - name: UvA Logic, Language and Computation
-    url: https://www.cwi.nl
+    url: https://www.illc.uva.nl
   - name: QuSoft
     url: https://www.qusoft.org/
 

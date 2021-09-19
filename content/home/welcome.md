@@ -7,8 +7,8 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Theory of Computing Research Group Amsterdam
-hero_media: QuSoft.png
+  Theory of Computing in Amsterdam
+hero_media: theory.amsterdam.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Theory of Computing Group** Amsterdam consists of researchers in various areas of theoretical computer science, ranging from quantum computing, to cryptography, information theory and discrete mathematics.
+This website provides an overview of the academic research in Amsterdam in the area of theoretical computer science. 

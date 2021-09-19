@@ -22,10 +22,10 @@ content:
   - Visitors
   - Alumni
 design:
-  show_interests: false
-  show_role: true
+  show_interests: true
+  show_role: false
   show_social: true
-  show_organizations: true
+  show_organizations: false
 ---
 #### Institutions:
 UvA: [University of Amsterdam](https://uva.nl) ;
