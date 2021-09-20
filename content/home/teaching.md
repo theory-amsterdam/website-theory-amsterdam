@@ -10,6 +10,7 @@ design:
   columns: '1'
 show_date: true
 share: false
+weight: 40
 ---
 
 ### Bachelor study programmes

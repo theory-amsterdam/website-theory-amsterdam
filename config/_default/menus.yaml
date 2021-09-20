@@ -3,25 +3,26 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
   # - name: News
   #   url: post
   #   weight: 20
-  - name: People
-    url: people
-    weight: 30
-  - name: Institutes
-    url: institutes
-    weight: 35
-  - name: Seminars
-    url: seminars
-    weight: 38
   # - name: Events
   #   url: event
   #   weight: 40
+
+main:
+  - name: People
+    url: '#people'
+    weight: 30
+  - name: Seminars
+    url: '#seminars'
+    weight: 38
   - name: Teaching
-    url: teaching
+    url: '#teaching'
     weight: 50
+  - name: Institutes
+    url: institutes
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
