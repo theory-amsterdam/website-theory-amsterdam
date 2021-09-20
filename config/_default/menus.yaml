@@ -23,6 +23,9 @@ main:
   - name: Institutes
     url: institutes
     weight: 60
+  - name: History
+    url: history
+    weight: 70
   - name: Contact
     url: contact
-    weight: 70
+    weight: 80

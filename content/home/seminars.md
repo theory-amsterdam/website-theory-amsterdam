@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 
-The following TCS seminars are held regularly at various institutions in Amsterdam:
+The following TCS seminars are held regularly at various places in Amsterdam (for the time being also online):
 - [QuSoft seminar](https://www.qusoft.org/events2-directory-2/), Fridays 11.00 at CWI
 - [Computational Social Choice seminar](https://staff.fnwi.uva.nl/u.endriss/seminar/), Thursdays 16.00 at ILLC
 - [VU Theoretical Computer Science seminar](https://www.cs.vu.nl/~tcs/seminar),<br>Fridays 15.30 at the VU

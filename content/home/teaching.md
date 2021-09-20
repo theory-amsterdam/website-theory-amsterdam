@@ -27,3 +27,7 @@ weight: 40
 - [UvA MSc Logic](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-opleiding/opleiding/6687/243279), [Logic and Computation track](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-opleiding/opleiding/6687/243285)
 - [UvA/VU MSc Computer Science](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-opleiding/opleiding/6699/243415), [Foundations of Computing and Concurrency](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-opleiding/opleiding/6699/243421)
 - [UvA/VU MSc Computational Science](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-opleiding/opleiding/6702/243466)
+
+
+### Core BSc Courses
+to come
