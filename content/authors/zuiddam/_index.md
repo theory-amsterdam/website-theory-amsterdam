@@ -7,9 +7,9 @@ bio: My research is on various topics in computational complexity theory,
   quantum information theory and discrete mathematics. A unifying theme in my
   work is the interaction between amortization, symmetry and approximation.
 interests:
-  - Computational complexity
-  - Quantum Information theory
-  - Discrete Mathematics
+  - computational complexity
+  - quantum information theory
+  - discrete mathematics
 social:
   - icon: link
     icon_pack: fas
@@ -37,7 +37,7 @@ education:
     - course: MSc Mathematics, (cum laude)
       institution: University of Amsterdam
       year: 2014
-    - course: 
+    - course:
         BSc Mathematics, (cum laude);
         BSc Computer Science, (cum laude)
       institution: University of Amsterdam

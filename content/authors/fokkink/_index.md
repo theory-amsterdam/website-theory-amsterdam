@@ -6,14 +6,11 @@ bio: My research is on various topics in computational complexity theory,
   quantum information theory and discrete mathematics. A unifying theme in my
   work is the interaction between amortization, symmetry and approximation.
 interests:
-  - Protocol verification
-  - model checking
-  - safety-critical systems 
+  - concurrency theory
+  - protocol verification
+  - supervisory control
   - distributed algorithms
-  - supervisory control synthesis
   - executable models of biological systems
-  - process algebra
-  - structural operational semantics
 social:
   - icon: link
     icon_pack: fas

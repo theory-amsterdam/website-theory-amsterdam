@@ -6,7 +6,10 @@ bio: My research is on various topics in computational complexity theory,
   quantum information theory and discrete mathematics. A unifying theme in my
   work is the interaction between amortization, symmetry and approximation.
 interests:
-  - Mathematics and Quantum
+  - additive combinatrics
+  - geometric functional analysis
+  - quantum information
+  - coding theory
 social:
   - icon: link
     icon_pack: fas

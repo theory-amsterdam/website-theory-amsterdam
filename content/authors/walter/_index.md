@@ -6,7 +6,7 @@ interests:
   - quantum information
   - optimization
   - representation theory
-  - invariant theory
+  - mathematical physics
 social:
   - icon: link
     icon_pack: fas

@@ -21,8 +21,8 @@ user_groups:
   - UvA Informatics
 
 interests:
-  - Process Algebra
-  - Meadows
-  - Term rewriting
+  - process algebra
+  - meadows
+  - term rewriting
 
 ---

@@ -3,8 +3,8 @@ title: Jo Ellis-Monaghan
 lastname: Ellis-Monaghan
 role: Full Professor
 interests:
-  - Algebraic Combinatorics
-  - Applied Graph Theory
+  - algebraic combinatorics
+  - applied graph theory
 social:
   - icon: link
     icon_pack: fas

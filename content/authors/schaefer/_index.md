@@ -4,8 +4,10 @@ lastname: Schäfer
 role: Group Leader CWI, Full Professor
 bio: My core expertise is in the areas of combinatorial optimization and algorithmic game theory. A large part of my research is concerned with the development of efficient algorithms for optimization problems. Another part is about studying the impact of strategic behavior in large distributed systems.
 interests:
-  - Combinatorial optimization
-  - Algorithmic Game Theory
+  - algorithmic game theory
+  - combinatorial optimization
+  - algorithms
+  - complexity
 social:
   - icon: link
     icon_pack: fas

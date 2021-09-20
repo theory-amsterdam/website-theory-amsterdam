@@ -22,9 +22,9 @@ user_groups:
   - UvA Logic, Language and Computation
 
 interests:
-  - Artificial Intelligence
-  - Collective Decision Making
-  - Computational Social Choice
+  - artificial intelligence
+  - collective decision making
+  - computational social choice
 
 ---
 I'm Professor of Artificial Intelligence and Collective Decision Making at the Institute for Logic, Language and Computation (ILLC) at the University of Amsterdam, where I lead the COMSOC Group. My research concerns the use of formal methods in AI, specifically in multiagent systems and knowledge representation. I'm particularly interested in problems at the interface of AI with economics and political science, and much of my work in this area falls under the heading of computational social choice.

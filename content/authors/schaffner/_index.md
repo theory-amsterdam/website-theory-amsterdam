@@ -28,9 +28,9 @@ user_groups:
   - QuSoft
 
 interests:
-  - Quantum Cryptography
-  - Cryptographic Protocols
-  - (Quantum) Information Theory
+  - quantum cryptography
+  - cryptographic protocols
+  - (quantum) information theory
 
 
 ---

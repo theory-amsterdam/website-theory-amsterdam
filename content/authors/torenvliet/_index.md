@@ -24,10 +24,10 @@ user_groups:
   - QuSoft
 
 interests:
-  - Algorithms and Complexity
-  - Kolmogorov Complexity
-  - Machine learning
-  - Databases
+  - algorithms and complexity
+  - Kolmogorov complexity
+  - machine learning
+  - databases
 ---
 Leen studied mathematics (and electronics) at the University of Amsterdam (UvA). He helped set up the first Computer Science curriculum at that university at the beginning of the 1980's. He got his PhD from the UvA in Mathematics and Sciences (in particular computer science) in September 1986 and was subsequenty appointed assistant professor and promoted to associate professor in 2001, which is his current position.
 

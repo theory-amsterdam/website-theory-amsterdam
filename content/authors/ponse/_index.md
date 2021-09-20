@@ -21,8 +21,8 @@ user_groups:
   - UvA Informatics
 
 interests:
-  - Process Algebra
-  - Program and Thread Algebra
-  - Short-Circuit Logic
+  - process algebra
+  - program and thread algebra
+  - short-circuit logic
 
 ---

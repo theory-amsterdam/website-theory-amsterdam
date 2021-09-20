@@ -25,9 +25,9 @@ user_groups:
   - UvA Logic, Language and Computation
 
 interests:
-  - Parameterized Complexity theory
-  - Knowledge Representation & Reasoning
-  - Computational Logic
+  - parameterized complexity theory
+  - knowledge representation & reasoning
+  - computational logic
 
 ---
 My research interests include the application of methods from theoretical computer science—in particular methods from (parameterized) complexity theory—to problems in artificial intelligence (AI), knowledge representation & reasoning (KRR), and computational logic.

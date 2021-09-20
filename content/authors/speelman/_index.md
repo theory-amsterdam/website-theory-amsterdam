@@ -25,6 +25,9 @@ user_groups:
   - QuSoft
 
 interests:
-  - Quantum Cryptography
+  - quantum information
+  - complexity theory
+  - quantum cryptography
+  - quantum communication
 
 ---

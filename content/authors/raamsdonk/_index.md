@@ -17,9 +17,14 @@ organizations:
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/
 
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Researchers
   - VU Theoretical Computer Science
 highlight_name: false
+
+interests:
+  - logic
+  - rewriting
+  
 ---

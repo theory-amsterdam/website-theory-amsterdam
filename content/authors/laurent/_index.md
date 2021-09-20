@@ -3,9 +3,9 @@ title: Monique Laurent
 lastname: Laurent
 role: Senior Researcher, Full Professor
 interests:
-  - discrete mathematics
-  - Combinatorial optimization
-  - Semidefinite Programming
+  - combinatorial optimization
+  - semidefinite programming
+  - combinatorics
 social:
   - icon: link
     icon_pack: fas

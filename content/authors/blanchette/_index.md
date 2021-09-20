@@ -3,8 +3,7 @@ title: Jasmin Blanchette
 lastname: Blanchette
 role: Assistant Professor
 interests:
-  - first-order automatic theorem provers and model finders
-  - foundational definitional mechanisms for (co)datatypes and (co)recursive formulas
+  - interactive and automatic theorem provers
 social:
   - icon: link
     icon_pack: fas

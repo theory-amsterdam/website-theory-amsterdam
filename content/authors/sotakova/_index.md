@@ -4,9 +4,9 @@ lastname: Sotakova
 role: PhD student
 bio: Not displayed?
 interests:
-  - post-quantum cryptography, especially isogeny-based cryptography
+  - isogeny-based cryptography
   - computational number theory
-  - quantum algorithms used for cryptanalysis
+  - quantum cryptanalysis
 social:
   - icon: link
     icon_pack: fas

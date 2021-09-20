@@ -4,13 +4,10 @@ lastname: Dadush
 role: senior researcher
 bio: My core expertise is in the areas of combinatorial optimization and algorithmic game theory. A large part of my research is concerned with the development of efficient algorithms for optimization problems. Another part is about studying the impact of strategic behavior in large distributed systems.
 interests:
-  - Lattice Algorithms and the Geometry of Numbers
-  - Linear Programming and the Simplex Method
-  - Extended Formulations
-  - Algorithms for Integer Programming, Cutting Plane Methods
-  - Convex Optimization
-  - Asymptotic Convex Geometry
-
+  - convex optimization
+  - lattice algorithms
+  - algorithms for integer programming
+  - convex geometry
 social:
   - icon: link
     icon_pack: fas
