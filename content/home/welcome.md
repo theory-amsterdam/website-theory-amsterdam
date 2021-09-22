@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Theory of Computing in Amsterdam
-hero_media: theory.amsterdam.2.png
+hero_media: theory.amsterdam.3.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
