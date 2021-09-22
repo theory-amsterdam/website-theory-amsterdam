@@ -19,4 +19,4 @@ design:
 
 <br>
 
-This website provides an overview of the academic research in theoretical computer science which is carried out in Amsterdam.
+This website provides an overview of the academic research in theoretical computer science carried out in Amsterdam.

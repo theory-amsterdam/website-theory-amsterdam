@@ -27,7 +27,3 @@ design:
   show_social: true
   show_organizations: false
 ---
-#### Institutions:
-UvA: [University of Amsterdam](https://uva.nl) ;
-CWI: [Centrum Wiskunde & Informatica](https://cwi.nl) ;
-VU: [Vrije Universiteit](https://vu.nl)

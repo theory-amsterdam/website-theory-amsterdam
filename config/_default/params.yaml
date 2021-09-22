@@ -15,15 +15,15 @@ font_size: L
 site_type: Theory of Computing Amsterdam
 local_business_type: ''
 org_name: 'Theory of Computing Amsterdam'
-description: The website of the theory of computing group in Amsterdam.
+description: Overview website of academic research in theoretical computer science carried out in Amsterdam, The Netherlands.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: contact@theory.amsterdam
-phone: 888 888 88 88
+email: c.schaffner@uva.nl
+#phone: 888 888 88 88
 address:
-  street: Lab 42, Science Park
+  street: Science Park
   city: Amsterdam
   region: NH
   postcode: '1090 GB'
@@ -56,7 +56,7 @@ main_menu:
 
 # Localization
 
-date_format: '2 Aug 2006'
+date_format: '02 Jan 2006'
 time_format: '15:04'
 address_format: nl
 

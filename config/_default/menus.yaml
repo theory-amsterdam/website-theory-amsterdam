@@ -23,6 +23,9 @@ main:
   - name: Institutes
     url: institutes
     weight: 60
+  - name: Jobs
+    url: post
+    weight: 65
   - name: History
     url: history
     weight: 70

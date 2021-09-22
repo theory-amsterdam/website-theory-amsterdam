@@ -3,9 +3,10 @@ title: New website created
 date: 2021-09-12
 image:
   focal_point: "top"
+authors: [schaffner]
 ---
 
-The new website is live!
+The new website is still under construction, but slowly getting there...
 
 <!--more-->
 
