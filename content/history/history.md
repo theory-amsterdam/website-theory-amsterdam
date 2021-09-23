@@ -32,6 +32,34 @@ Edsger Wybe Dijkstra (11 May 1930 – 6 August 2002) was a Dutch computer scient
 Get more information from the [CWI Dijkstra Fellowships](https://www.cwi.nl/about/history/e-w-dijkstra-brilliant-colourful-and-opinionated)
 <br clear="left">
 
+## Jaco de Bakker
+from [Wikipedia](https://nl.wikipedia.org/wiki/Jaco_de_Bakker):
+Jacobus Willem (Jaco) de Bakker (Ede, 7 maart 1939 – Amsterdam, 13 december 2012) was een Nederlands theoretisch informaticus en hoogleraar aan de Vrije Universiteit Amsterdam.
+
+De Bakker studeerde wiskunde aan de Vrije Universiteit en de Universiteit van Amsterdam. Bij die laatste promoveerde hij in 1967 onder Aad van Wijngaarden op het proefschrift: Formal Description of Programming Languages: with an application to the definition of ALGOL 60. Al sinds 1964 was hij als wetenschappelijk medewerker werkzaam op het toenmalige Mathematisch Centrum (MC) te Amsterdam (vanaf 1984 het Centrum Wiskunde & Informatica). Hij was vervolgens hoofd van de afdeling informatica, gaf leiding aan het Cluster Software Engineering en was sinds 2002 CWI Fellow. In 1973 werd hij daarnaast hoogleraar informatica aan de Vrije Universiteit, waar hij in 2002 met emeritaat ging.
+
+Als informaticus hield De Bakker zich met name bezig met de mathematische semantiek van programmeertalen (op dit gebied gold hij als een pionier) en de bewijstheorie (correctheid van het programmeren). Hij was in 1972 een van de grondleggers van de European Association for Theoretical Computer Science (EATCS), waarvan hij van 1972 tot 1982 vice-voorzitter was en tot 1988 lid van het bestuur.
+<br clear="left">
+
+## Jan Karel Lenstra
+<img src="jklenstra.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
+from [Wikipedia](https://en.wikipedia.org/wiki/Jan_Karel_Lenstra): Jan Karel Lenstra (born 19 December 1947, in Zaandam) is a Dutch mathematician and operations researcher, known for his work on scheduling algorithms, local search, and the travelling salesman problem.
+
+Lenstra received his Ph.D. from the University of Amsterdam in 1976, advised by Gijsbert de Leve. He then became a researcher at the Centrum Wiskunde & Informatica, where he remained until 1989. After taking positions at the Eindhoven University of Technology (where he became Dean of the Faculty of Mathematics and Computer Science) and the Georgia Institute of Technology, he returned to CWI as its director in 2003. He stepped down in 2011, and at that time became a CWI Fellow.
+<br clear="left">
+
+## Hendrik Lenstra
+<img src="hlenstra.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
+Hendrik Willem Lenstra Jr. (born 16 April 1949, Zaandam) is a Dutch mathematician. Lenstra received his doctorate from the University of Amsterdam in 1977 and became a professor there in 1978. In 1987 he was appointed to the faculty of the University of California, Berkeley; starting in 1998, he divided his time between Berkeley and the University of Leiden, until 2003, when he retired from Berkeley to take a full-time position at Leiden.
+
+Lenstra has worked principally in computational number theory. He is well known for:
+- Co-discovering of the [Lenstra–Lenstra–Lovász lattice basis reduction algorithm](https://en.wikipedia.org/wiki/Lenstra%E2%80%93Lenstra%E2%80%93Lov%C3%A1sz_lattice_basis_reduction_algorithm) (in 1982);
+- Developing an polynomial-time algorithm for solving a feasibility Integer programming problem when the number of variables is fixed (in 1983);
+- Discovering the [elliptic curve factorization method](https://en.wikipedia.org/wiki/Lenstra_elliptic-curve_factorization) (in 1987);
+- Computing all solutions to the [inverse Fermat equation](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem#Inverse_Fermat_equation) (in 1992);
+- The [Cohen–Lenstra heuristics](https://en.wikipedia.org/wiki/Class_number_problem#Real_quadratic_fields) - a set of precise conjectures about the structure of class groups of quadratic fields.
+<br clear="left">
+
 
 ## Jan Bergstra
 <img src="bergstra.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
@@ -71,6 +99,7 @@ Vitányi has worked on cellular automata, computational complexity, distributed 
 Together with Ming Li he pioneered theory and applications of Kolmogorov complexity. They co-authored the textbook An Introduction to Kolmogorov Complexity and Its Applications, parts of which have been translated into Chinese, Russian and Japanese.
 <br clear="left">
 
+
 ## Lex Schrijver
 from [wikipedia](https://en.wikipedia.org/wiki/Alexander_Schrijver):
 <img src="schrijver.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
@@ -81,6 +110,18 @@ Schrijver earned his Ph.D. in 1977 from the Vrije Universiteit in Amsterdam, und
 In 2005 Schrijver won the Spinoza Prize of the NWO, the highest scientific award in the Netherlands, for his research in combinatorics and algorithms.
 <br clear="left">
 
+## Jan Willem Klop
+from [wikipedia](https://en.wikipedia.org/wiki/Jan_Willem_Klop):
+<img src="klop.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
+Jan Willem Klop (born 1945) is a professor of applied logic at Vrije Universiteit in Amsterdam. He holds a Ph.D. in mathematical logic from Utrecht University. Klop is known for his work on the Algebra of Communicating Processes, co-author of TeReSe and his fixed point combinator.
+
+Yk = (L L L L L L L L L L L L L L L L L L L L L L L L L L)
+where
+
+L = λabcdefghijklmnopqstuvwxyzr. (r (t h i s i s a f i x e d p o i n t c o m b i n a t o r))
+
+Klop became a member of the Royal Netherlands Academy of Arts and Sciences in 2003.
+<br clear="left">
 
 
 ## Krysztof Apt

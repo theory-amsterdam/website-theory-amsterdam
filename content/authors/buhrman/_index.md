@@ -2,9 +2,6 @@
 title: Harry Buhrman
 lastname: Buhrman
 role: Distinguished Research Professor, Director
-bio: My research is on various topics in computational complexity theory,
-  quantum information theory and discrete mathematics. A unifying theme in my
-  work is the interaction between amortization, symmetry and approximation.
 interests:
   - quantum computing
   - complexity theory
@@ -39,5 +36,8 @@ user_groups:
 highlight_name: false
 ---
 
+Harry Buhrman (born 1966) is a Dutch computer scientist, currently Professor of algorithms, complexity theory, and quantum computing at the University of Amsterdam (UvA), group leader of the Quantum Computing Group at the Centrum Wiskunde & Informatica (CWI), and executive director of QuSoft, the Dutch research center for quantum software.
 
-I am a researcher at the Algorithms and Complexity group of CWI (Dutch Centre for Mathematics and Computer Science) and part-time full professor at the ILLC of the University of Amsterdam. I'm also a member of QuSoft. A long time ago I was a PhD student at CWI and ILLC, and then a postdoc at UC Berkeley.
+Buhrman research interests are on Quantum Computing, Quantum Information, Quantum Cryptography, Computational complexity theory, Kolmogorov Complexity, and Computational Biology.
+
+Buhrman contributed substantially to the quantum analogue of Communication complexity, exhibiting an advantage of the use of qubits in distributed information-processing tasks. Although quantum entanglement cannot be used to replace communication, can be used to reduce the communication exponentially.
