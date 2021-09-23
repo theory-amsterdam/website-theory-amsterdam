@@ -30,7 +30,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
   - CWI Networks and Optimization
   - UvA Logic, Language and Computation
 highlight_name: false

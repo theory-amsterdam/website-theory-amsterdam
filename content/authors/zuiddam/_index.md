@@ -45,7 +45,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
   - UvA Korteweg de Vries
   - QuSoft
 highlight_name: false

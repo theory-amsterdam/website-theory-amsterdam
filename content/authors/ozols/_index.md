@@ -20,7 +20,7 @@ organizations:
     url: https://www.qusoft.org/
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
   - UvA Logic, Language and Computation
   - QuSoft
 

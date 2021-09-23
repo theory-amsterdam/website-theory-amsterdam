@@ -21,7 +21,7 @@ organizations:
     url: https://www.illc.uva.nl/
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
   - UvA Logic, Language and Computation
 
 interests:

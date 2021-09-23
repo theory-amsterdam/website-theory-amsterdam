@@ -19,12 +19,12 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Faculty
   - VU Theoretical Computer Science
 highlight_name: false
 
 interests:
   - logic
   - rewriting
-  
+
 ---

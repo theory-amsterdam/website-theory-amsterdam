@@ -17,7 +17,7 @@ organizations:
     url: https://ivi.uva.nl
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
   - UvA Informatics
 
 interests:

@@ -31,7 +31,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
   - VU Theoretical Computer Science
 highlight_name: false
 ---

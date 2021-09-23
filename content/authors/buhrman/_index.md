@@ -29,7 +29,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
   - CWI Algorithms and Complexity
   - UvA Logic, Language and Computation
   - QuSoft

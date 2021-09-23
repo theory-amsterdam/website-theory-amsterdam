@@ -22,7 +22,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
   - UvA Korteweg de Vries
 highlight_name: false
 ---
