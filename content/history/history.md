@@ -34,6 +34,7 @@ Get more information from the [CWI Dijkstra Fellowships](https://www.cwi.nl/abou
 
 ## Jaco de Bakker
 from [Wikipedia](https://nl.wikipedia.org/wiki/Jaco_de_Bakker):
+<img src="debakker.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
 Jacobus Willem (Jaco) de Bakker (Ede, 7 maart 1939 – Amsterdam, 13 december 2012) was een Nederlands theoretisch informaticus en hoogleraar aan de Vrije Universiteit Amsterdam.
 
 De Bakker studeerde wiskunde aan de Vrije Universiteit en de Universiteit van Amsterdam. Bij die laatste promoveerde hij in 1967 onder Aad van Wijngaarden op het proefschrift: Formal Description of Programming Languages: with an application to the definition of ALGOL 60. Al sinds 1964 was hij als wetenschappelijk medewerker werkzaam op het toenmalige Mathematisch Centrum (MC) te Amsterdam (vanaf 1984 het Centrum Wiskunde & Informatica). Hij was vervolgens hoofd van de afdeling informatica, gaf leiding aan het Cluster Software Engineering en was sinds 2002 CWI Fellow. In 1973 werd hij daarnaast hoogleraar informatica aan de Vrije Universiteit, waar hij in 2002 met emeritaat ging.
