@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/JSotakova
 organizations:
-  - name: UvA Logic, Language and Computation
+  - name: UvA ILLC
     url: https://www.illc.uva.nl
   - name: QuSoft
     url: https://www.qusoft.org/
@@ -27,7 +27,7 @@ email: ""
 superuser: true
 user_groups:
   - PhD students
-  - UvA Logic, Language and Computation
+  - UvA ILLC
   - QuSoft
 highlight_name: false
 ---

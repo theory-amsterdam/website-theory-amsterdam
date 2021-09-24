@@ -46,7 +46,7 @@ email: ""
 superuser: true
 user_groups:
   - Faculty
-  - UvA Korteweg de Vries
+  - UvA Korteweg-de Vries Institute for Mathematics
   - QuSoft
 highlight_name: false
 ---

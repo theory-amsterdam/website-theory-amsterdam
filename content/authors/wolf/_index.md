@@ -21,7 +21,7 @@ social:
 organizations:
   - name: CWI Algorithms and Complexity
     url: https://www.cwi.nl/research/groups/algorithms-and-complexity
-  - name: UvA Logic, Language and Computation
+  - name: UvA ILLC
     url: https://www.cwi.nl
   - name: QuSoft
     url: https://www.qusoft.org/
@@ -31,7 +31,7 @@ superuser: true
 user_groups:
   - Faculty
   - CWI Algorithms and Complexity
-  - UvA Logic, Language and Computation
+  - UvA ILLC
   - QuSoft
 highlight_name: false
 ---

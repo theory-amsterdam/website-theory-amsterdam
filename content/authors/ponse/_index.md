@@ -13,12 +13,12 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=v709bGQAAAAJ
 organizations:
-  - name: UvA Informatics
+  - name: UvA Informatics Institute
     url: https://ivi.uva.nl
 superuser: true
 user_groups:
   - Faculty
-  - UvA Informatics
+  - UvA Informatics Institute
 
 interests:
   - process algebra

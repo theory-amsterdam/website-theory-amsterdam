@@ -11,10 +11,9 @@ font: native
 font_size: L
 
 # SEO
-
-site_type: Theory of Computing Amsterdam
+site_type: Theoretical Computer Science (TCS) in Amsterdam
 local_business_type: ''
-org_name: 'Theory of Computing Amsterdam'
+org_name: 'Theory of Computer Science Amsterdam'
 description: Overview website of academic research in theoretical computer science carried out in Amsterdam, The Netherlands.
 twitter: ''
 

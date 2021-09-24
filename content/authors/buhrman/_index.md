@@ -1,7 +1,7 @@
 ---
 title: Harry Buhrman
 lastname: Buhrman
-role: Distinguished Research Professor, Director
+role: Distinguished Research Professor, Director QuSoft
 interests:
   - quantum computing
   - complexity theory
@@ -21,7 +21,7 @@ social:
 organizations:
   - name: CWI Algorithms and Complexity
     url: https://www.cwi.nl/research/groups/algorithms-and-complexity
-  - name: UvA Logic, Language and Computation
+  - name: UvA ILLC
     url: https://www.illc.uva.nl
   - name: QuSoft
     url: https://www.qusoft.org/
@@ -31,7 +31,7 @@ superuser: true
 user_groups:
   - Faculty
   - CWI Algorithms and Complexity
-  - UvA Logic, Language and Computation
+  - UvA ILLC
   - QuSoft
 highlight_name: false
 ---

@@ -17,20 +17,24 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0002-1754-1415
 organizations:
-  - name: UvA Logic, Language and Computation
+  - name: UvA ILLC
     url: https://www.illc.uva.nl/
   - name: QuSoft
     url: https://www.qusoft.org/
 superuser: true
 user_groups:
   - Faculty
-  - UvA Logic, Language and Computation
+  - UvA ILLC
   - QuSoft
 
 interests:
   - quantum cryptography
   - cryptographic protocols
   - (quantum) information theory
-
-
 ---
+
+My group forms the core of the QuSoft research line "Cryptography in a Quantum World".
+Since September 2020, I am the chairman of [Quantum.Amsterdam](https://quantum.amsterdam/), an innovation hub for quantum software, technology and applications.
+I am the chairman of the [Talent & Outreach Committee](http://quantumsc.nl/ABOUT-QSC2/Talent-Outreach-committee/) of the [Quantum Software Consortium (QSC)](https://quantumsc.nl/).
+
+My research interests are Quantum Cryptography, Cryptographic Protocols, and (Quantum) Information Theory.

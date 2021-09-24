@@ -14,14 +14,14 @@ social:
   icon_pack: ai
   link: https://scholar.google.nl/citations?user=hX_ToHkAAAAJ
 organizations:
-  - name: UvA Informatics
+  - name: UvA Informatics Institute
     url: https://ivi.uva.nl
   - name: QuSoft
     url: https://www.qusoft.org/
 superuser: true
 user_groups:
   - Faculty
-  - UvA Informatics
+  - UvA Informatics Institute
   - QuSoft
 
 interests:

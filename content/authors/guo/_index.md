@@ -26,7 +26,7 @@ email: ""
 superuser: true
 user_groups:
   - Faculty
-  - UvA Korteweg de Vries
+  - UvA Korteweg-de Vries Institute for Mathematics
 highlight_name: false
 ---
 I am currently an assistant professor in Discrete Mathematics at the Korteweg-de Vries Institute for Mathematics, at University of Amsterdam.

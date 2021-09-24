@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: '*under construction* Theory of Computing Amsterdam' # Website name
-baseurl: 'https://theoryofcomputing.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: '*under construction* Theory.Amsterdam' # Website name
+baseurl: 'https://theory.amsterdam' # Website URL
+# copyright: 'This site is powered by <a href="https://netlify.com">Netlify</a>' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -77,3 +77,5 @@ related:
       weight: 100
     - name: categories
       weight: 70
+power_ups:
+  hide_published_with_footer: true

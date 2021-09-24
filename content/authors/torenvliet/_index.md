@@ -13,14 +13,14 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=z8sAp8EAAAAJ
 organizations:
-  - name: UvA Logic, Language and Computation
+  - name: UvA ILLC
     url: https://www.illc.uva.nl/
   - name: QuSoft
     url: https://www.qusoft.org/
 superuser: true
 user_groups:
   - Faculty
-  - UvA Logic, Language and Computation
+  - UvA ILLC
   - QuSoft
 
 interests:

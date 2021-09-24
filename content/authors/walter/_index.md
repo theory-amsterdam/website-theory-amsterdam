@@ -28,8 +28,8 @@ email: ""
 superuser: true
 user_groups:
   - Faculty
-  - UvA Korteweg de Vries
-  - UvA Physics
+  - UvA Korteweg-de Vries Institute for Mathematics
+  - UvA Institute of Physics
   - QuSoft
 highlight_name: false
 ---

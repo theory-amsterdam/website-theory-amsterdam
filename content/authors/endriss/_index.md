@@ -14,12 +14,12 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qKmgGU0AAAAJ
 organizations:
-  - name: UvA Logic, Language and Computation
+  - name: UvA ILLC
     url: https://www.illc.uva.nl/
 superuser: true
 user_groups:
   - Faculty
-  - UvA Logic, Language and Computation
+  - UvA ILLC
 
 interests:
   - artificial intelligence

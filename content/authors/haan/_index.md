@@ -17,12 +17,12 @@ social:
   icon_pack: ai
   link: https://dblp.uni-trier.de/pid/00/10827.html
 organizations:
-  - name: UvA Logic, Language and Computation
+  - name: UvA ILLC
     url: https://www.illc.uva.nl/
 superuser: true
 user_groups:
   - Faculty
-  - UvA Logic, Language and Computation
+  - UvA ILLC
 
 interests:
   - parameterized complexity theory
