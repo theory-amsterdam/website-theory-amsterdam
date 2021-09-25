@@ -4,4 +4,4 @@ This website provides an overview of the academic research in theoretical comput
 
 initiated by Christian Schaffner in September 2021
 
-built on Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
+built from [Wowchemy's Research Group Template](https://github.com/wowchemy/starter-hugo-research-group) for [Hugo](https://github.com/gohugoio/hugo)
