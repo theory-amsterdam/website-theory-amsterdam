@@ -125,7 +125,7 @@ Klop became a member of the Royal Netherlands Academy of Arts and Sciences in 20
 <br clear="left">
 
 
-## Krysztof Apt
+## Krzysztof Apt
 From the 2010 biographical note [Krzysztof Apt](https://homepages.cwi.nl/~apt/)'s homepage:
 <img src="apt.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
 Currently, the main interest of Apt is game theory and mechanism design. These are two areas of theoretical economics but in the advent of internet economics they are nowadays also of relevance for computer science. "It is fascinating to see how quickly the borders between computer science and economics melt. Some articles can now be submitted either to a conference on Artificial Intelligence or electronic commerce, or to an economic journal. And some, like our recent work on distributed mechanism design, draw on ideas from both disciplines."
