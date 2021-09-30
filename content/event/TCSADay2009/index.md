@@ -1,18 +1,17 @@
 ---
-title: TCSA Day 2010
+title: TCSA Day 2009
 
 event: Theoretical Computer Science Amsterdam (TCS) Day
-event_url: https://event.cwi.nl/qc/tcsa10/
 
-location: CWI
+location: VU
 
 # summary:
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2010-10-29T10:00:00Z"
-date_end: "2010-10-29T17:00:00Z"
+date: "2009-10-30T11:00:00Z"
+date_end: "2009-10-30T17:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

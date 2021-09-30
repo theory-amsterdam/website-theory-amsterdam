@@ -1,8 +1,8 @@
 ---
-title: TCSA Day 2011
+title: TCSA Day 2013
 
 event: Theoretical Computer Science Amsterdam (TCS) Day
-event_url: https://event.cwi.nl/qc/tcsa10/
+event_url: https://event.cwi.nl/qc/tcsa13/
 
 location: CWI
 
@@ -11,8 +11,8 @@ location: CWI
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2011-10-28T9:30:00Z"
-date_end: "2011-10-28T14:45:00Z"
+date: "2013-11-01T14:00:00Z"
+date_end: "2013-11-01T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

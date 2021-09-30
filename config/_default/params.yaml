@@ -29,9 +29,9 @@ address:
   country: Netherlands
   country_code: NL
 coordinates:
-  latitude: '52.3563913'
-  longitude: '4.952'
-directions: Enter LAB42
+  latitude: '52.3548'
+  longitude: '4.9545'
+#directions: Enter LAB42
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'

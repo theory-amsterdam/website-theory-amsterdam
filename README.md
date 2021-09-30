@@ -7,7 +7,7 @@ initiated by Christian Schaffner in September 2021
 
 built from [Wowchemy's Research Group Template](https://github.com/wowchemy/starter-hugo-research-group) for [Hugo](https://github.com/gohugoio/hugo)
 
-## Building this conference site from scratch
+## Building this website from scratch locally
 
 1. Install [Hugo](https://gohugo.io)
 2. Clone this repo:
