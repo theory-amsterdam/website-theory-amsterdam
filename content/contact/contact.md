@@ -28,3 +28,4 @@ content:
 design:
   columns: '1'
 ---
+Site initiated and maintained by [Christian Schaffner](/author/christian-schaffner).
