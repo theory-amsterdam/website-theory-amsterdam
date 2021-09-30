@@ -11,7 +11,7 @@ social:
     link: https://sites.google.com/site/joellismonaghan/
   - icon: envelope
     icon_pack: fas
-    link: mailto:joellismonaghan@gmail.com
+    link: mailto:j.a.ellismonaghan@uva.nl
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Y5nowFoAAAAJ
