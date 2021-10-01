@@ -10,6 +10,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:b.r.m.gattinger@uva.nl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2498-5073
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=6_WdCF4AAAAJ
@@ -25,7 +28,8 @@ user_groups:
   - UvA ILLC
 
 interests:
-  - logic
+  - epistemic planning
+  - modal logic
   - model checking
   - functional programming 
 
