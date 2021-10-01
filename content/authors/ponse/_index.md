@@ -5,7 +5,7 @@ role: Associate Professor
 social:
 - icon: link
   icon_pack: fas
-  link: https://staff.fnwi.uva.nl/a.ponse
+  link: https://staff.fnwi.uva.nl/a.ponse/
 - icon: envelope
   icon_pack: fas
   link: mailto:a.ponse@uva.nl
