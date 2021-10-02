@@ -9,7 +9,8 @@ built from [Wowchemy's Research Group Template](https://github.com/wowchemy/star
 
 ## Building this website from scratch locally
 
-1. Install [Hugo](https://gohugo.io)
+1. Install [Hugo and its dependencies](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
+
 2. Clone this repo:
 
 ```bash
