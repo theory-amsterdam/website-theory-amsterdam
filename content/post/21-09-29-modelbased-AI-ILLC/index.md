@@ -49,7 +49,7 @@ We offer a temporary employment contract for a period of two years, preferably s
 
 The gross monthly salary will range from €3,746 to €5,127 (scale 11), depending on relevant prior experience (assuming you choose a fulltime contract of 38 hours a week). The annual salary will be supplemented with an 8% holiday allowance and an 8.3% end-of-year bonus. A favourable tax agreement, the so-called ‘30% ruling’, may apply to non-Dutch applicants. The [Collective Labour Agreement of Dutch Universities](https://www.vsnu.nl/en_GB/cao-universiteiten.html) applies.
 
-Are you curious about our extensive package of secondary employment benefits like our excellent opportunities for study and development? Then please take a look [here](https://www.uva.nl/en/faculty/faculty-of-science/working-at-the-faculty/working-at-the-faculty-of-science.html).
+Are you curious about our extensive package of secondary employment benefits like our excellent opportunities for study and development? Then please take a look [here](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/working-at-the-faculty/working-at-the-faculty-of-science.html).
 
 ## How to apply?
 [see here](https://www.illc.uva.nl/NewsandEvents/News/Positions/newsitem/13023/Assistant-Professor-in-Model-Based-AI)
