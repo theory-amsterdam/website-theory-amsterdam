@@ -1,7 +1,7 @@
 ---
 title: Jana Sotáková
 lastname: Sotakova
-role: PhD student
+role: PhD Student
 bio: Not displayed?
 interests:
   - isogeny-based cryptography
@@ -26,7 +26,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - PhD students
+  - PhD Students
   - UvA ILLC
   - QuSoft
 highlight_name: false

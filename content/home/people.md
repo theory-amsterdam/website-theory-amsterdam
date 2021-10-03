@@ -18,7 +18,7 @@ content:
   user_groups:
   - Faculty
   - Postdocs
-  - PhD students
+  - PhD Students
   - Visitors
   - Alumni
 design:

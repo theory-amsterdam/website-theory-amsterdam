@@ -1,7 +1,7 @@
 ---
 title: Simon Rey
 lastname: Rey
-role: PhD student
+role: PhD Student
 
 social:
 - icon: link
@@ -22,7 +22,7 @@ organizations:
   url: https://www.illc.uva.nl
 
 user_groups:
-- PhD students
+- PhD Students
 - UvA ILLC
 
 superuser: true
