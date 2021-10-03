@@ -1,7 +1,7 @@
 ---
 title: Daniel Dadush
 lastname: Dadush
-role: senior researcher
+role: Senior Researcher
 bio: My core expertise is in the areas of combinatorial optimization and algorithmic game theory. A large part of my research is concerned with the development of efficient algorithms for optimization problems. Another part is about studying the impact of strategic behavior in large distributed systems.
 interests:
   - convex optimization
