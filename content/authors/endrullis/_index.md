@@ -2,6 +2,7 @@
 title: Jörg Endrullis
 lastname: Endrullis
 role: Assistant Professor
+avatar_filename: avatar
 interests:
   - logic
   - term and graph rewriting
