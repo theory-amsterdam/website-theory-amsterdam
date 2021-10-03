@@ -19,6 +19,7 @@ content:
   - Faculty
   - Postdocs
   - PhD Students
+  - Research Assistants
   - Visitors
   - Alumni
 design:
