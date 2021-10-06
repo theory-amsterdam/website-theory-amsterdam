@@ -126,11 +126,21 @@ Klop became a member of the Royal Netherlands Academy of Arts and Sciences in 20
 
 
 ## Krzysztof Apt
-From the 2010 biographical note [Krzysztof Apt](https://homepages.cwi.nl/~apt/)'s homepage:
+[//]: # "comment: text sent to Chris by Krzysztof himself on 6 Oct 2021"
 <img src="apt.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
-Currently, the main interest of Apt is game theory and mechanism design. These are two areas of theoretical economics but in the advent of internet economics they are nowadays also of relevance for computer science. "It is fascinating to see how quickly the borders between computer science and economics melt. Some articles can now be submitted either to a conference on Artificial Intelligence or electronic commerce, or to an economic journal. And some, like our recent work on distributed mechanism design, draw on ideas from both disciplines."
+Krzysztof R. Apt is a Fellow at CWI in Amsterdam and Affiliated Professor at the University of
+Warsaw. He is also Professor Emeritus at the University of Amsterdam.
 
-Apt is still interested in two areas of research in computer science in which he has been involved in the past twenty five years, namely program verification and constraint programming.
+He earned his PhD degree in mathematics from the Polish Academy of
+Sciences in Warsaw in 1974.  Apt published four books and more than
+hundred thirty articles first in mathematical logic, and subsequently in computer science, and,
+more recently, theoretical economics.  His research in computer science
+has focused on program verification and programming languages, in particular on logic and constraint programming.
+In theoretical economics his research has been concerned with game theory
+and mechanism design.
+
+During his scientific career he held tenure positions in Poland, France, USA, and the Netherlands.
+
 <br clear="left"><br><br>
 
 
