@@ -25,3 +25,7 @@ hugo server
 ```
 
 4. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://theory-amsterdam.netlify.app/ and accessible under https://theory.amsterdam .
+
+## Troubleshooting
+
+This [information] might be useful. Sometimes, you might have to dele Hugo's default cache folder.
