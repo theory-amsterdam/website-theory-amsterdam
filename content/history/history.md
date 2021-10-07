@@ -62,6 +62,17 @@ Lenstra has worked principally in computational number theory. He is well known 
 <br clear="left">
 
 
+## Johan van Benthem
+<img src="benthem.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
+from [Wikipedia](https://en.wikipedia.org/wiki/Johan_van_Benthem_(logician)): Johannes Franciscus Abraham Karel (Johan) van Benthem (born 12 June 1949 in Rijswijk) is a University Professor (universiteitshoogleraar) of logic at the University of Amsterdam at the Institute for Logic, Language and Computation and professor of philosophy at Stanford University (at CSLI). He was awarded the Spinozapremie in 1996[1] and elected a Foreign Fellow of the American Academy of Arts & Sciences in 2015. He is one of the founders of the Institute for Logic, Language and Computation (ILLC).
+
+Van Benthem studied physics (B.Sc. 1969), philosophy (M.A. 1972) and mathematics (M.Sc. 1973) at the University of Amsterdam and received a PhD from the same university under supervision of Martin Löb in 1977. Before becoming University Professor in 2003, he held appointments at the University of Amsterdam (1973–1977), at the University of Groningen (1977–1986), and as a professor at the University of Amsterdam (1986–2003).
+In 1992 he was elected member of the Royal Netherlands Academy of Arts and Sciences.
+
+Van Benthem is known for his research in the area of modal logic. This research has resulted in Van Benthem's theorem, which states that propositional modal logic is the fragment of first-order logic that is invariant under bisimulation. He has also been active in the fields of philosophy of science, logical structures in natural language (generalized quantifiers, categorial grammar, substructural proof theory), dynamic logic and update logic, and applications of logic to game theory, as well as applications of game theory to logic (game semantics). Van Benthem is a member of the group collectively publishing under the pseudonym L. T. F. Gamut. He has also taught in China. He made an effort to encourage and organize international collaboration between Chinese and Western logicians.
+<br clear="left">
+
+
 ## Jan Bergstra
 <img src="bergstra.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
 from [Wikipedia](https://en.wikipedia.org/wiki/Jan_Bergstra): Johannes Aldert "Jan" Bergstra (born 1951) is a Dutch computer scientist. His work has focussed on logic and the theoretical foundations of software engineering, especially on formal methods for system design. He is best known as an expert on algebraic methods for the specification of data and computational processes in general.
@@ -70,10 +81,22 @@ Bergstra held posts at the Institute of Applied Mathematics and Computer Science
 <br clear="left">
 
 ## Peter van Emde Boas
-from [Wikipedia](https://en.wikipedia.org/wiki/Peter_van_Emde_Boas):
+[//]: # "comment: text sent to Chris by Peter himself on 7 Oct 2021"
 <img src="emdeboas.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
-Peter van Emde Boas (born 3 April 1945, Amsterdam) is a Dutch computer scientist and professor at the University of Amsterdam. He gained his doctorate in 1974 under Adriaan van Wijngaarden. The [Van Emde Boas tree](https://en.wikipedia.org/wiki/Van_Emde_Boas_tree) is named after him.
+Peter van Emde Boas (1945) was born and raised in Amsterdam. In 1969 he obtained a master degree in pure mathematics at the University of Amsterdam.
+Subsequently his interest shifted to Theoretical Computer Science, resulting in a PhD on the subject of Abstract Complexity Theory in 1974.  His fields of interest include Complexity Theory, Semantics, Database theory, relations with Symbolic Computational Linguistics, Game Theory and Artificial Intelligence. In the field of Data structures he is known as the discoverer of the [van Emde Boas trees](https://en.wikipedia.org/wiki/Van_Emde_Boas_tree).
+
+After having served in part time positions at the Mathematical Centre/CWI in Amsterdam between 1964 and 1977, he became in 1977 full professor in Mathematical Computer Science at the University of Amsterdam in the departments of Mathematics and Computer Science where he had held a part time position  since 1969. In 1985 he had an eight months sabbatical residence as visiting scientist at IBM San Jose Research Center.
+There are 22 PhD students who graduated under Peters supervision. During his employment at the University he organized many seminars and served for over 20 years chairing the examination board in Computer Science. He retired from this position in 2009, but remains active in the Institute of Logic Language and Computation which he helped to found around 1990 and in the joint Amsterdam Chinese Logic Center at Tsinghua University. He is notorious for the questions he poses during talks and seminars.  After retiring he is working on the connections between classical Chinese strategy, game theory, and logic.
 <br clear="left">
+
+
+## Theo Janssen
+<img src="janssen.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
+from [ILLC Obituary](https://www.illc.uva.nl/NewsandEvents/News/Obituaries/Theo-Janssen-1948-2018-/): Theo Janssen started his study in mathematics at the University of Amsterdam in 1966, obtaining a candidate’s degree in 1969 and a master’s degree in 1975. Starting from 1972, he was also a student assistant in the department of mathematics. From 1975 to 1980, he was a junior scientist in the pure mathematics division of the  Mathematical Centre in Amsterdam on a project connecting computation and natural language, and from 1980 to 1985, he held a position in the department of philosophy. Starting from 1985, Theo became an assistant professor in the newly built department of computer science, joining the theory group of Peter van Emde Boas whose main topics were algorithmics and semantics. This group entered the ILLC officially in 1991, where Theo remained active until his retirement in 2013.
+<br clear="left">
+
+
 
 ## David Chaum
 from [Wikipedia](https://en.wikipedia.org/wiki/David_Chaum):
