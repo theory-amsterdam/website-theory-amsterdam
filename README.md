@@ -17,7 +17,7 @@ built from [Wowchemy's Research Group Template](https://github.com/wowchemy/star
 git clone git@github.com:theory-amsterdam/website-theory-amsterdam.git
 ```
 
-3. It's done. Just start Hugo server to see it live!
+3. It's done. Just start Hugo server to see it live locally at http://localhost:1313/ (or at whatever the hugo server tells you)!
 
 ```bash
 cd website-theory-amsterdam
