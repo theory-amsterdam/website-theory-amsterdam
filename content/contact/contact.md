@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Code of Conduct & Contact
 subtitle:
 
 content:
@@ -28,4 +28,10 @@ content:
 design:
   columns: '1'
 ---
-Site initiated and maintained by [Christian Schaffner](/author/christian-schaffner).
+## Code of Conduct
+Researchers at Dutch universities and knowledge institutes follow the [Netherlands Code of Conduct for Research Integrity](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf).
+The Code of Conduct has been adopted by all universities and has been in force since 1 October 2018.
+
+## Contact
+This website was initiated by [Christian Schaffner](/author/christian-schaffner) in September 2021. Current helping maintainers are
+[Ulle Endriss](/author/ulle-endriss) and [Stacey Jeffery](/author/stacey-jeffery). Suggestions for improvements and [pull requests](https://github.com/theory-amsterdam/website-theory-amsterdam/pulls) are welcome.
