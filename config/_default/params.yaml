@@ -11,10 +11,10 @@ font: native
 font_size: L
 
 # SEO
-site_type: Theoretical Computer Science (TCS) in Amsterdam
+site_type: 'ResearchOrganization'
 local_business_type: ''
-org_name: 'Theory of Computer Science Amsterdam'
-description: Overview website of academic research in theoretical computer science carried out in Amsterdam, The Netherlands.
+org_name: 'Theoretical Computer Science (TCS) in Amsterdam'
+description: 'Overview website of academic research in theoretical computer science (TCS) carried out in Amsterdam, The Netherlands.'
 twitter: ''
 
 # Contact (edit or remove options as required)
