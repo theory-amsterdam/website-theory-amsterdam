@@ -1,5 +1,6 @@
 ---
 title: Events
+draft: true
 
 # View.
 #   1 = List

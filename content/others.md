@@ -1,6 +1,7 @@
 ---
 widget: blank
 headless: true
+draft: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Other Theory sites
