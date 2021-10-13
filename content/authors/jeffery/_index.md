@@ -1,10 +1,8 @@
----
+﻿---
 title: Stacey Jeffery
 lastname: Jeffery
 role: Senior Researcher
-bio: My research is on various topics in computational complexity theory,
-  quantum information theory and discrete mathematics. A unifying theme in my
-  work is the interaction between amortization, symmetry and approximation.
+bio: My research is on the theoretical computer science aspects of quantum computing, with a focus on quantum algorithms and cryptographic protocols.
 interests:
   - quantum algorithms
   - quantum cryptography
