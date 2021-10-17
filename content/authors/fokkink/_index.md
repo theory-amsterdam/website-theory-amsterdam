@@ -29,7 +29,7 @@ organizations:
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/
 
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - VU Theoretical Computer Science

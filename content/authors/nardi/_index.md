@@ -19,7 +19,7 @@ user_groups:
 - Research Assistants
 - UvA ILLC
 
-superuser: true
+superuser: false
 highlight_name: false
 
 interests:

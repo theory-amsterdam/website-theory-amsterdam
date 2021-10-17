@@ -18,7 +18,7 @@ organizations:
     url: https://ivi.uva.nl
   - name: QuSoft
     url: https://www.qusoft.org/
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - UvA Informatics Institute

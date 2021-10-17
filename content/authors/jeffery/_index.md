@@ -23,7 +23,7 @@ organizations:
     url: https://www.qusoft.org/
 
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - CWI Algorithms and Complexity

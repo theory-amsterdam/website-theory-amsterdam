@@ -28,7 +28,7 @@ organizations:
     url: https://www.illc.uva.nl
 
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - CWI Networks and Optimization

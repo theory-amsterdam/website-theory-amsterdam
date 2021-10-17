@@ -25,7 +25,7 @@ organizations:
   - name: QuSoft
     url: https://www.qusoft.org/
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - UvA Korteweg-de Vries Institute for Mathematics

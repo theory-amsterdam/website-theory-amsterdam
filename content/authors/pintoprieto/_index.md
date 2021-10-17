@@ -19,7 +19,7 @@ user_groups:
 - PhD Students
 - UvA ILLC
 
-superuser: true
+superuser: false
 highlight_name: false
 
 interests:

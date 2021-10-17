@@ -22,7 +22,7 @@ user_groups:
 - PhD Students
 - UvA ILLC
 
-superuser: true
+superuser: false
 highlight_name: false
 
 interests:
@@ -33,4 +33,4 @@ interests:
 
 I'm a PhD candidate at the Institute for Logic, Language and Computation (ILLC) under the supervision of Ulle Endriss.
 
-I'm interested in seeing how computer-aided methods from various fields (Knowledge Representation and Reasoning, Constraint Programming, Logic Programming, etc.) can help solving Social Choice related problems. 
+I'm interested in seeing how computer-aided methods from various fields (Knowledge Representation and Reasoning, Constraint Programming, Logic Programming, etc.) can help solving Social Choice related problems.

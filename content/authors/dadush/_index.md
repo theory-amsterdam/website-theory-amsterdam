@@ -23,7 +23,7 @@ organizations:
     url: https://www.cwi.nl/research/groups/networks-and-optimization
 
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - CWI Networks and Optimization

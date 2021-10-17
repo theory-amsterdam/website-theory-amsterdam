@@ -22,7 +22,7 @@ social:
 organizations:
   - name: UvA ILLC
     url: https://www.illc.uva.nl/
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - UvA ILLC
@@ -33,4 +33,3 @@ interests:
 
 ---
 I'm Professor of Artificial Intelligence and Collective Decision Making at the Institute for Logic, Language and Computation (ILLC) at the University of Amsterdam. My research concerns the use of formal methods in AI, specifically in multiagent systems and knowledge representation. I'm particularly interested in problems at the interface of AI with economics and political science, and much of my work in this area falls under the heading of computational social choice.
-

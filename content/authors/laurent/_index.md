@@ -23,7 +23,7 @@ organizations:
     url: https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/eor
 
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - CWI Networks and Optimization

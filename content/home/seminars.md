@@ -16,3 +16,4 @@ The following TCS seminars are held regularly at various places in Amsterdam (fo
 - [Computational Social Choice seminar](https://staff.fnwi.uva.nl/u.endriss/seminar/), various days at ILLC
 - [VU Theoretical Computer Science seminar](https://www.cs.vu.nl/~tcs/seminar/), Fridays 15.30 at the VU
 - [Seminar on Networks and Optimization](https://www.cwi.nl/research/groups/networks-and-optimization/aco-seminar), Tuesdays/Wednesdays 11.00 at CWI
+- [Dutch Seminar on Optimization](https://portals.project.cwi.nl/dutch-optimization-seminar/dutch-optimization-seminar)

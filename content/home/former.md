@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Some Former Students
+title: Some Alumni
 subtitle:
 weight: 50  # section position on page
 design:
@@ -11,6 +11,7 @@ design:
   columns: '1'
 ---
 
+## PhD students
 | Name                                                                            | PhD Advisor and Affiliation | Year of PhD | Current Affiliation |
 |---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
 | [Jan Czajkowski](https://staff.fnwi.uva.nl/j.m.czajkowski/)                     | Christian Schaffner, UvA | 2021 | Weizmann Institute of Science |
@@ -23,3 +24,9 @@ design:
 | [Giannicola Scarpa](https://sites.google.com/site/giannicolascarpa/)            | Ronald de Wolf, CWI | 2013 |	Universidad Politécnica de Madrid	|
 | [Stephanie Wehner](https://qutech.nl/person/stephanie-wehner/)                  | Harry Buhrman, UvA          | 2008        | QuTech, TU Delft    |
 | [Troy Lee](http://troylee.org/)                                                 | Harry Buhrman, CWI          | 2006        | University of Technology Sydney |
+
+## Postdocs
+| Name                                                                            | Advisor | Years | Current Affiliation |
+|---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
+| [Christian Majenz](https://www.christianmajenz.info/about-me.html)              | Christian Schaffner | 2019-2021 | DTU Compute |
+| [Alex Grilo](https://abgrilo.org)                                               | Stacey Jeffery | 2018-2021 | CNRS at LIP6 |

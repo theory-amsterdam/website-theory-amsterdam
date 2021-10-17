@@ -23,7 +23,7 @@ organizations:
     url: https://kdvi.uva.nl/
 
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - UvA Korteweg-de Vries Institute for Mathematics

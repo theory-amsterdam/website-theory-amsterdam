@@ -43,7 +43,7 @@ education:
       institution: University of Amsterdam
       year: 2012
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - UvA Korteweg-de Vries Institute for Mathematics

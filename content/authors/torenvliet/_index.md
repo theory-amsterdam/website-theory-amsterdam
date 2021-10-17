@@ -17,7 +17,7 @@ organizations:
     url: https://www.illc.uva.nl/
   - name: QuSoft
     url: https://www.qusoft.org/
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - UvA ILLC

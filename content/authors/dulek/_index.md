@@ -23,7 +23,7 @@ organizations:
     url: https://www.qusoft.org/
 
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Postdocs
   - CWI Algorithms and Complexity

@@ -15,7 +15,7 @@ social:
 organizations:
   - name: UvA Informatics Institute
     url: https://ivi.uva.nl
-superuser: true
+superuser: false
 user_groups:
   - Faculty
   - UvA Informatics Institute
