@@ -17,15 +17,22 @@ built from [Wowchemy's Research Group Template](https://github.com/wowchemy/star
 git clone git@github.com:theory-amsterdam/website-theory-amsterdam.git
 ```
 
-3. It's done. Just start Hugo server to see it live locally at http://localhost:1313/ (or at whatever the hugo server tells you)!
+3. Start Hugo server to see the site live locally at http://localhost:1313/ (or at whatever the hugo server tells you)!
 
 ```bash
 cd website-theory-amsterdam
 hugo server
 ```
 
-4. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://theory-amsterdam.netlify.app/ and accessible under https://theory.amsterdam .
+4. Edit the [markdown source files](https://wowchemy.com/docs/content/writing-markdown-latex/) with ending .md in the [/content/](https://github.com/theory-amsterdam/website-theory-amsterdam/tree/main/content) subdirectory to make changes to the site. As long as the hugo server is running, your changes should be visible immediately at http://localhost:1313/.
+
+5. Using a suitable editor like [Atom](https://atom.io/) allows to easily search across all source files, and will help finding the correct file to edit if you want to make specific changes.
+
+6. Add new researchers by duplicating a similar subfolder in [/content/authos/](https://github.com/theory-amsterdam/website-theory-amsterdam/tree/main/content/authors) and adjusting the .md content and replacing the avatar picture.
+
+7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://theory-amsterdam.netlify.app/ and accessible under https://theory.amsterdam .
 
 ## Troubleshooting
+This [information](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/) might be useful. Sometimes, you might have to [delete Hugo's default cache folder](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/#error-failed-to-resolve-output-format).
 
-This [information] might be useful. Sometimes, you might have to dele Hugo's default cache folder.
+For more information, try the search function on the [wowchemy webiste](https://wowchemy.com/).
