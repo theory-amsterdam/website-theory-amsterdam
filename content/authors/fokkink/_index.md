@@ -2,9 +2,6 @@
 title: Wan Fokkink
 lastname: Fokkink
 role: Full Professor
-bio: My research is on various topics in computational complexity theory,
-  quantum information theory and discrete mathematics. A unifying theme in my
-  work is the interaction between amortization, symmetry and approximation.
 interests:
   - concurrency theory
   - protocol verification
@@ -37,3 +34,7 @@ highlight_name: false
 ---
 
 One day per week (on Thursdays) I'm at Eindhoven University of Technology, as Professor of Model-Based System Engineering in the Control Systems Technology Group in the Faculty of Mechanical Engineering (room: GEM-Z 0.118, tel: +31 40 2473061).
+
+My research is on various topics in computational complexity theory,
+  quantum information theory and discrete mathematics. A unifying theme in my
+  work is the interaction between amortization, symmetry and approximation.

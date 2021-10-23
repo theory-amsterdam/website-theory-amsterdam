@@ -2,7 +2,6 @@
 title: Stacey Jeffery
 lastname: Jeffery
 role: Senior Researcher
-bio: My research is on the theoretical computer science aspects of quantum computing, with a focus on quantum algorithms and cryptographic protocols.
 interests:
   - quantum algorithms
   - quantum cryptography

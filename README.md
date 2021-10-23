@@ -28,7 +28,7 @@ hugo server
 
 5. Using a suitable editor like [Atom](https://atom.io/) allows to easily search across all source files, and will help finding the correct file to edit if you want to make specific changes.
 
-6. Add new researchers by duplicating a similar subfolder in [/content/authos/](https://github.com/theory-amsterdam/website-theory-amsterdam/tree/main/content/authors) and adjusting the .md content and replacing the avatar picture.
+6. Add new researchers by duplicating a similar subfolder in [/content/authors/](https://github.com/theory-amsterdam/website-theory-amsterdam/tree/main/content/authors) and adjusting the .md content and replacing the avatar picture.
 
 7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://theory-amsterdam.netlify.app/ and accessible under https://theory.amsterdam .
 

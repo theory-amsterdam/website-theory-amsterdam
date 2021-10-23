@@ -2,7 +2,6 @@
 title: Jana Sotáková
 lastname: Sotakova
 role: PhD Student
-bio: Not displayed?
 interests:
   - isogeny-based cryptography
   - computational number theory

@@ -2,9 +2,6 @@
 title: Jop Briët
 lastname: Briet
 role: Senior Researcher
-bio: My research is on various topics in computational complexity theory,
-  quantum information theory and discrete mathematics. A unifying theme in my
-  work is the interaction between amortization, symmetry and approximation.
 interests:
   - additive combinatrics
   - geometric functional analysis
@@ -36,3 +33,5 @@ highlight_name: false
 ---
 
 I am a senior researcher in the Algorithms and Complexity group at CWI and am part of the Networks center and QuSoft.
+
+My research is on various topics in computational complexity theory, quantum information theory and discrete mathematics. A unifying theme in my work is the interaction between amortization, symmetry and approximation.

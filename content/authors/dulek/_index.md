@@ -2,7 +2,6 @@
 title: Yfke Dulek
 lastname: Dulek
 role: Postdoc
-bio: I am a postdoc at QuSoft, the Dutch research center for quantum software, and the Centre for Mathematics and Computer Science (CWI). My position is funded by an Ada Lovelace postdoctoral Fellowship from the Quantum Software Consortium (QSC). Previously, I was a Simons Research Fellow during the Quantum Wave in Computing program hosted at the Simons Institute for the Theory of Computing. I did my PhD at QuSoft, advised by Christian Schaffner, and jointly funded by the Insitute for Logic, Language and Computation (ILLC) and CWI.
 interests:
   - quantum computing
   - cryptography
@@ -30,3 +29,5 @@ user_groups:
   - QuSoft
 highlight_name: false
 ---
+
+I am a postdoc at QuSoft, the Dutch research center for quantum software, and the Centre for Mathematics and Computer Science (CWI). My position is funded by an Ada Lovelace postdoctoral Fellowship from the Quantum Software Consortium (QSC). Previously, I was a Simons Research Fellow during the Quantum Wave in Computing program hosted at the Simons Institute for the Theory of Computing. I did my PhD at QuSoft, advised by Christian Schaffner, and jointly funded by the Insitute for Logic, Language and Computation (ILLC) and CWI.
