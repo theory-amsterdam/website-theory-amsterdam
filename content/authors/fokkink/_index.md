@@ -33,6 +33,6 @@ user_groups:
 highlight_name: false
 ---
 
-My research focus is on the formal design and analysis of distributed systems, broadly construed. I am the author of three textbooks on process algebra, formal verification of distributed systems, and distributed algorithms.
+I head the Theoretical Computer Science group at the Vrije Universiteit Amsterdam. One day per week I'm at Eindhoven University of Technology, as Professor of Model-Based System Engineering in the Control Systems Technology Group in the Faculty of Mechanical Engineering.
 
-One day per week I'm at Eindhoven University of Technology, as Professor of Model-Based System Engineering in the Control Systems Technology Group in the Faculty of Mechanical Engineering.
+My research focus is on the formal design and analysis of distributed systems, broadly construed. I am the author of three textbooks, on process algebra, formal verification of distributed systems, and distributed algorithms.
