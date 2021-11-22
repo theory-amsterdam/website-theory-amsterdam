@@ -33,8 +33,6 @@ user_groups:
 highlight_name: false
 ---
 
-One day per week (on Thursdays) I'm at Eindhoven University of Technology, as Professor of Model-Based System Engineering in the Control Systems Technology Group in the Faculty of Mechanical Engineering (room: GEM-Z 0.118, tel: +31 40 2473061).
+My research focus is on the formal design and analysis of distributed systems, broadly construed. I am the author of three textbooks on process algebra, formal verification of distributed systems, and distributed algorithms.
 
-My research is on various topics in computational complexity theory,
-  quantum information theory and discrete mathematics. A unifying theme in my
-  work is the interaction between amortization, symmetry and approximation.
+One day per week I'm at Eindhoven University of Technology, as Professor of Model-Based System Engineering in the Control Systems Technology Group in the Faculty of Mechanical Engineering.
