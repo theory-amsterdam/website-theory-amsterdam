@@ -23,7 +23,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - PhD Students
   - VU Theoretical Computer Science
 highlight_name: false
 ---
