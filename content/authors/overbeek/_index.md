@@ -7,7 +7,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: 
+    link: https://research.vu.nl/en/persons/roy-overbeek
   - icon: envelope
     icon_pack: fas
     link: mailto:r.overbeek@vu.nl
