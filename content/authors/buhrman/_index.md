@@ -9,7 +9,7 @@ interests:
   - Kolmogorov complexity
   - computational biology
 social:
-  - icon: link
+  - icon: external-link-square-alt
     icon_pack: fas
     link: https://www.qusoft.org/prof-dr-harry-buhrman/
   - icon: envelope

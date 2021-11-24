@@ -8,7 +8,7 @@ interests:
   - algorithms for integer programming
   - convex geometry
 social:
-  - icon: link
+  - icon: external-link-alt
     icon_pack: fas
     link: https://homepages.cwi.nl/~dadush/
   - icon: envelope
