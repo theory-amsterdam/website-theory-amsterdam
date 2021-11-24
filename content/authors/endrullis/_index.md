@@ -4,11 +4,8 @@ lastname: Endrullis
 role: Assistant Professor
 avatar_filename: avatar
 interests:
-  - logic
   - term and graph rewriting
   - automata theory
-  - coalgebra
-  - formalized mathematics and proof assistants
 social:
   - icon: link
     icon_pack: fas

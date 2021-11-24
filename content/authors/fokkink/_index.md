@@ -7,7 +7,6 @@ interests:
   - protocol verification
   - supervisory control
   - distributed algorithms
-  - executable models of biological systems
 social:
   - icon: link
     icon_pack: fas
