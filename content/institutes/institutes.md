@@ -21,6 +21,7 @@ content:
   - UvA Institute of Physics
   - CWI Algorithms and Complexity
   - CWI Networks and Optimization
+  - CWI Computer Security
   - VU Theoretical Computer Science
   - QuSoft
 design:
