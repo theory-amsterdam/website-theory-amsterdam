@@ -15,8 +15,10 @@ design:
 ## Postdocs
 | Name                                                                            | Advisor | Years | Current Affiliation |
 |---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
+| [Jonas Helsen](/author/jonas-helsen/)                                           | Michael Walter | 2019-2021 | QuSoft / CWI |
 | [Christian Majenz](https://www.christianmajenz.info/about-me.html)              | Christian Schaffner | 2019-2021 | DTU Compute |
 | [Alex Grilo](https://abgrilo.org)                                               | Stacey Jeffery | 2018-2021 | CNRS at LIP6 |
+| [Yinan Li](https://www.yinanli.com/)                                            | Michael Walter, Ronald de Wolf | 2018-2020 | Nagoya University |
 
 
 ## PhD Students

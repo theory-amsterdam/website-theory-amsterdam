@@ -28,6 +28,3 @@ weight: 40
 - [MSc Computer Science (UvA/VU)](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-opleiding/opleiding/6699/243415), [Foundations of Computing and Concurrency](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-opleiding/opleiding/6699/243421)
 - [MSc Computational Science (UvA/VU)](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-opleiding/opleiding/6702/243466)
 - [MasterMath](https://elo.mastermath.nl/)
-
-### Core BSc Courses
-to come
