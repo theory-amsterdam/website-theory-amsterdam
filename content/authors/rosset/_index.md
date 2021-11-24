@@ -1,4 +1,4 @@
----
+﻿---
 title: Aloïs Rosset
 lastname: Rosset
 role: PhD Student
@@ -11,9 +11,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:alois.rosset@vu.nl
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0003-0569-0947
 organizations:
   - name: VU Theoretical Computer Science
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/
