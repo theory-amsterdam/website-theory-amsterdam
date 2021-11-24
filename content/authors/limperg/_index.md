@@ -3,8 +3,9 @@ title: Jannis Limperg
 lastname: Limperg
 role: PhD Student
 interests:
+  - type theory
   - proof assistants
-  - dependently types programming
+  - proof automation
 social:
   - icon: link
     icon_pack: fas
@@ -27,4 +28,4 @@ user_groups:
 highlight_name: false
 ---
 
-I am PhD student on the VIDO Grant Lean Forward, under supervision of Jasmin Blanchette. My research focuses on the development and use of proof assistants.
+I'm a PhD student on the Vidi Grant Lean Forward under the supervision of Jasmin Blanchette. My research is about making dependently-typed proof assistants more user-friendly. In particular, I develop proof automation for the Lean theorem prover.
