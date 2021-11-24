@@ -1,7 +1,7 @@
 ---
 title: Visa Nummelin
 lastname: Nummelin
-role: PhD Students
+role: PhD Student
 interests:
   - theorem proving
   - higher-order unification

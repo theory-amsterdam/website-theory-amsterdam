@@ -1,7 +1,7 @@
 ---
-title: Aloïs Rosset
+title: AloÃ¯s Rosset
 lastname: Rosset
-role: PhD Students
+role: PhD Student
 interests:
   - term and graph rewriting
 social:

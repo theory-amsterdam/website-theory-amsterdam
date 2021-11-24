@@ -1,7 +1,7 @@
 ---
 title: Roy Overbeek
 lastname: Overbeek
-role: PhD Students
+role: PhD Student
 interests:
   - term and graph rewriting
 social:

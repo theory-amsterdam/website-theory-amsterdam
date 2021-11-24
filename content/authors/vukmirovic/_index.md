@@ -1,7 +1,7 @@
 ---
 title: Petar Vukmirovic
 lastname: Vukmirovic
-role: PhD Students
+role: PhD Student
 interests:
   - theorem proving
   - higher-order unification

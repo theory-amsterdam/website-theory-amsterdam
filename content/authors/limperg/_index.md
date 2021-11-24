@@ -1,7 +1,7 @@
 ---
 title: Jannis Limperg
 lastname: Limperg
-role: PhD Students
+role: PhD Student
 interests:
   - proof assistants
   - dependently types programming
