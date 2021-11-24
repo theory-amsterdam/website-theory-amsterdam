@@ -28,3 +28,6 @@ interests:
   - rewriting
 
 ---
+
+
+I am Assistant Professor in the Theoretical Computer Science group at the Vrije Universiteit Amsterdam. My research focus is on term rewriting, with a particular emphasis on higher-order rewriting and the lambda-calculus.
