@@ -1,4 +1,4 @@
----
+﻿---
 title: Jörg Endrullis
 lastname: Endrullis
 role: Assistant Professor
@@ -30,3 +30,6 @@ user_groups:
   - VU Theoretical Computer Science
 highlight_name: false
 ---
+
+
+I am Assistant Professor in the Theoretical Computer Science group at the Vrije Universiteit Amsterdam. My research is at the intersection of term rewriting systems, automata theory, and infinite strings In my VIDI project Automata Transforming Streams we develop fundamental theory to reason about the power and limitations of finite automata for transforming streams.
