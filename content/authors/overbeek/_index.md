@@ -1,20 +1,19 @@
 ---
-title: Jannis Limperg
-lastname: Limperg
+title: Roy Overbeek
+lastname: Overbeek
 role: PhD Students
 interests:
-  - proof assistants
-  - dependently types programming
+  - term and graph rewriting
 social:
   - icon: link
     icon_pack: fas
-    link: https://limperg.de/
+    link: 
   - icon: envelope
     icon_pack: fas
-    link: mailto:j.b.limperg@vu.nl
+    link: mailto:r.overbeek@vu.nl
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-8861-5231
+    link: https://orcid.org/0000-0003-0569-0947
 organizations:
   - name: VU Theoretical Computer Science
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/
@@ -27,4 +26,4 @@ user_groups:
 highlight_name: false
 ---
 
-I am PhD student on the VIDO Grant Lean Forward, under supervision of Jasmin Blanchette. My research focuses on the development and use of proof assistants.
+I am PhD student on the VIDI Grant Automata Transforming Streams, under supervision of Joerg Endrullis. My research focuses on term and graph rewriting.
