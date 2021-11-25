@@ -3,8 +3,7 @@ title: Galina Pass
 lastname: Pass
 role: PhD Student
 interests:
-  - quantum information
-  - quantum field theory
+  - quantum algorithms
 social:
   - icon: envelope
     icon_pack: fas
