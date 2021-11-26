@@ -25,4 +25,4 @@ The candidate will be expected to help advance the goals of the project together
 31 October 2021
 
 ### Interested?
-For full details regarding this vacancy please refer to [the CWI website](https://www.cwi.nl/jobs/vacancies/894611).
+The deadline has passed.

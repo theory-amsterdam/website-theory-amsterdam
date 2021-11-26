@@ -10,7 +10,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://staff.fnwi.uva.nl/m.walter/
+    link: https://michaelwalter.info/
   - icon: envelope
     icon_pack: fas
     link: mailto:m.walter@uva.nl
