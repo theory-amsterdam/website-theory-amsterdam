@@ -3,12 +3,13 @@ title: Sebastian Zur
 lastname: Zur
 role: PhD Student
 interests:
+  - quantum query/time complexity
   - quantum algorithms
   - quantum cryptography
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:zursebastian@gmail.com
+    link: mailto:sebastian.zur@cwi.nl
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zursebastian/
@@ -30,4 +31,4 @@ user_groups:
 highlight_name: false
 ---
 
-I am a PhD student at CWI, supervised by Stacey Jeffery.
+I am a PhD student at the CWI under supervision of Stacey Jeffery. My research interests are quantum algorithms, their query/time complexities and quantum cryptography. Previously I completed the double bachelor in Mathematics and Computer Science, as well as a master in Mathematics. 
