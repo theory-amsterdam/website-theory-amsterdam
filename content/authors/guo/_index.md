@@ -16,7 +16,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=9AIoBl8AAAAJ
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://twitter.com/guo_krystal
 organizations:
   - name: University of Amsterdam, Korteweg de Vries
