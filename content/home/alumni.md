@@ -25,6 +25,7 @@ design:
 | Name                                                                            | PhD Advisor(s) | Year of PhD | Current Affiliation |
 |---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
 | [Jan Czajkowski](https://staff.fnwi.uva.nl/j.m.czajkowski/)                     | Christian Schaffner, Harry Buhrman  | 2022 | Weizmann Institute of Science |
+| [Alexander Bentkamp](https://orcid.org/0000-0002-7158-3595)                     | Jasmin Blanchette, Wan Fokkink, Uwe Waldmann | 2021 | Chinese Academy of Sciences |
 | [Zoi Terzopoulou](https://www.lamsade.dauphine.fr/~zterzopoulou/)               | Ulle Endriss          | 2021        | LAMSADE, Paris-Dauphine University |
 | [Joris Kattemölle](https://www.linkedin.com/in/joris-kattemolle-8604a594/)      | Jasper van Wezel, Kareljan Schoutens  | 2021        | University of Konstanz |
 | [Yfke Dulek](https://www.yfkedulek.com/)                                        | Christian Schaffner, Harry Buhrman   | 2020     | CWI                 |
