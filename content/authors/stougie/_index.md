@@ -37,7 +37,7 @@ Leen Stougie obtained his PhD in Operations Research at the Erasmus University R
 He held several visiting professorships, among others at UC Berkeley, La Sapienza University of Rome, and Technical University of Berlin. Since 2015 he is member of the INRIA European Research Team ERABLE https://team.inria.fr/erable/en/
 
 
-From 2011 till 2016 he was chairman of the National Network for Mathematics of Operations Research (LNMB) http://www.lnmb.nl
+From 2011 till 2016 he was chairman of the National Network for Mathematics of Operations Research (LNMB) https://www.lnmb.nl
 
 His  research interests are mathematics on the interface of operations research, combinatorial optimization and probability theory with applications in life sciences and logistics. Specifically his interest in these fields is on algorithm design and analysis related to complexity theory. A common theme in his research is optimization under uncertainty: stochastic programming, on-line optimization and more recently optimization under scenarios.
 
