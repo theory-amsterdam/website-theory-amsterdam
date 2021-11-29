@@ -35,4 +35,4 @@ hugo server
 ## Troubleshooting
 This [information](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/) might be useful. Sometimes, you might have to [delete Hugo's default cache folder](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/#error-failed-to-resolve-output-format).
 
-For more information, try the search function on the [wowchemy webiste](https://wowchemy.com/).
+For more information, try the search function on the [wowchemy website](https://wowchemy.com/).
