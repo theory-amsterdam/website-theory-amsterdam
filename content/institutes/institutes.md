@@ -22,7 +22,10 @@ content:
   - CWI Algorithms and Complexity
   - CWI Networks and Optimization
   - CWI Computer Security
+  - CWI Life Sciences and Health
   - VU Theoretical Computer Science
+  - VU School of Business and Economics
+  - VU Bioinformatics
   - QuSoft
 design:
   show_interests: false
@@ -41,5 +44,9 @@ VU: [Vrije Universiteit](https://vu.nl)
 [UvA Institute of Physics](https://iop.uva.nl/) <br>
 [CWI Algorithms and Complexity](https://www.cwi.nl/research/groups/algorithms-and-complexity) <br>
 [CWI Networks and Optimization](https://www.cwi.nl/research/groups/networks-and-optimization) <br>
+[CWI Computer Security](https://www.cwi.nl/research/groups/computer-security) <br>
+[CWI Life Sciences and Health](https://www.cwi.nl/research/groups/life-sciences-and-health) <br>
 [VU Theoretical Computer Science](https://www.cs.vu.nl/~tcs/) <br>
+[VU School of Business and Economics](https://research.vu.nl/en/organisations/school-of-business-and-economics) <br>
+[VU Bioinformatics](https://research.vu.nl/en/organisations/bioinformatics-2) <br>
 [QuSoft](https://www.qusoft.org)
