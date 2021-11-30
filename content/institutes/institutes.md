@@ -39,7 +39,7 @@ VU: [Vrije Universiteit](https://vu.nl)
 
 #### Research Groups:
 [UvA Informatics Institute](https://ivi.uva.nl): [Theory of Computer Science](https://ivi.fnwi.uva.nl/tcs/), [Multiscale Networked Systems](https://mns-research.nl/)<br>
-[UvA ILLC](https://www.illc.uva.nl): [Logic and Computation](https://www.illc.uva.nl/Research/Programmes/LoCo/) <br>
+[UvA ILLC](https://www.illc.uva.nl): [Theoretical Computer Science](https://www.illc.uva.nl/Research/Research-Units/TCS/) <br>
 [UvA Korteweg-de Vries Institute for Mathematics](https://kdvi.uva.nl): [Algebra, Geometry and Mathematical Physics](https://kdvi.uva.nl/research/agmp/algebra-geometry-mathematical-physics.html) <br>
 [UvA Institute of Physics](https://iop.uva.nl/) <br>
 [CWI Algorithms and Complexity](https://www.cwi.nl/research/groups/algorithms-and-complexity) <br>
