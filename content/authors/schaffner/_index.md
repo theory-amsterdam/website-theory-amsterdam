@@ -1,7 +1,7 @@
 ---
 title: Christian Schaffner
 lastname: Schaffner
-role: Associate Professor
+role: Full Professor
 avatar_filename: avatar
 social:
 - icon: link
@@ -9,7 +9,7 @@ social:
   link: https://staff.fnwi.uva.nl/c.schaffner/
 - icon: envelope
   icon_pack: fas
-  link: mailto:c.schaffner@uv.nl
+  link: mailto:c.schaffner@uva.nl
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.nl/citations?hl=en&user=m-L5Hj0AAAAJ
@@ -17,14 +17,14 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0002-1754-1415
 organizations:
-  - name: UvA ILLC
-    url: https://www.illc.uva.nl/
+  - name: UvA Informatics Institute
+    url: https://ivi.uva.nl/
   - name: QuSoft
     url: https://www.qusoft.org/
 superuser: true
 user_groups:
   - Faculty
-  - UvA ILLC
+  - UvA Informatics Institute
   - QuSoft
 
 interests:
