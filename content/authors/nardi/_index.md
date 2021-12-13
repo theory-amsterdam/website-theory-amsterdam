@@ -6,7 +6,7 @@ role: Research Assistant
 social:
 - icon: link
   icon_pack: fas
-  link: https://www.illc.uva.nl/People/person/5282/Oliviero-Nardi
+  link: https://staff.science.uva.nl/o.nardi/
 - icon: envelope
   icon_pack: fas
   link: mailto:o.nardi@uva.nl
