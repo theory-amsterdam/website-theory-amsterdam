@@ -16,6 +16,9 @@ social:
   - icon: dblp
     icon_pack: ai
     link: https://dblp.uni-trier.de/pid/89/7966.html
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/SolonPissis
 organizations:
   - name: CWI Life Sciences and Health
     url: https://www.cwi.nl/research/groups/life-sciences-and-health

@@ -8,6 +8,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:g.pass@uva.nl
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GalinaPass
+
 organizations:
 - name: University of Amsterdam, Korteweg de Vries
   url: https://kdvi.uva.nl/

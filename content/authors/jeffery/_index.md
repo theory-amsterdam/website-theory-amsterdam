@@ -15,6 +15,10 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=IdTbBfgAAAAJ
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/staceymjeffery
+    
 organizations:
   - name: CWI, Algorithms and Complexity
     url: https://www.cwi.nl/research/groups/algorithms-and-complexity

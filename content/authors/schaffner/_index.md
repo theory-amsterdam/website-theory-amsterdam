@@ -16,6 +16,10 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-1754-1415
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/theoryamsterdam
+
 organizations:
   - name: UvA Informatics Institute
     url: https://ivi.uva.nl/

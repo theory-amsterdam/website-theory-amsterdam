@@ -19,6 +19,9 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/162/5058.html
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/m4lvin
 organizations:
   - name: UvA ILLC
     url: https://www.illc.uva.nl/
@@ -31,6 +34,6 @@ interests:
   - epistemic planning
   - modal logic
   - model checking
-  - functional programming 
+  - functional programming
 
 ---

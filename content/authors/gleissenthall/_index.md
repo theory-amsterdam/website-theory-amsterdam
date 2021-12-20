@@ -16,6 +16,10 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Lc4IbnsAAAAJ
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/kgleissen
+
 organizations:
   - name: VU Theoretical Computer Science
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/
