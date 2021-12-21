@@ -10,4 +10,4 @@ active: true
 ---
 
 {{% cta cta_link="./post/21-12-21-tt-ivi/" cta_text="Tenure Track →" %}}
-{{% cta cta_link="./post/21-12-21-uhd-hl-illc/" cta_text="Associate or Full Professor →" %}}
+{{% cta cta_link="./post/21-12-21-uhd-hl-illc/" cta_text="Assistant or Associate or Full Professor →" %}}
