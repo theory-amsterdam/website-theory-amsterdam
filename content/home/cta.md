@@ -1,12 +1,13 @@
 ---
-title: People
+title: Join us!
 subtitle:
 widget: blank
 headless: true
 weight: 20
 design:
   columns: '1'
-active: false
+active: true
 ---
 
-{{% cta cta_link="./people/" cta_text="People →" %}}
+{{% cta cta_link="./post/21-12-21-tt-ivi/" cta_text="Tenure Track →" %}}
+{{% cta cta_link="./post/21-12-21-uhd-hl-illc/" cta_text="Associate or Full Professor →" %}}
