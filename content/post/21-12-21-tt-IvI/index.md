@@ -55,4 +55,4 @@ Are you curious about our extensive package of secondary employment benefits lik
 7 February 2022
 
 ## Interested?
-For full details regarding this vacancy please refer to [the UvA website](https://vacatures.uva.nl/UvA/job/Tenure-Track-Position-in-Theoretical-Computer-Science/737970202/).
+For full details regarding this vacancy please refer to [the UvA website](https://vacatures.uva.nl/UvA/job/ivi/737970302/).
