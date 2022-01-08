@@ -79,3 +79,9 @@ related:
       weight: 70
 power_ups:
   hide_published_with_footer: true
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - WC_POST_CSS
