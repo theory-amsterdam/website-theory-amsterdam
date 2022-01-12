@@ -35,3 +35,6 @@ The Code of Conduct has been adopted by all universities and has been in force s
 ## Contact
 This website was initiated by [Christian Schaffner](/author/christian-schaffner) in September 2021. Current helping maintainers are
 [Ulle Endriss](/author/ulle-endriss), [Stacey Jeffery](/author/stacey-jeffery) and [Wan Fokkink](/author/wan-fokkink). Suggestions for improvements and [pull requests](https://github.com/theory-amsterdam/website-theory-amsterdam/pulls) are welcome.
+
+## Mailing List
+[Sign up for our mailing list](https://list.uva.nl/mailman/listinfo/theory.amsterdam) to receive (infrequent) updates about open positions and events of importance to the Amsterdam TCS community.
