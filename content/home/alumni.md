@@ -12,10 +12,16 @@ design:
 ---
 [the following are incomplete lists of people who graduated / left / retired in the last years]
 
+## Permanent Members
+| Name                                                                            | Institution | Years | Current Affiliation |
+|---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
+| [Michael Walter](https://michaelwalter.info/)                                           | University of Amsterdam | 2017-2021 | Ruhr Universität Bochum |
+
+
 ## Postdocs
 | Name                                                                            | Advisor | Years | Current Affiliation |
 |---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
-| [Jonas Helsen](/author/jonas-helsen/)                                           | Michael Walter | 2019-2021 | QuSoft / CWI |
+| [Jonas Helsen](/author/jonas-helsen/)                                           | Michael Walter | 2019-2021 | CWI / QuSoft |
 | [Christian Majenz](https://www.christianmajenz.info/about-me.html)              | Christian Schaffner | 2019-2021 | DTU Compute |
 | [Alex Grilo](https://abgrilo.org)                                               | Stacey Jeffery | 2018-2021 | CNRS at LIP6 |
 | [Yinan Li](https://www.yinanli.com/)                                            | Michael Walter, Ronald de Wolf | 2018-2020 | Nagoya University |

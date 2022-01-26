@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Michael Walter
 lastname: Walter
 role: Assistant Professor
@@ -31,7 +32,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - UvA Korteweg-de Vries Institute for Mathematics
   - UvA Institute of Physics
   - QuSoft
