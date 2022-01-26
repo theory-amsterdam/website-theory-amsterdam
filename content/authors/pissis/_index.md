@@ -28,7 +28,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - CWI Life Sciences and Health
   - VU Bioinformatics
 highlight_name: false

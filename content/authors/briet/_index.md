@@ -26,7 +26,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - CWI Algorithms and Complexity
   - QuSoft
 highlight_name: false

@@ -25,7 +25,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - UvA Korteweg-de Vries Institute for Mathematics
 highlight_name: false
 ---

@@ -21,7 +21,7 @@ organizations:
     url: https://www.illc.uva.nl/
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - UvA ILLC
 
 interests:

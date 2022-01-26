@@ -19,7 +19,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - VU Theoretical Computer Science
 highlight_name: false
 

@@ -27,7 +27,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - CWI Computer Security
   - Leiden Institue of Advanced Computer Science
 highlight_name: false

@@ -29,7 +29,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - CWI Networks and Optimization
   - UvA ILLC
 highlight_name: false

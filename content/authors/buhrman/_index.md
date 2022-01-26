@@ -33,7 +33,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - CWI Algorithms and Complexity
   - UvA ILLC
   - QuSoft

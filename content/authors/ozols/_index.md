@@ -20,7 +20,7 @@ organizations:
     url: https://www.qusoft.org/
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - UvA ILLC
   - QuSoft
 

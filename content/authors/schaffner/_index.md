@@ -27,7 +27,7 @@ organizations:
     url: https://www.qusoft.org/
 superuser: true
 user_groups:
-  - Faculty
+  - Permanent Members
   - UvA Informatics Institute
   - QuSoft
 

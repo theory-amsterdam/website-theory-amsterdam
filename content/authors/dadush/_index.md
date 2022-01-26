@@ -24,7 +24,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - CWI Networks and Optimization
 highlight_name: false
 ---

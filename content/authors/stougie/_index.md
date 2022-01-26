@@ -25,7 +25,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - CWI Life Sciences and Health
   - VU School of Business and Economics
 highlight_name: false

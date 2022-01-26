@@ -106,7 +106,7 @@ David Chaum (born 1955) is an American computer scientist and cryptographer. He 
 
 He is also known for developing ecash, an electronic cash application that aims to preserve a user's anonymity, and inventing many cryptographic protocols like the blind signature, mix networks and the Dining cryptographers protocol. In 1995 his company DigiCash created the first digital currency with eCash. His 1981 paper, "Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms", laid the groundwork for the field of anonymous communications research.
 
-In the early 80s, Chaum sets up the [CWI Cryptology research group](https://www.cwi.nl/research/groups/cryptology).
+David Chaum had a cryptography group at CWI from 1984 to approximately 1995. In its current form, the [CWI Cryptology research group](https://www.cwi.nl/research/groups/cryptology) was set up in 2004 by [Ronald Cramer](https://homepages.cwi.nl/~cramer/).
 
 More information from the [CWI Dijkstra Fellowship](https://www.cwi.nl/news/blogs/interview-david-chaum-201cblockchain-will-decentralize-power201d).
 <br clear="left">

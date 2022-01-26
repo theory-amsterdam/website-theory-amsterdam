@@ -25,7 +25,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Faculty
+  - Permanent Members
   - CWI Networks and Optimization
   - University Tilburg
 highlight_name: false
