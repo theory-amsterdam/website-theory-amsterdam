@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 title: Michael Walter
 lastname: Walter
-role: Assistant Professor
+role: Guest Professor
 interests:
   - quantum information
   - optimization
@@ -23,6 +23,8 @@ social:
     link: https://twitter.com/michael_quantum
 
 organizations:
+  - name: Ruhr Universität Bochum, Germany
+    url: https://informatik.rub.de/en/
   - name: University of Amsterdam, Korteweg de Vries
     url: https://kdvi.uva.nl/
   - name: University of Amsterdam, Institute of Physics
@@ -38,5 +40,6 @@ user_groups:
   - QuSoft
 highlight_name: false
 ---
-I am an Assistant Professor in Mathematics and Theoretical Physics at the University of Amsterdam (KdVI, ITFA, ILLC) and QuSoft.
-My research is in quantum information and its interplay with mathematics, computer science, and theoretical physics. Motivated by quantum information, I study mathematical problems in optimization, representation theory, and invariant theory through the lens of computation. I am supported in part by an NWO Veni grant on Quantum bits in space and time and by an NWO KLEIN grant on Taming tensors: an optimization approach to computational invariant theory. I am part of the NWA quantum/nano route and a member of the Geometry and Quantum Theory and DIAMANT mathematical research clusters.
+From 2017 to 2021, I was Assistant Professor in Mathematics and Theoretical Physics at the University of Amsterdam (KdVI, ITFA, ILLC) and QuSoft. Since 2022, I am full professor at Ruhr Universität Bochum, and guest professor at UvA.
+
+My research is in quantum information and its interplay with mathematics, computer science, and theoretical physics. Motivated by quantum information, I study mathematical problems in optimization, representation theory, and invariant theory through the lens of computation. I was supported in part by an NWO Veni grant on Quantum bits in space and time and by an NWO KLEIN grant on Taming tensors: an optimization approach to computational invariant theory. I was part of the NWA quantum/nano route and a member of the Geometry and Quantum Theory and DIAMANT mathematical research clusters.
