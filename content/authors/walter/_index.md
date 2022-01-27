@@ -40,6 +40,8 @@ user_groups:
   - QuSoft
 highlight_name: false
 ---
-From 2017 to 2021, I was Assistant Professor in Mathematics and Theoretical Physics at the University of Amsterdam (KdVI, ITFA, ILLC) and QuSoft. Since 2022, I am full professor at Ruhr Universität Bochum, and guest professor at UvA.
+From 2017 to 2021, Michael Walter was assistant professor in mathematics and theoretical physics at the University of Amsterdam (KdVI, ITFA, ILLC) and QuSoft. Before that he was a postdoctoral scholar at Stanford University. He received his PhD from ETH Zurich in October 2014. Since 2022, Michael is a full professor and chair of the quantum information group at the Faculty of Computer Science, Ruhr-University Bochum, and the CASA Cluster of Excellence, and a guest professor at UvA.
 
-My research is in quantum information and its interplay with mathematics, computer science, and theoretical physics. Motivated by quantum information, I study mathematical problems in optimization, representation theory, and invariant theory through the lens of computation. I was supported in part by an NWO Veni grant on Quantum bits in space and time and by an NWO KLEIN grant on Taming tensors: an optimization approach to computational invariant theory. I was part of the NWA quantum/nano route and a member of the Geometry and Quantum Theory and DIAMANT mathematical research clusters.
+His research is in quantum information and computation, and their interplay with other branches of computer science, mathematics, and theoretical physics. Motivated by quantum information, he also studies problems in optimization, representation theory, and invariant theory through the lens of computation. He is a 2017 Veni laureate and received a 2020 Early Career Award from the Royal Netherlands Academy of Arts and Sciences (KNAW). He is currently supported by an NWO OC ENW grant and is part of the BMBF consortium project QuBRA.
+
+See [here](https://michaelwalter.info) for an overview of recent research in his group.
