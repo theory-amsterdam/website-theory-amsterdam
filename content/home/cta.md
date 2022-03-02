@@ -6,7 +6,7 @@ headless: true
 weight: 20
 design:
   columns: '1'
-active: true
+active: false
 ---
 
 {{% cta cta_link="./post/21-12-21-tt-ivi/" cta_text="Tenure Track →" %}}
