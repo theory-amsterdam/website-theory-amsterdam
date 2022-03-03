@@ -10,7 +10,7 @@ draft: false
 
 ---
 
-Are you enthusiastic about quantum information science and are you equally passionate about research and education in this field? Are you looking forward to taking the next step in your career and are you excited about joining one of the world-leading places in quantum research? The Informatics Institute (IvI) at the University of Amsterdam is seeking to significantly strengthen its quantum profile by appointing a new (permanent) faculty member in this area on the level of assistant professor (UD).
+Are you enthusiastic about quantum information science and are you equally passionate about research and education in this field? Are you looking forward to taking the next step in your career and are you excited about joining one of the world-leading places in quantum research? The Informatics Institute (IvI) at the University of Amsterdam is seeking to significantly strengthen its quantum profile by appointing a new faculty member in this area on the level of assistant professor (UD).
 <!--more-->
 
 The candidate will be embedded in the Theory of Computer Science (TCS) group at IvI and should have a research profile in quantum information science that aligns with research at QuSoft, the Dutch research centre for quantum software, and which allows to connect with the expertise of other research groups at the institute. For example, in:
