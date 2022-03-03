@@ -1,13 +1,14 @@
 ---
-title: Join us!
+title: "Two Quantum faculty positions"
 subtitle:
 widget: blank
 headless: true
-weight: 20
+weight: 15
 design:
   columns: '1'
-active: false
+active: true
 ---
+Application deadline: 1 April 2022
 
-{{% cta cta_link="./post/21-12-21-tt-ivi/" cta_text="Tenure Track →" %}}
-{{% cta cta_link="./post/21-12-21-uhd-hl-illc/" cta_text="Assistant or Associate or Full Professor →" %}}
+{{% cta cta_link="./post/22-03-03-tt-qusoft/" cta_text="Tenure-Track →" %}}
+{{% cta cta_link="./post/22-03-03-ud-ivi/" cta_text="Assistant Professorship →" %}}
