@@ -8,7 +8,7 @@ design:
   columns: '1'
 active: true
 ---
-Application deadline: 1 April 2022
+<b>New Application deadline: 15 April 2022</b>
 
 {{% cta cta_link="./post/22-03-03-tt-qusoft/" cta_text="Tenure-Track →" %}}
 {{% cta cta_link="./post/22-03-03-ud-ivi/" cta_text="Assistant Professorship →" %}}

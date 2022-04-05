@@ -58,7 +58,7 @@ Are you curious about our extensive package of secondary employment benefits lik
 In both cases the position comes with a generous startup package.
 
 ## Application deadline
-1 April 2022
+new deadline: 15 April 2022
 
 ## Interested?
 For full details regarding this vacancy please refer to [the UvA website](https://vacatures.uva.nl/UvA/job/QuSoft/742509902/).

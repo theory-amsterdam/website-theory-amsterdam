@@ -49,7 +49,7 @@ The salary, depending on relevant experience before the beginning of the employm
 Are you curious about our extensive package of secondary employment benefits like our excellent opportunities for study and development? Take a look [here](https://www.uva.nl/en/faculty/faculty-of-science/working-at-the-faculty/working-at-the-faculty-of-science.html).
 
 ## Application deadline
-1 April 2022
+new deadline: 15 April 2022
 
 ## Interested?
 For full details regarding this vacancy please refer to [the UvA website](https://vacatures.uva.nl/UvA/job/ivi/742510202/).
