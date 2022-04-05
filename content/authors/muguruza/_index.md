@@ -15,7 +15,7 @@ organizations:
 - name: UvA Informatics Institute
   url: https://ivi.uva.nl
 - name: QuSoft
-  url: https://www.qusoft.org/
+  url: https://qusoft.org/
 
 email: ""
 superuser: false

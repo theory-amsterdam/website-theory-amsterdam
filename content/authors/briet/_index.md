@@ -21,7 +21,7 @@ organizations:
   - name: CWI Algorithms & Complexity
     url: https://www.cwi.nl/research/groups/algorithms-and-complexity
   - name: QuSoft
-    url: https://www.qusoft.org/
+    url: https://qusoft.org/
 
 email: ""
 superuser: false

@@ -28,7 +28,7 @@ organizations:
   - name: University of Amsterdam, Korteweg de Vries
     url: https://kdvi.uva.nl/
   - name: QuSoft
-    url: https://www.qusoft.org/
+    url: https://qusoft.org/
 
 education:
   courses:

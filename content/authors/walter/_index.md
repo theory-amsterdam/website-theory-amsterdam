@@ -30,7 +30,7 @@ organizations:
   - name: University of Amsterdam, Institute of Physics
     url: https://iop.uva.nl/
   - name: QuSoft
-    url: https://www.qusoft.org/
+    url: https://qusoft.org/
 email: ""
 superuser: false
 user_groups:

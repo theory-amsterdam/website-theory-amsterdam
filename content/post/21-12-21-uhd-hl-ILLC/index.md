@@ -16,9 +16,9 @@ Are you working at the forefront of theoretical computer science and are you equ
 
 The [Institute for Logic, Language and Computation (ILLC)](https://www.illc.uva.nl/) at the University of Amsterdam (UvA) is seeking to significantly strengthen its profile in the domain of theoretical computer science by appointing two new faculty members in this area. One appointment will be made at either the Full Professor or the Associate Professor level, and another at either the Associate Professor or the Assistant Professor level.
 
-We will consider applications from individuals working in any area of specialisation within theoretical computer science, including both areas already represented at the institute and areas that would naturally complement its current profile. We expect that one (but not both) of the appointments will be made in an area of specialisation that aligns with research at [QuSoft](https://www.qusoft.org/), the Dutch research centre for quantum software.
+We will consider applications from individuals working in any area of specialisation within theoretical computer science, including both areas already represented at the institute and areas that would naturally complement its current profile. We expect that one (but not both) of the appointments will be made in an area of specialisation that aligns with research at [QuSoft](https://qusoft.org/), the Dutch research centre for quantum software.
 
-At the ILLC we strive for a better gender balance amongst our staff. We therefore strongly encourage women to apply for these positions. 
+At the ILLC we strive for a better gender balance amongst our staff. We therefore strongly encourage women to apply for these positions.
 
 *Applicants looking for a tenure-track position at the Assistant Professor level might also be interested in the current opening in the [Theoretical Computer Science Group at the neighbouring Informatics Institute](https://vacatures.uva.nl/UvA/job/Tenure-Track-Position-in-Theoretical-Computer-Science/737970202/).*
 
