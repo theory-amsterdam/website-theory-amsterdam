@@ -50,4 +50,4 @@ VU: [Vrije Universiteit](https://vu.nl)
 [VU Theoretical Computer Science](https://www.cs.vu.nl/~tcs/) <br>
 [VU School of Business and Economics](https://research.vu.nl/en/organisations/school-of-business-and-economics) <br>
 [VU Bioinformatics](https://research.vu.nl/en/organisations/bioinformatics-2) <br>
-[QuSoft](https://www.qusoft.org)
+[QuSoft](https://qusoft.org)

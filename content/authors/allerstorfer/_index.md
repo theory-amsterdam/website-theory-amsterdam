@@ -7,7 +7,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://www.qusoft.org/rene-allerstorfer/
+    link: https://www.cwi.nl/people/rene-allerstorfer
   - icon: envelope
     icon_pack: fas
     link: mailto:rene.allerstorfer@cwi.nl

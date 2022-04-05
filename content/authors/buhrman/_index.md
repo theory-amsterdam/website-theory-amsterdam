@@ -11,7 +11,7 @@ interests:
 social:
   - icon: external-link-square-alt
     icon_pack: fas
-    link: https://www.qusoft.org/prof-dr-harry-buhrman/
+    link: https://www.cwi.nl/people/harry-buhrman
   - icon: envelope
     icon_pack: fas
     link: mailto:harry.buhrman@cwi.nl

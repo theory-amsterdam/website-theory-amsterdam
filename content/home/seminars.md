@@ -12,7 +12,7 @@ design:
 ---
 
 The following TCS seminars are held regularly at various places in Amsterdam (for the time being also online):
-- [QuSoft seminar](https://www.qusoft.org/events2-directory-2/), Fridays 11.00 at CWI
+- [QuSoft seminar](https://qusoft.org/news-insights/), Fridays 11.00 at CWI
 - [Computational Social Choice seminar](https://staff.fnwi.uva.nl/u.endriss/seminar/), various days at ILLC
 - [VU Theoretical Computer Science seminar](https://www.cs.vu.nl/~tcs/seminar/), Fridays 15.30 at the VU
 - [Seminar on Networks and Optimization](https://www.cwi.nl/research/groups/networks-and-optimization/aco-seminar), Tuesdays/Wednesdays 11.00 at CWI

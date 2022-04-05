@@ -7,7 +7,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://www.qusoft.org/harold-nieuwboer/
+    link: https://www.cwi.nl/people/harold-nieuwboer
   - icon: envelope
     icon_pack: fas
     link: mailto:harold.nieuwboer@cwi.nl
