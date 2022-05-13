@@ -33,6 +33,6 @@ interests:
   - artificial intelligence
 
 ---
-I'm an Assistant Professor for Symbolic AI at the Institute for Logic, Language and Computation (ILLC) at the University of Amsterdam. My main research focus is planing using symbolic techniques (propositional logic, BDDs). In particular, I am interested in planning formalisms that can express expert knowledge, like Hierarchical Task (HTN) Planning, and planning for large-scale planning problems.
+I'm an Assistant Professor for Model-based AI at the Institute for Logic, Language and Computation (ILLC) at the University of Amsterdam. My main research focus is planing using symbolic techniques (propositional logic, BDDs). In particular, I am interested in planning formalisms that can express expert knowledge, like Hierarchical Task (HTN) Planning, and planning for large-scale planning problems.
 I'm also interested in the computational complexity of planning and formal measures for the expessiveness of planning problems.
 Lastly, I am interested in the interaction of AI and the Law and legal science in general.
