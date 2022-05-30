@@ -1,5 +1,5 @@
 ---
-title: "Open faculty positions"
+title: "Three New TCS faculty to start at UvA in Fall 2022"
 subtitle:
 widget: blank
 headless: true
@@ -8,9 +8,4 @@ design:
   columns: '1'
 active: true
 ---
-<b>New Application deadline for quantum faculty positions: 15 April 2022</b>
-{{% cta cta_link="./post/22-03-03-tt-qusoft/" cta_text="Tenure-Track →" %}}
-{{% cta cta_link="./post/22-03-03-ud-ivi/" cta_text="Assistant Professorship →" %}}
-
-<b>Tenured Position in Discrete Mathematics: 30 April 2022</b>
-{{% cta cta_link="./post/22-04-13-ud-kdvi/" cta_text="Tenured Position →" %}}
+{{% cta cta_link="./post/22-05-30-tcs-hires/" cta_text="News →" %}}
