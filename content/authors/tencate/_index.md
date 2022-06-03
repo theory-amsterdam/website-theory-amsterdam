@@ -1,6 +1,6 @@
 ---
 title: Balder ten Cate
-lastname: Ten Cate
+lastname: Cate
 role: Associate Professor
 avatar_filename: avatar
 social:
