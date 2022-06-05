@@ -16,6 +16,7 @@ design:
 | Name                                                                            | Institution | Years | Current Affiliation |
 |---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
 | [Michael Walter](https://michaelwalter.info/)                                           | University of Amsterdam | 2017-2021 | Ruhr Universität Bochum |
+| [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/)                                           | University of Amsterdam | 1995-2022 | retired |
 
 
 ## Postdocs
