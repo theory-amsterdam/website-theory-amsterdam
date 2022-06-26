@@ -44,7 +44,7 @@ VU: [Vrije Universiteit](https://vu.nl)
 [CWI Computer Security](https://www.cwi.nl/research/groups/computer-security) <br>
 [CWI Life Sciences and Health](https://www.cwi.nl/research/groups/life-sciences-and-health) <br>
 [UvA Informatics Institute](https://ivi.uva.nl): [Theory of Computer Science](https://ivi.fnwi.uva.nl/tcs/), [Multiscale Networked Systems](https://mns-research.nl/)<br>
-[UvA ILLC](https://www.illc.uva.nl): [Theoretical Computer Science](https://www.illc.uva.nl/Research/Research-Units/TCS/) <br>
+[UvA ILLC](https://www.illc.uva.nl): [Theoretical Computer Science](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS/) <br>
 [UvA Korteweg-de Vries Institute for Mathematics](https://kdvi.uva.nl): [Algebra, Geometry and Mathematical Physics](https://kdvi.uva.nl/research/agmp/algebra-geometry-mathematical-physics.html) <br>
 [UvA Institute of Physics](https://iop.uva.nl/) <br>
 [VU Theoretical Computer Science](https://www.cs.vu.nl/~tcs/) <br>
