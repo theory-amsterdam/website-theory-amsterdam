@@ -37,8 +37,8 @@ interests:
   - (quantum) information theory
 ---
 
-Hello! My name is Chris. My group forms the core of the QuSoft research line "Cryptography in a Quantum World".
+My group forms the core of the QuSoft research line "Cryptography in a Quantum World".
 Since September 2020, I am the chairman of [Quantum.Amsterdam](https://www.quantum.amsterdam/), an innovation hub for quantum software, technology and applications.
-I am the chairman of the [Talent & Outreach Committee](https://www.quantumsc.nl/ABOUT-QSC2/Talent-Outreach-committee/) of the [Quantum Software Consortium (QSC)](https://www.quantumsc.nl/). 
+I am the chairman of the [Talent & Outreach Committee](https://www.quantumsc.nl/ABOUT-QSC2/Talent-Outreach-committee/) of the [Quantum Software Consortium (QSC)](https://www.quantumsc.nl/).
 
 My research interests are Quantum Cryptography, Cryptographic Protocols, and (Quantum) Information Theory.
