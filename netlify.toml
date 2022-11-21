@@ -43,7 +43,7 @@
 
     # You can mark some check as todo, which will execute the check, but allow failures.
     # todoPatterns is an array of strings you can match against failing reports
-    todoPatterns = ['wowchemy.com', 'facebook.com', 'cwi.nl', 'vu.nl', 'uva.nl', 'christianmajenz.info', 'endrullis.de', 'twitter.com', 'studiegids.vu.nl', 'mastermath.nl']
+    todoPatterns = ['wowchemy.com', 'facebook.com', 'cwi.nl', 'vu.nl', 'uva.nl', 'christianmajenz.info', 'endrullis.de', 'twitter.com', 'studiegids.vu.nl', 'mastermath.nl', 'studiegids.vu.nl', 'yfkedulek.com', 'simonrey.fr']
 
     # Report on all broken links to external pages.
     # Enabling this will make your tests more brittle, since you can't control
