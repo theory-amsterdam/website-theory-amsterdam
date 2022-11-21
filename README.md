@@ -3,7 +3,7 @@
 
 This website provides an overview of the academic research in theoretical computer science (TCS) carried out at various institutions in Amsterdam. 
 
-initiated by Christian Schaffner in September 2021
+initiated by Christian Schaffner in September 2021, now maintained by Feline Lindeboom.
 
 built from [Wowchemy's Research Group Template](https://github.com/wowchemy/starter-hugo-research-group) for [Hugo](https://github.com/gohugoio/hugo)
 
