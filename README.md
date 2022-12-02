@@ -9,6 +9,8 @@ built from [Wowchemy's Research Group Template](https://github.com/wowchemy/star
 
 ## Building this website from scratch locally
 
+### on Mac/Linux
+
 1. Install [Hugo and its dependencies](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 
 2. Clone this repo:
@@ -31,6 +33,17 @@ hugo server
 6. Add new researchers by duplicating a similar subfolder in [/content/authors/](https://github.com/theory-amsterdam/website-theory-amsterdam/tree/main/content/authors) and adjusting the .md content and replacing the avatar picture.
 
 7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://theory-amsterdam.netlify.app/ and accessible under https://theory.amsterdam .
+
+### on Windows
+1. Install 
+- [Github Desktop](https://desktop.github.com/)
+- [Atom editor](https://atom.io/)
+- [Hugo and its dependencies](https://wowchemy.com/docs/getting-started/install-hugo-extended/#windows), including PowerShell and Scoop.
+- [Go](https://go.dev/doc/install) (@Feline, did you install that as well?)
+
+2. do this and that (@Feline, please edit)
+
+
 
 ## Troubleshooting
 This [information](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/) might be useful. Sometimes, you might have to [delete Hugo's default cache folder](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/#error-failed-to-resolve-output-format).
