@@ -15,8 +15,9 @@ design:
 ## Permanent Members
 | Name                                                                            | Institution | Years | Current Affiliation |
 |---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
-| [Inge Bethke](https://staff.fnwi.uva.nl/i.bethke/)                                           | University of Amsterdam | 2001-2022 | retired |
-| [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/)                                           | University of Amsterdam | 1995-2022 | retired |
+| [Inge Bethke](https://staff.fnwi.uva.nl/i.bethke/)                                      | University of Amsterdam | 2001-2022 | retired |
+| [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/)                                       | University of Amsterdam | 1995-2022 | retired |
+| [Viresh Patel](https://www.qmul.ac.uk/maths/profiles/patelv.html)                       | University of Amsterdam | 2015-2022 | Queen Mary University of London|
 | [Michael Walter](https://michaelwalter.info/)                                           | University of Amsterdam | 2017-2021 | Ruhr Universität Bochum |
 
 
