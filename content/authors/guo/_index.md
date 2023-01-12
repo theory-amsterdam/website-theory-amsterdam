@@ -21,6 +21,8 @@ social:
 organizations:
   - name: University of Amsterdam, Korteweg de Vries
     url: https://kdvi.uva.nl/
+  - name: QuSoft
+    url: https://qusoft.org/
 
 email: ""
 superuser: false

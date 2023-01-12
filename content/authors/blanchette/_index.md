@@ -1,7 +1,7 @@
 ---
 title: Jasmin Blanchette
 lastname: Blanchette
-role: Assistant Professor
+role: Associate Professor
 interests:
   - interactive and automatic theorem provers
 social:
@@ -26,7 +26,7 @@ user_groups:
 highlight_name: false
 ---
 
-I am an assistant professor in Theoretical Computer Science at the Vrije Universiteit Amsterdam. I am also a guest researcher in the VeriDis group at Loria in Nancy, in the Automation of Logic group at the Max-Planck-Institut für Informatik in Saarbrücken, and in the Institut für Systemsicherheit of the Universität der Bundeswehr München. I did my PhD at the Chair for Logic and Verification at the Technische Universität München. Before that, I worked as software engineer and documentation manager for Trolltech (now The Qt Company) in Oslo.
+I am an associate professor in Theoretical Computer Science at the Vrije Universiteit Amsterdam. I am also a guest researcher in the VeriDis group at Loria in Nancy, in the Automation of Logic group at the Max-Planck-Institut für Informatik in Saarbrücken, and in the Institut für Systemsicherheit of the Universität der Bundeswehr München. I did my PhD at the Chair for Logic and Verification at the Technische Universität München. Before that, I worked as software engineer and documentation manager for Trolltech (now The Qt Company) in Oslo.
 
 Theorem proving plays a central role in formal methods and, more generally, in theoretical computer science. With my research, I work on strengthening proof automation for general-purpose logics and on making proof assistants more cost-effective to use. A hallmark of my research is the combination of automatic and interactive methods—of human and artificial intelligence. I envision a future in which automatic theorem provers and proof assistants will be routinely used for critical computing infrastructure, for programming language design, and more broadly for research in computer science and mathematics, thereby leading to more trustworthy systems and science.
 

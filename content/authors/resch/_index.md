@@ -29,4 +29,4 @@ interests:
   - cryptography
 ---
 
-Hello! I am an assistant professor with the Theoretical Computer Science Group from the Informatics' Institute of the University of Amsterdam. While I have broad interests in much of computer, most of my work focuses on coding theory (protecting data from errors), cryptography (protecting data from bad guys) and their intersection.
+Hello! I am an assistant professor with the Theoretical Computer Science Group from the Informatics' Institute of the University of Amsterdam. While I have broad interests in much of computer science, most of my work focuses on coding theory (protecting data from errors), cryptography (protecting data from bad guys) and their intersection.

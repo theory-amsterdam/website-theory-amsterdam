@@ -3,8 +3,10 @@ title: Frank S. de Boer
 lastname: Boer
 role: Senior Researcher, Full Professor
 interests:
-  - programming logics and semantics
-  - theoretical computer science
+  - semantics and proof-theory of (concurrent) programming languages
+  - computer-aided specification and verification
+  - component-based software engineering
+  - multi-agent systems
 social:
   - icon: link
     icon_pack: fas

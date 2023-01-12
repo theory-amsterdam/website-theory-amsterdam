@@ -9,7 +9,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://homepages.cwi.nl/~schaefer/
+    link: https://homepages.cwi.nl/~monique/
   - icon: envelope
     icon_pack: fas
     link: mailto:monique@cwi.nl

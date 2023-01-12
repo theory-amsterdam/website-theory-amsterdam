@@ -11,7 +11,7 @@ interests:
 social:
   - icon: external-link-square-alt
     icon_pack: fas
-    link: https://www.cwi.nl/people/harry-buhrman
+    link: https://homepages.cwi.nl/~buhrman/
   - icon: envelope
     icon_pack: fas
     link: mailto:harry.buhrman@cwi.nl

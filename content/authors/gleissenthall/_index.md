@@ -1,7 +1,7 @@
 ---
 title: Klaus von Gleissenthall
 lastname: Gleissenthall
-role: Assistent Professor
+role: Assistant Professor
 interests:
   - programming languages
   - formal verification
