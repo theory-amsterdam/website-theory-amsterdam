@@ -31,4 +31,4 @@ interests:
   - logic in computer science
 
 ---
-I’m a Associate Professor of Theoretical Computer Science at the Institute for Logic, Language and Computation (ILLC) of the University of Amsterdam. My research spans different applications of logic in computer science and AI, with a particular focus on data management and knowledge representation, as well as computational learning theory.
+I’m an Associate Professor of Theoretical Computer Science at the Institute for Logic, Language and Computation (ILLC) of the University of Amsterdam. My research spans different applications of logic in computer science and AI, with a particular focus on data management and knowledge representation, as well as computational learning theory.

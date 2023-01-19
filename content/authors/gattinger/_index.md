@@ -19,9 +19,6 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/162/5058.html
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/m4lvin
 organizations:
   - name: UvA ILLC
     url: https://www.illc.uva.nl/
@@ -37,3 +34,4 @@ interests:
   - functional programming
 
 ---
+I am Assistant Professor in Theoretical Computer Science at the Institute for Logic, Language and Computation (ILLC) at the University of Amsterdam. My main research interest is Modal Logic, both from a theoretical perspective and with its applications for multi-agent systems, in particular Dynamic Epistemic Logic. A specific setting I have worked on are Gossip Protocols. I am also teaching courses in Functional Programming and have an interest in using proof assistants to verify results in Modal Logic.
