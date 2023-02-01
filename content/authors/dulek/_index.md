@@ -8,7 +8,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://www.yfkedulek.com/
+    link: https://www.linkedin.com/in/yfkedulek/
   - icon: envelope
     icon_pack: fas
     link: mailto:dulek@cwi.nl

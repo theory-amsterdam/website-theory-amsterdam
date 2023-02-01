@@ -27,4 +27,4 @@ user_groups:
 highlight_name: false
 ---
 
-I am a PhD student at QuSoft supervised by Michael Walter.
+I am a PhD student at QuSoft supervised by Michael Walter and Stacey Jeffery.
