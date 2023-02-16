@@ -25,7 +25,7 @@ user_groups:
   - UvA Informatics Institute
 
 interests:
-  - coding Theory
+  - coding theory
   - cryptography
 ---
 
