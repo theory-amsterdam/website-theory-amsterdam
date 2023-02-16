@@ -16,9 +16,6 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.uni-trier.de/pid/e/UlrichEndriss.html
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ulle_endriss
 organizations:
   - name: UvA ILLC
     url: https://www.illc.uva.nl/
