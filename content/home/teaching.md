@@ -18,7 +18,7 @@ weight: 40
 - [BSc Informatica (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7278)
 - [BSc Kunstmatige Intelligentie (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7271)
 - [BSc Wiskunde (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7228)
-- [BSc Computer Science (VU)]()
+- [BSc Computer Science (VU)](https://studiegids.vu.nl/nl/Bachelor/2022-2023/computer-science)
 - [BSc Artificial Intelligence (VU)](https://studiegids.vu.nl/nl/bachelor/2022-2023/artificial-intelligence)
 - [BSc Mathematics  (VU)](https://studiegids.vu.nl/nl/Bachelor/2022-2023/mathematics)
 
