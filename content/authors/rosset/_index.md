@@ -23,4 +23,4 @@ user_groups:
 highlight_name: false
 ---
 
-I am PhD student on the VIDI Grant Automata Transforming Streams, under supervision of Joerg Endrullis. My research focuses on term and graph rewriting.
+I am a PhD student on the VIDI grant Automata Transforming Streams, under supervision of Joerg Endrullis. My research focuses on term and graph rewriting.

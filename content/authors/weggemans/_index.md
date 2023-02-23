@@ -29,4 +29,4 @@ user_groups:
 highlight_name: false
 ---
 
-Jordi graduated from the University of Twente in Applied Physics and Applied Mathematics. Currently he works as a PhD candidate under the supervision of Harry Buhrman at the Algorithms & Complexity Group of CWI.
+I am a PhD candidate (started January 2021) under the supervision of Harry Buhrman at the Algorithms & Complexity Group of CWI (QuSoft). I work on quantum algorithms and complexity theory, with a special interest in applying ideas from those two research areas to quantum chemistry and quantum many-body physics. Before my PhD, I studied Applied Physics (Materials Science track) and Applied Mathematics (Operations Research track) at the University of Twente.

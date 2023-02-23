@@ -31,4 +31,4 @@ user_groups:
 highlight_name: false
 ---
 
-I am a PhD student of Christian Schaffner, Serge Fehr and Peter Bruin at Institute for Logic, Language and Computation at the University of Amsterdam (ILLC) and a part of the QuSoft Crypto group. I started my PhD in 2019 and expect to graduate in 2023.
+I am a PhD student under supervision of Christian Schaffner, Serge Fehr and Peter Bruin at the Institute of Logic, Language and Computation at the University of Amsterdam (ILLC) and a part of the QuSoft Crypto group. I started my PhD in 2019 and expect to graduate in 2023.
