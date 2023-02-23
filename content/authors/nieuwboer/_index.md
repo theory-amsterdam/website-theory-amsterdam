@@ -7,10 +7,10 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://www.cwi.nl/people/harold-nieuwboer
+    link: https://han28.github.io/
   - icon: envelope
     icon_pack: fas
-    link: mailto:harold.nieuwboer@cwi.nl
+    link: mailto:h.a.nieuwboer@uva.nl
   - icon: dblp
     icon_pack: ai
     link: https://dblp.uni-trier.de/pid/273/3929.html
@@ -29,4 +29,6 @@ user_groups:
 highlight_name: false
 ---
 
-Harold obtained a bachelor and a master degree in Mathematics at the VU  University Amsterdam and a master degree at the University of Cambridge.  In his master degree he studied the equivariant cohomology ring of symplectic toric manifolds. He started his PhD in October 2019 with Michael Walter as his advisor, and is interested in studying quantum information and geometry.
+I’m a PhD student at the Korteweg-de Vries Institute and QuSoft at the University of Amsterdam, and an affiliated researcher at the Ruhr-Universität Bochum, advised by prof. dr. Michael Walter and prof. dr. Eric Opdam. My office is located at Centrum Wiskunde & Informatica.
+
+I’m interested in classical and quantum algorithms for optimization problems with a lot of geometric or algebraic structure, such as (geodesic) convexity or having many symmetries. In particular, I have worked on scaling problems, such as matrix scaling, operator scaling and tensor scaling. These problems have connections to representation theory, geometric invariant theory, quantum information theory, quantum many-body physics, machine learning, statistics, and numerical linear algebra.

@@ -6,6 +6,9 @@ interests:
   - quantum computing
   - computational complexity
 social:
+  - icon: external-link-square-alt
+    icon_pack: fas
+    link: https://subhasree-patro.github.io/
   - icon: envelope
     icon_pack: fas
     link: mailto:subhasree.patro@cwi.nl
@@ -27,4 +30,4 @@ user_groups:
 highlight_name: false
 ---
 
-PhD Candidate in the area of Quantum Computing at QuSoft, supervised by Harry Buhrman.
+I am a PhD student in the Algorithms and Complexity Group at QuSoft, CWI supervised by Harry Buhrman and Florian Speelman. I am broadly interested in the area of quantum computational complexity theory. More specifically, in quantum fine-grained complexity. In addition to that, I am also interested in classical decision tree complexity and quantum query complexity of Boolean relations, and the connections between them.
