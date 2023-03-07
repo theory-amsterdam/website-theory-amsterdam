@@ -25,7 +25,7 @@ weight: 40
 ### Master study programmes
 - [MSc Artificial Intelligence (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7149)
 - [MSc Logic (UvA)](https://msclogic.illc.uva.nl/), [Logic and Computation track](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7279/250956)
-- [MSc Computer Science (UvA/VU)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7283), [Foundations of Computing and Concurrency](https://studiegids.vu.nl/nl/Master/2022-2023/computer-science-joint-degree#/tab=3&code=&panel=Computer+Science+track+Foundations+of+Computing+and+Concurrencylevel1)
+- [MSc Computer Science (UvA/VU)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7283), [Foundations of Computing and Concurrency](https://studiegids.vu.nl/en/Master/2022-2023/computer-science-joint-degree#/tab=3&code=&panel=Computer+Science+track+Foundations+of+Computing+and+Concurrencylevel1)
 - [MSc Computational Science (UvA/VU)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7234)
 - [MasterMath](https://elo.mastermath.nl/)
 - [MSc Mathematics: Discrete Mathematics and Quantum Information (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7153/247636)
