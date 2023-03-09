@@ -6,7 +6,7 @@ role: Postdoc
 social:
 - icon: link
   icon_pack: fas
-  link: https://www.illc.uva.nl/People/person/5334/Dr-Chris-Cade
+  link: https://www.linkedin.com/in/chris--cade/
 - icon: envelope
   icon_pack: fas
   link: mailto:Chris.Cade@cwi.nl

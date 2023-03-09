@@ -5,6 +5,9 @@ role: PhD Student
 interests:
   - quantum algorithms
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.illc.uva.nl/People/person/5159/Dmitry-Grinko
   - icon: envelope
     icon_pack: fas
     link: mailto:d.grinko@uva.nl

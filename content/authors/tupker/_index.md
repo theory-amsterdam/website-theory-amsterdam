@@ -5,6 +5,9 @@ role: PhD Student
 interests:
   - quantum algorithms
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.cwi.nl/en/people/quinten-marcus-tupker/
   - icon: envelope
     icon_pack: fas
     link: mailto:Quinten.Tupker@cwi.nl

@@ -9,7 +9,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://www.cwi.nl/people/leen-stougie
+    link: https://www.cwi.nl/en/people/leen-stougie/
   - icon: envelope
     icon_pack: fas
     link: mailto:Leen.Stougie@cwi.nl

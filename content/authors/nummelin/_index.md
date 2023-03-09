@@ -9,7 +9,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://research.vu.nl/en/persons/visa-nummelin
+    link: https://www.linkedin.com/in/visa-nummelin-bb3a87203/
   - icon: envelope
     icon_pack: fas
     link: mailto:visa.nummelin@vu.nl

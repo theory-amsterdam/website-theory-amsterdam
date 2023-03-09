@@ -5,6 +5,9 @@ role: PhD Student
 interests:
   - quantum cryptography
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.linkedin.com/in/lloren%C3%A7-escol%C3%A0-farr%C3%A0s-0b98b71b6/
   - icon: envelope
     icon_pack: fas
     link: mailto:l.escolafarras@uva.nl

@@ -5,6 +5,9 @@ role: PhD Student
 interests:
   - quantum algorithms
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.linkedin.com/in/lynn-engelberts/
   - icon: envelope
     icon_pack: fas
     link: mailto:Lynn.Engelberts@cwi.nl

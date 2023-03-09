@@ -7,6 +7,9 @@ interests:
   - quantum algorithms
   - quantum cryptography
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.linkedin.com/in/zursebastian/ 
   - icon: envelope
     icon_pack: fas
     link: mailto:sebastian.zur@cwi.nl
@@ -31,4 +34,4 @@ user_groups:
 highlight_name: false
 ---
 
-I am a PhD student at the CWI under supervision of Stacey Jeffery. My research interests are quantum algorithms, their query/time complexities and quantum cryptography. Previously I completed the double bachelor in Mathematics and Computer Science, as well as a master in Mathematics. 
+I am a PhD student at the CWI under supervision of Stacey Jeffery. My research interests are quantum algorithms, their query/time complexities and quantum cryptography. Previously I completed the double bachelor in Mathematics and Computer Science, as well as a master in Mathematics.

@@ -6,7 +6,7 @@ role: Postdoc
 social:
 - icon: link
   icon_pack: fas
-  link: https://www.illc.uva.nl/People/person/5322/Dr-Ido-Niesen
+  link: https://www.linkedin.com/in/ido-niesen-51851a93/
 - icon: envelope
   icon_pack: fas
   link: mailto:i.a.niesen@uva.nl

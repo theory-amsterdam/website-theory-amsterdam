@@ -7,7 +7,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://www.cwi.nl/people/rene-allerstorfer
+    link: https://www.linkedin.com/in/rene-allerstorfer-b2171a86/
   - icon: envelope
     icon_pack: fas
     link: mailto:rene.allerstorfer@cwi.nl
