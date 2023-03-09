@@ -6,6 +6,9 @@ interests:
   - quantum computing
   - quantum applications
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.linkedin.com/in/nmp-neumann/
   - icon: envelope
     icon_pack: fas
     link: mailto:Niels.Neumann@cwi.nl

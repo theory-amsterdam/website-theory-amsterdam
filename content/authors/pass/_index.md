@@ -5,6 +5,9 @@ role: PhD Student
 interests:
   - quantum algorithms
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.cwi.nl/en/people/galina-pass/
   - icon: envelope
     icon_pack: fas
     link: mailto:g.pass@uva.nl

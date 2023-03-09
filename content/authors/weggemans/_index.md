@@ -5,6 +5,9 @@ role: PhD Student
 interests:
   - quantum algorithms
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.linkedin.com/in/jordiweggemans/
   - icon: envelope
     icon_pack: fas
     link: mailto:jordi.weggemans@cwi.nl

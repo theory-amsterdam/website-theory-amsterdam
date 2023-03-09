@@ -5,6 +5,9 @@ role: PhD Student
 interests:
   - quantum cryptography
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.linkedin.com/in/garazi-muguruza/
   - icon: envelope
     icon_pack: fas
     link: mailto:g.muguruzalasa@uva.nl

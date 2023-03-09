@@ -6,6 +6,9 @@ interests:
   - quantum algorithms
   - quantum cryptography
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.linkedin.com/in/philip-verduyn-lunel-b81815a7/
   - icon: envelope
     icon_pack: fas
     link: mailto:philip.verduyn.lunel@cwi.nl

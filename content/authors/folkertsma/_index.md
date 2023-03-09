@@ -6,6 +6,9 @@ interests:
   - quantum algorithms
   - quantum complexity theory
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.linkedin.com/in/marten-folkertsma-491368bb/
   - icon: envelope
     icon_pack: fas
     link: mailto:marten.folkertsma@cwi.nl
