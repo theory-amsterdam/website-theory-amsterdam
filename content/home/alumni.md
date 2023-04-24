@@ -15,9 +15,11 @@ design:
 ## Permanent Members
 | Name                                                                            | Institution | Years | Current Affiliation |
 |---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
+| [Jasmin Blanchette](https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette_de.html)  | Vrije Universiteit Amsterdam | 2017-2023 | Ludwig-Maximilians-Universität München |
+| [Leen Torenvliet](https://www.linkedin.com/in/leen-torenvliet-9671405)                  | University of Amsterdam | 1975 - 2022 | retired
 | [Inge Bethke](https://staff.fnwi.uva.nl/i.bethke/)                                      | University of Amsterdam | 2001-2022 | retired |
 | [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/)                                       | University of Amsterdam | 1995-2022 | retired |
-| [Viresh Patel](https://www.qmul.ac.uk/maths/profiles/patelv.html)                       | University of Amsterdam | 2015-2022 | Queen Mary University of London|
+| [Viresh Patel](https://www.qmul.ac.uk/maths/profiles/patelv.html)                       | University of Amsterdam | 2015-2022 | Queen Mary University of London |
 | [Michael Walter](https://michaelwalter.info/)                                           | University of Amsterdam | 2017-2021 | Ruhr Universität Bochum |
 
 
@@ -34,6 +36,7 @@ design:
 ## PhD Students
 | Name                                                                            | PhD Advisor(s) | Year of PhD | Current Affiliation |
 |---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
+| [ Arjan Cornelissen](https://arriopolis.github.io/)                            | Māris Ozols | 2023 | Université Paris Cité |
 | [Freek Witteveen](https://www.linkedin.com/in/freek-witteveen-b8490211b/)       | Michael Walter | 2022 | Centre for the Mathematics of Quantum Theory van de Department of Mathematical Sciences van de University of Copenhagen |
 | [Petar Vukmirovic](https://www.linkedin.com/in/petar-vukmirovic/)               | Jasmin Blanchette | 2022 | De Nederlandsche Bank |
 | [Farrokh Labib](https://www.linkedin.com/in/farrokh-labib-13066687/)            | Jop Briët| 2022 | Goldman Sachs, Zürich |

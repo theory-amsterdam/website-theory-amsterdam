@@ -40,8 +40,8 @@ user_groups:
 highlight_name: false
 ---
 
-Harry Buhrman (born 1966) is a Dutch computer scientist, currently Professor of algorithms, complexity theory, and quantum computing at the University of Amsterdam (UvA), group leader of the Quantum Computing Group at the Centrum Wiskunde & Informatica (CWI), and executive director of QuSoft, the Dutch research center for quantum software.
+Harry Buhrman (born 1966) is a Dutch computer scientist, currently professor of algorithms, complexity theory, and quantum computing at the University of Amsterdam (UvA), group leader of the Quantum Computing Group at the Centrum Wiskunde & Informatica (CWI), and executive director of QuSoft, the Dutch research center for quantum software.
 
-Buhrman research interests are on Quantum Computing, Quantum Information, Quantum Cryptography, Computational complexity theory, Kolmogorov Complexity, and Computational Biology.
+Buhrman's research interests are in quantum computing, quantum information, quantum cryptography, computational complexity theory, Kolmogorov complexity, and computational biology.
 
-Buhrman contributed substantially to the quantum analogue of Communication complexity, exhibiting an advantage of the use of qubits in distributed information-processing tasks. Although quantum entanglement cannot be used to replace communication, can be used to reduce the communication exponentially.
+Buhrman contributed substantially to the quantum analogue of communication complexity, exhibiting an advantage of the use of qubits in distributed information-processing tasks. Although quantum entanglement cannot be used to replace communication, it can be used to reduce the communication exponentially.
