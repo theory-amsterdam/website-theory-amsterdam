@@ -37,8 +37,8 @@ interests:
   - (quantum) information theory
 ---
 
-My group forms the core of the QuSoft research line "Cryptography in a Quantum World".
-Since September 2020, I am the chairman of [Quantum.Amsterdam](https://www.quantum.amsterdam/), an innovation hub for quantum software, technology and applications.
-I am the chairman of the [Talent & Outreach Committee](https://www.quantumsc.nl/ABOUT-QSC2/Talent-Outreach-committee/) of the [Quantum Software Consortium (QSC)](https://www.quantumsc.nl/).
+I am Professor in Theoretical Computer Science and group leader of the Theory of Computer Science (TCS) group at the Informatics Institute at the University of Amsterdam, Netherlands. I'm a member of QuSoft, the Dutch research center for quantum software, located at CWI, the Centre for Mathematics and Computer Science. My group is part of the large Amsterdam TCS community and forms the core of the QuSoft research line "Cryptography in a Quantum World".
+
+Since September 2020, I am the chairman of [Quantum.Amsterdam](https://www.quantum.amsterdam/), an innovation hub for quantum software, technology and applications. I am the chairman of the [Talent & Outreach Committee](https://www.quantumsc.nl/ABOUT-QSC2/Talent-Outreach-committee/) of the [Quantum Software Consortium (QSC)](https://www.quantumsc.nl/).
 
 My research interests are Quantum Cryptography, Cryptographic Protocols, and (Quantum) Information Theory.

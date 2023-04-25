@@ -1,7 +1,7 @@
 ---
 title: Leen Stougie
 lastname: Stougie
-role: Group Leader CWI, Full Professor
+role: Full Professor
 interests:
   - optimization
   - approximation algorithms
@@ -17,8 +17,8 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=qk0hejcAAAAJ
 organizations:
-  - name: CWI Life Sciences and Health
-    url: https://www.cwi.nl/research/groups/life-sciences-and-health
+  - name: CWI Networks and Optimization
+    url: https://www.cwi.nl/research/groups/networks-and-optimization
   - name: VU School of Business and Economics
     url: https://research.vu.nl/en/organisations/school-of-business-and-economics
 
@@ -26,7 +26,7 @@ email: ""
 superuser: false
 user_groups:
   - Permanent Members
-  - CWI Life Sciences and Health
+  - CWI Networks and Optimization
   - VU School of Business and Economics
 highlight_name: false
 ---
