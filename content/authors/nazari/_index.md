@@ -10,6 +10,9 @@ social:
   - icon: link
     icon_pack: fas
     link: https://www.cs.jhu.edu/~ynazari/
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:y.nazari@vu.nl
 
 organizations:
   - name: VU Theoretical Computer Science
