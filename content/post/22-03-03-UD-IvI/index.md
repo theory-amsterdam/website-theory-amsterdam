@@ -44,7 +44,7 @@ Your experience and profile:
 ## Our offer
 We offer a temporary employment contract for 38 hours per week for a period of 18 months with a probationary period of two months. Preferred starting date is between 1 August and 1 September 2022. A permanent contract follows if we assess your performance positive.
 
-The salary, depending on relevant experience before the beginning of the employment contract, will be €3,821 to €5,230 gross per month (scale 11), based on a fulltime contract (38 hours a week). This is exclusive 8% holiday allowance and 8.3% end-of-year bonus. A favourable tax agreement, the ‘30% ruling’, may apply to non-Dutch applicants. The [Collective Labour Agreement of Dutch Universities](https://www.vsnu.nl/en_GB/cao-universiteiten.html) is applicable.
+The salary, depending on relevant experience before the beginning of the employment contract, will be €3,821 to €5,230 gross per month (scale 11), based on a fulltime contract (38 hours a week). This is exclusive 8% holiday allowance and 8.3% end-of-year bonus. A favourable tax agreement, the ‘30% ruling’, may apply to non-Dutch applicants. The [Collective Labour Agreement of Dutch Universities](https://www.universiteitenvannederland.nl/en/cao) is applicable.
 
 Are you curious about our extensive package of secondary employment benefits like our excellent opportunities for study and development? Take a look [here](https://www.uva.nl/en/faculty/faculty-of-science/working-at-the-faculty/working-at-the-faculty-of-science.html).
 

@@ -29,7 +29,7 @@ design:
   columns: '1'
 ---
 ## Code of Conduct
-Researchers at Dutch universities and knowledge institutes follow the [Netherlands Code of Conduct for Research Integrity](https://www.vsnu.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf).
+Researchers at Dutch universities and knowledge institutes follow the [Netherlands Code of Conduct for Research Integrity](https://www.universiteitenvannederland.nl/files/documents/Netherlands%20Code%20of%20Conduct%20for%20Research%20Integrity%202018.pdf).
 The Code of Conduct has been adopted by all universities and has been in force since 1 October 2018.
 
 ## Contact

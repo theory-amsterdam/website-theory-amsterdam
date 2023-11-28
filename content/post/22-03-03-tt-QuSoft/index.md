@@ -51,7 +51,7 @@ Start dates are negotiable. The positions will be filled at the level of Assista
 
 In case of Associate Professor, we offer you a tenured position with a probation period of 18 months. The starting salary will be in accordance with university regulations for academic personnel and depending on experience and qualifications. It will range from a minimum of €3,821 gross per month up to a maximum of €7,079 gross per month (salary scale 11-14) based on full-time employment.
 
-This is exclusive 8% holiday allowance and 8.3% end-of-year bonus. A favourable tax agreement, the ‘30% ruling’, may apply to non-Dutch applicants. The collective labour agreement [Dutch Universities](https://www.vsnu.nl/en_GB/cao-universiteiten.html) is applicable.
+This is exclusive 8% holiday allowance and 8.3% end-of-year bonus. A favourable tax agreement, the ‘30% ruling’, may apply to non-Dutch applicants. The collective labour agreement [Dutch Universities](https://www.universiteitenvannederland.nl/en/cao) is applicable.
 
 Are you curious about our extensive package of secondary employment benefits like our excellent opportunities for study and development? Take a look [here](https://www.uva.nl/en/faculty/faculty-of-science/working-at-the-faculty/working-at-the-faculty-of-science.html).
 
