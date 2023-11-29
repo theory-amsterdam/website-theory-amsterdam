@@ -47,7 +47,7 @@ You are expected to
 ## Our offer
 We offer a temporary employment contract with a tenure track agreement for the duration of five years. You will be offered a permanent position after positive assessment and evaluation. The type of contract is negotiable and depends on experience and scientific profile of the selected candidate. The committee will make an offer pending the vacancy and your experience and track record. The starting salary will be in accordance with university regulations for academic personnel, and depending on experience and qualifications.
 
-The gross monthly salary based on full-time employment (38 hours per week) ranges from €3,821 up to a maximum of €5,943 (salary scale 11/12). This is exclusive 8% holiday allowance and 8,3% end-of-year bonus. A favourable tax agreement, the ‘30% ruling’, may apply to non-Dutch applicants.  The profile Assistant Professor is applicable in accordance with the [Collective Labour Agreement of Dutch Universities](https://www.vsnu.nl/en_GB/cao-universiteiten.html).
+The gross monthly salary based on full-time employment (38 hours per week) ranges from €3,821 up to a maximum of €5,943 (salary scale 11/12). This is exclusive 8% holiday allowance and 8,3% end-of-year bonus. A favourable tax agreement, the ‘30% ruling’, may apply to non-Dutch applicants.  The profile Assistant Professor is applicable in accordance with the [Collective Labour Agreement of Dutch Universities](https://www.universiteitenvannederland.nl/en/cao).
 
 Are you curious about our extensive package of secondary employment benefits like our excellent opportunities for study and development? Take a look [here](https://www.uva.nl/en/faculty/faculty-of-science/working-at-the-faculty/working-at-the-faculty-of-science.html).
 

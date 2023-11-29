@@ -67,7 +67,7 @@ We offer a temporary employment contract for a period of two years, with the int
 
 The gross monthly salary depends on relevant prior experience and will range for an Assistant Professor from €3,807 to €5,211 (scale 11/12), for an Associate Professor from €5,275 to €7,054 (scale 13/14), and for a Full Professor from €6,510 to €10,272 (scale 16/18).
 
-These figures apply in case you opt for a full-time contract of 38 hours per week (part-time arrangements of 0.8fte are possible as well). The annual salary will be supplemented with an 8% holiday allowance and an 8.3% end-of-year bonus. A favourable tax agreement, the so-called ‘30% ruling’, may apply to non-Dutch applicants. The [Collective Labour Agreement of Dutch Universities](https://www.universiteitenvannederland.nl/en_GB/cao-universiteiten.html) applies.
+These figures apply in case you opt for a full-time contract of 38 hours per week (part-time arrangements of 0.8fte are possible as well). The annual salary will be supplemented with an 8% holiday allowance and an 8.3% end-of-year bonus. A favourable tax agreement, the so-called ‘30% ruling’, may apply to non-Dutch applicants. The [Collective Labour Agreement of Dutch Universities](https://www.universiteitenvannederland.nl/en/cao) applies.
 
 In case of appointment as Full Professor, there furthermore is funding available for a four-year PhD position.
 
