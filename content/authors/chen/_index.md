@@ -5,9 +5,6 @@ role: PhD Student
 interests:
   - quantum algorithms
 social:
-  - icon: link
-    icon_pack: fas
-    link: https://sites.google.com/view/jackervator/
   - icon: envelope
     icon_pack: fas
     link: mailto:yanlin@cwi.nl
