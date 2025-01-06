@@ -6,7 +6,7 @@ avatar_filename: avatar
 social:
 - icon: link
   icon_pack: fas
-  link: https://www.illc.uva.nl/People/person/5420/Dr-Rebecca-Reiffenh%c3%a4user
+  link: https://reiffenhaeuser.de
 - icon: envelope
   icon_pack: fas
   link: mailto:r.e.m.reiffenhauser@uva.nl

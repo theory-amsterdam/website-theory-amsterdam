@@ -1,7 +1,7 @@
 ---
 title: Māris Ozols
 lastname: Ozols
-role: Assistant Professor
+role: Associate Professor
 avatar_filename: avatar
 social:
 - icon: link
@@ -30,4 +30,4 @@ interests:
   - quantum algorithms
 
 ---
-I am an assistant professor at the University of Amsterdam and a researcher at QuSoft. I'm interested in quantum algorithms and quantum information theory. Before coming to Amsterdam I was a Leverhulme Early Career Fellow at the University of Cambridge and a post-doctoral researcher at IBM. I have a PhD from the University of Waterloo.
+I am an associate professor at the University of Amsterdam and a researcher at QuSoft. I'm interested in quantum algorithms and quantum information theory. Before coming to Amsterdam I was a Leverhulme Early Career Fellow at the University of Cambridge and a post-doctoral researcher at IBM. I have a PhD from the University of Waterloo.

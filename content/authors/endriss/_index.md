@@ -3,6 +3,7 @@ title: Ulle Endriss
 lastname: Endriss
 role: Full Professor
 avatar_filename: avatar
+
 social:
 - icon: link
   icon_pack: fas
