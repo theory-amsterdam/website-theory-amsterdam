@@ -29,7 +29,7 @@ superuser: false
 highlight_name: false
 
 interests:
-- automated planning
-- complexity theory
+- multi-agent path finding
+- epistemic planning
 
 ---
