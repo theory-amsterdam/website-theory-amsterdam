@@ -6,7 +6,7 @@ role: PhD Student
 social:
 - icon: link
   icon_pack: fas
-  link: https://www.illc.uva.nl/People/person/5105/Maurice-Dekker
+  link: https://staff.fnwi.uva.nl/p.m.dekker/
 - icon: envelope
   icon_pack: fas
   link: mailto:p.m.dekker@uva.nl 
