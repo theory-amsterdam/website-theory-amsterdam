@@ -65,7 +65,9 @@ address_format: nl
 highlight: false
 math: false
 diagram: false
-privacy_pack: false
+features:
+  privacy_pack:
+    enable: false
 show_related:
   post: true
   project: true
