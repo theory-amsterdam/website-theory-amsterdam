@@ -39,7 +39,7 @@
     # You can mark some check as skipped, which will block checklinks
     # from ever attempting to execute them.
     # skipPatterns is an array of strings you can match against failing reports
-    skipPatterns = ['netlify.app', 'index.webmanifest', 'cate.png', 'resch.jpeg', 'reiffenhäuser.png']
+    skipPatterns = ['netlify.app', 'index.webmanifest', 'cate.png', 'resch.jpeg', 'reiffenhäuser.png', 'fonts.gstatic.com']
 
     # You can mark some check as todo, which will execute the check, but allow failures.
     # todoPatterns is an array of strings you can match against failing reports
