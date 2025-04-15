@@ -1,7 +1,7 @@
 ---
 title: Harry Buhrman
 lastname: Buhrman
-role: Distinguished Research Professor, Director QuSoft
+role: Distinguished Research Professor
 interests:
   - quantum computing
   - complexity theory
@@ -9,12 +9,12 @@ interests:
   - Kolmogorov complexity
   - computational biology
 social:
-  - icon: external-link-square-alt
-    icon_pack: fas
-    link: https://homepages.cwi.nl/~buhrman/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/harry-buhrman-4445b9/
   - icon: envelope
     icon_pack: fas
-    link: mailto:harry.buhrman@cwi.nl
+    link: mailto:Harry.Buhrman@quantinuum.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=wlOytxsAAAAJ
@@ -23,8 +23,6 @@ social:
     link: https://twitter.com/quantumlight
 
 organizations:
-  - name: CWI Algorithms and Complexity
-    url: https://www.cwi.nl/research/groups/algorithms-and-complexity
   - name: UvA ILLC
     url: https://www.illc.uva.nl
   - name: QuSoft
@@ -34,13 +32,12 @@ email: ""
 superuser: false
 user_groups:
   - Permanent Members
-  - CWI Algorithms and Complexity
   - UvA ILLC
   - QuSoft
 highlight_name: false
 ---
 
-Harry Buhrman (born 1966) is a Dutch computer scientist, currently professor of algorithms, complexity theory, and quantum computing at the University of Amsterdam (UvA), group leader of the Quantum Computing Group at the Centrum Wiskunde & Informatica (CWI), and executive director of QuSoft, the Dutch research center for quantum software.
+Harry Buhrman (born 1966) is a Dutch computer scientist, currently professor of algorithms, complexity theory, and quantum computing at the University of Amsterdam (UvA). He is a co-founder of QuSoft, the Dutch research center for quantum software. He works at Quantinuum in the UK.
 
 Buhrman's research interests are in quantum computing, quantum information, quantum cryptography, computational complexity theory, Kolmogorov complexity, and computational biology.
 
