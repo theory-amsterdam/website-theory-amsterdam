@@ -5,10 +5,12 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
-font: native
-font_size: L
+appearance:
+  theme_day: light
+  theme_night: 
+  font: native
+  font_size: L
+
 
 # SEO
 site_type: 'ResearchOrganization'
