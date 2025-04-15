@@ -5,10 +5,12 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
-font: native
-font_size: L
+appearance:
+  theme_day: light
+  theme_night: 
+  font: native
+  font_size: L
+
 
 # SEO
 site_type: 'ResearchOrganization'
@@ -65,7 +67,9 @@ address_format: nl
 highlight: false
 math: false
 diagram: false
-privacy_pack: false
+features:
+  privacy_pack:
+    enable: false
 show_related:
   post: true
   project: true
@@ -106,10 +110,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
-  wowchemy:
-    min_length: 1  # Only the matches whose length exceeds this value will be returned.
-    threshold: 1  # Where 0 requires a perfect match and 1 matches anything.
+  provider: algolia
   algolia:
     app_id: '7QFR99CH9V'
     api_key: '62b50ee358709464f9458f04b7f3e6f8'
@@ -120,7 +121,8 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  analytics:
+    google_analytics: 'G-3LPXHP2BB3'
   google_tag_manager: 'G-3LPXHP2BB3'
   google_site_verification: ''
   baidu_site_verification: ''

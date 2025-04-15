@@ -22,8 +22,9 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
   hugoVersion:
     min: '0.84.1'
     extended: true
@@ -34,7 +35,8 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -79,9 +81,9 @@ related:
       weight: 70
 power_ups:
   hide_published_with_footer: true
-
 security:
   funcs:
     getenv:
       - ^HUGO_
       - WC_POST_CSS
+GoogleAnalytics: 'G-3LPXHP2BB3'

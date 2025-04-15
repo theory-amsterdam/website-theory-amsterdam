@@ -3,6 +3,9 @@ module github.com/wowchemy/starter-hugo-research-group
 go 1.15
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210526223849-81ba17522966 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210526223849-81ba17522966 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.1 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3 // indirect
 )
