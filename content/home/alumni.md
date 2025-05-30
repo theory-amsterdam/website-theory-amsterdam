@@ -21,17 +21,24 @@ design:
 | [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/)                                     | University of Amsterdam     | 1995-2022   | retired |
 | [Viresh Patel](https://www.qmul.ac.uk/maths/profiles/patelv.html)                     | University of Amsterdam     | 2015-2022   | Queen Mary University of London |
 | [Michael Walter](https://michaelwalter.info/)                                         | University of Amsterdam     | 2017-2021   | Ruhr Universität Bochum |
-| [Leen Stougie](https://www.cwi.nl/en/people/leen-stougie/) | CWI                         | 1980-2024 | retired     |
+| [Leen Stougie](https://www.cwi.nl/en/people/leen-stougie/) | CWI                         | 1980-2025   | retired     |
 
 
 ## Postdocs
-| Name                                                                            | Advisor | Years | Current Affiliation |
-|---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
-| [Jonas Helsen](/author/jonas-helsen/)                                           | Michael Walter | 2019-2021 | CWI / QuSoft |
-| [Christian Majenz](https://www.christianmajenz.info/about-me.html)              | Christian Schaffner | 2019-2021 | DTU Compute |
-| [Alex Grilo](https://abgrilo.github.io/)                                               | Stacey Jeffery | 2018-2021 | CNRS at LIP6 |
-| [Yinan Li](https://www.yinanli.com/)                                            | Michael Walter, Ronald de Wolf | 2018-2020 | Nagoya University |
-
+| Name                                                               | Advisor                                               | Years     | Current Affiliation       |
+|--------------------------------------------------------------------|-------------------------------------------------------|-----------|---------------------------|
+| [Jonas Helsen](/author/jonas-helsen/)                              | Michael Walter                                        | 2019-2021 | CWI / QuSoft              |
+| [Christian Majenz](https://www.christianmajenz.info/about-me.html) | Christian Schaffner                                   | 2019-2021 | DTU Compute               |
+| [Alex Grilo](https://abgrilo.github.io/)                           | Stacey Jeffery                                        | 2018-2021 | CNRS at LIP6              |
+| [Yinan Li](https://www.yinanli.com/)                               | Michael Walter, Ronald de Wolf                        | 2018-2020 | Nagoya University         |
+| [Léo Colisson](https://leo.colisson.me/)                           | Stacey Jeffery, Christian Schaffner, Florian Speelman | 2022-2025 | Université Grenoble Alpes |
+| [Mehrdad Tahmasbi](https://mtahmasbi.github.io/)                   | TODO                                                  | 2021-2025 | University of Illinois    |
+| [Nikhil Mande](https://mande-nikhil.github.io/)                    | Ronald de Wolf                                        | 2021-2023 | University of Liverpool   |
+| Philip Verduyn Lunel                                               | Harry Burhman                                         | 2021-2025 | University of Paris       |
+| Rene Allerstorfer                                                  | Harry Burhman                                         | 2021-2025 | Psi Quantum               |
+| [Subhasree Patro](https://subhasree-patro.github.io/)              | Florian Speelman, Harry Buhrman                       | 2023-2024 | TU/e                      |
+| Yfke Dulek                                                         | Christian Schaffner                                   | 2021-2025 | Unknown                   |
+| [Harold Nieuwboer](https://han28.github.io/)                       | Michael Walter, Eric Opdam                            | 2021-2025 | University of Copenhagen  |
 
 ## PhD Students
 | Name                                                                            | PhD Advisor(s) | Year of PhD | Current Affiliation |
