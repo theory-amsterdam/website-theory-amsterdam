@@ -20,8 +20,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/SolonPissis
 organizations:
-  - name: CWI Life Sciences and Health
-    url: https://www.cwi.nl/research/groups/life-sciences-and-health
+  - name: CWI Networks and Optimization
+    url: https://www.cwi.nl/research/groups/networks-and-optimization
   - name: VU Bioinformatics
     url: https://research.vu.nl/en/organisations/bioinformatics-2
 
@@ -29,7 +29,7 @@ email: ""
 superuser: false
 user_groups:
   - Permanent Members
-  - CWI Life Sciences and Health
+  - CWI Networks and Optimization
   - VU Bioinformatics
 highlight_name: false
 ---
