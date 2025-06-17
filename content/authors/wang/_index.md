@@ -6,7 +6,7 @@ role: PhD Student
 social:
 - icon: link
   icon_pack: fas
-  link: https://www.illc.uva.nl/People/person/5333/Haitian-Wang
+  link: https://haitian-yuki.github.io/
 - icon: envelope
   icon_pack: fas
   link: mailto:h.wang12@uva.nl
@@ -23,7 +23,9 @@ superuser: false
 highlight_name: false
 
 interests:
-- epistemic logic
-- model checking
-
+- Category Theory
+- Type Theory 
+- Theorem Proving
+- Functional Programming
+- Model Checking
 ---
