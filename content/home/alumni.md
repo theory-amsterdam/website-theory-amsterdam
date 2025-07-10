@@ -36,6 +36,7 @@ design:
 ## PhD Students
 | Name                                                                            | PhD Advisor(s) | Year of PhD | Current Affiliation |
 |---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
+| [Hans-Dieter Hiep](https://www.drheap.nl)                                       | Frank S. de Boer | 2024 | NLnet Foundation |
 | [ Arjan Cornelissen](https://arriopolis.github.io/)                            | Māris Ozols | 2023 | Université Paris Cité |
 | [Freek Witteveen](https://www.linkedin.com/in/freek-witteveen-b8490211b/)       | Michael Walter | 2022 | Centre for the Mathematics of Quantum Theory van de Department of Mathematical Sciences van de University of Copenhagen |
 | [Petar Vukmirovic](https://www.linkedin.com/in/petar-vukmirovic/)               | Jasmin Blanchette | 2022 | De Nederlandsche Bank |
