@@ -8,7 +8,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://beb.ninja/
+    link: https://research.beb.ninja/
   - icon: envelope
     icon_pack: fas
     link: mailto:bjjb@cwi.nl
@@ -28,4 +28,4 @@ user_groups:
 highlight_name: false
 ---
 
-I am interested in fast, combinatorial graph algorithms, the graph theoretic tools neccessary to design them. Together with Solon Pissis, I work on bringing these tools to bear to solve string problems, by connecting the two niches.
+I am interested in fast, combinatorial graph algorithms and the graph theoretic tools neccessary to design them. With Yasamin Nazari and Daniel Dadush I work on improving them. Together with Solon Pissis, I work on bringing these tools to bear to solve string problems, by connecting the two niches.
