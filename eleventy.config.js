@@ -20,7 +20,11 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
-  eleventyConfig.addPassthroughCopy("src/**/*.{jpg,jpeg,png,gif,webp,JPG,JPEG,PNG}");
+  eleventyConfig.addPassthroughCopy("src/authors/**/*.{jpg,jpeg,png,gif,webp,JPG,JPEG,PNG}");
+  eleventyConfig.addPassthroughCopy("src/history/**/*.{jpg,jpeg,png,gif,webp,JPG,JPEG,PNG}");
+  // Posts live under src/posts/ but render at /post/<slug>/ — remap so relative
+  // image refs in post bodies resolve against the rendered page URL.
+  eleventyConfig.addPassthroughCopy({ "src/posts": "post" });
 
   const firstName = (entry) => (entry.data.title || "").trim().split(/\s+/)[0] || "";
 
