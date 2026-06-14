@@ -1,3 +1,10 @@
+/* Anchor offset for sticky nav */
+html { scroll-padding-top: 70px; }
+section[id] { scroll-margin-top: 70px; }
+
+/* Sticky nav active state */
+.navbar .nav-link.active { font-weight: 600; color: #000; }
+
 /* Centered headings/CTAs ported from the old assets/scss/template.scss */
 .section-heading { text-align: center; }
 

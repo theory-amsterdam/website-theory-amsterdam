@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.6/css/academicons.min.css">
     <link rel="stylesheet" href="/assets/css/site.css">
   </head>
-  <body>
-    <nav class="navbar navbar-expand-md navbar-light bg-light border-bottom">
+  <body data-bs-spy="scroll" data-bs-target="#navMenu" data-bs-offset="80">
+    <nav class="navbar navbar-expand-md navbar-light bg-light border-bottom sticky-top">
       <div class="container">
         <a class="navbar-brand" href="/">TCS in Amsterdam</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
@@ -41,5 +41,17 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+      (function () {
+        var path = location.pathname.replace(/\/+$/, "") + "/";
+        if (path === "/") return;
+        document.querySelectorAll("#navMenu .nav-link").forEach(function (link) {
+          var href = link.getAttribute("href") || "";
+          if (href.charAt(0) === "/" && href.indexOf("#") === -1 && href !== "/" && path.indexOf(href) === 0) {
+            link.classList.add("active");
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
