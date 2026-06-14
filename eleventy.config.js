@@ -22,10 +22,16 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.addPassthroughCopy("src/**/*.{jpg,jpeg,png,gif,webp,JPG,JPEG,PNG}");
 
+  const firstName = (entry) => (entry.data.title || "").trim().split(/\s+/)[0] || "";
+
   eleventyConfig.addCollection("authors", (collectionApi) =>
     collectionApi
       .getFilteredByGlob("src/authors/**/index.md")
-      .sort((a, b) => (a.data.lastname || "").localeCompare(b.data.lastname || ""))
+      .sort((a, b) => {
+        const byFirst = firstName(a).localeCompare(firstName(b));
+        if (byFirst !== 0) return byFirst;
+        return (a.data.lastname || "").localeCompare(b.data.lastname || "");
+      })
   );
 
   return {
