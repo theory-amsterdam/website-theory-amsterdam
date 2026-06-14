@@ -1,0 +1,26 @@
+---
+layout: layout.njk
+---
+<article class="post">
+  <header class="mb-4">
+    <h1>{{ title }}</h1>
+    <p class="text-muted small mb-1">
+      {% if date %}<time datetime="{{ date | dateISO }}">{{ date | dateLong }}</time>{% endif %}
+      {% if authors and authors.length %}
+        &middot; by
+        {% for slug in authors -%}
+          {%- set outerLast = loop.last -%}
+          {%- for a in collections.authors -%}
+            {%- if a.data.page.fileSlug == slug -%}
+              <a href="{{ a.url }}">{{ a.data.title }}</a>{% if not outerLast %}, {% endif %}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endfor %}
+      {% endif %}
+    </p>
+  </header>
+  <div class="post-body">
+    {{ content | safe }}
+  </div>
+  <p class="mt-4"><a href="/post/">&larr; back to all posts</a></p>
+</article>

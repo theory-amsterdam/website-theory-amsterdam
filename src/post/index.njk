@@ -1,0 +1,37 @@
+---
+layout: layout.njk
+title: News & Jobs
+permalink: /post/
+---
+<div class="section-heading mb-4">
+  <h1>News &amp; Jobs</h1>
+  <p>Announcements, job openings, and updates from the Amsterdam TCS community.</p>
+</div>
+
+{% set posts = collections.posts | reverse %}
+{% if posts.length == 0 %}
+  <p>No posts yet.</p>
+{% else %}
+  <ul class="list-unstyled">
+    {% for post in posts %}
+      <li class="mb-4 pb-3 border-bottom">
+        <h2 class="h4 mb-1"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+        <p class="text-muted small mb-2">
+          <time datetime="{{ post.data.date | dateISO }}">{{ post.data.date | dateLong }}</time>
+          {% if post.data.authors and post.data.authors.length %}
+            &middot; by
+            {% for slug in post.data.authors -%}
+              {%- set outerLast = loop.last -%}
+              {%- for a in collections.authors -%}
+                {%- if a.data.page.fileSlug == slug -%}
+                  <a href="{{ a.url }}">{{ a.data.title }}</a>{% if not outerLast %}, {% endif %}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endfor %}
+          {% endif %}
+        </p>
+        {% if post.data.summary %}<p>{{ post.data.summary }}</p>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
