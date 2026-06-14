@@ -1,21 +1,14 @@
 ---
-widget: blank
-headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
+layout: layout.njk
 title: History
-subtitle:
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-show_date: true
-share: false
-weight: 40
+permalink: /history/
 ---
+# History
+
 
 This page lists a selection of retired TCS researchers that have been active in Amsterdam for part of their lives. The list is approximately ordered by the end time of their activity in Amsterdam.
 
-{{<toc>}}
+
 
 ## Adriaan van Wijngaarden
 from [Wikipedia](https://en.wikipedia.org/wiki/Adriaan_van_Wijngaarden):
@@ -192,4 +185,4 @@ During his scientific career he held tenure positions in Poland, France, USA, an
 <br clear="left"><br><br>
 
 
-{{% cta cta_link="../contact/" cta_text="Send us your suggestions for more people to be listed here." %}}
+<p class="text-center my-4"><a class="btn btn-outline-primary" href="/contact/">Send us your suggestions for more people to be listed here.</a></p>
