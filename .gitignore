@@ -1,9 +1,14 @@
 # IDEs
 .idea/
 ~$
+.vscode/
 
-# Hugo
+# Hugo (legacy — being migrated)
 /resources/
 public/
 assets/jsconfig.json
 .hugo_build.lock
+
+# Eleventy
+_site/
+node_modules/

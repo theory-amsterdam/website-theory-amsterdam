@@ -1,0 +1,53 @@
+---
+layout: layout.njk
+title: Home
+---
+{% set groupOrder = ["Permanent Members", "Postdocs", "PhD Students", "Research Assistants", "Visitors", "Alumni"] %}
+
+<section class="hero text-center py-4">
+  <h1 class="display-5">TCS in Amsterdam</h1>
+  <img src="/assets/media/theory.amsterdam.3.png" alt="TCS in Amsterdam" class="img-fluid my-3" style="max-height: 240px;">
+  <p class="lead mx-auto" style="max-width: 720px;">
+    This website provides an overview of the academic research in theoretical computer science (TCS) carried out at various institutions in Amsterdam.
+  </p>
+</section>
+
+<section id="people" class="py-4">
+  <div class="section-heading mb-3">
+    <h1>TCS Researchers in Amsterdam</h1>
+    <p>list displayed alphabetically<br>alternative: <a href="/institutes/">display by institute</a></p>
+  </div>
+
+  {% for group in groupOrder %}
+    {% set members = [] %}
+    {% for author in collections.authors %}
+      {% if author.data.user_groups and (group in author.data.user_groups) %}
+        {% set members = (members.push(author), members) %}
+      {% endif %}
+    {% endfor %}
+
+    {% if members.length %}
+      <h2 class="group-heading text-center">{{ group }}</h2>
+      <div class="row justify-content-center people-widget">
+        {% for author in members %}
+          {% include "person-card.njk" %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>
+
+<section id="seminars" class="py-4">
+  <div class="section-heading mb-3"><h1>Seminars</h1></div>
+  {% renderFile "./src/_includes/sections/seminars.md", {}, "md" %}
+</section>
+
+<section id="teaching" class="py-4">
+  <div class="section-heading mb-3"><h1>Teaching</h1></div>
+  {% renderFile "./src/_includes/sections/teaching.md", {}, "md" %}
+</section>
+
+<section id="alumni" class="py-4">
+  <div class="section-heading mb-3"><h1>Some Alumni</h1></div>
+  {% renderFile "./src/_includes/sections/alumni.md", {}, "md" %}
+</section>

@@ -1,0 +1,16 @@
+{# Renders one researcher portrait card. Expects `author` (an Eleventy collection item)
+   and the `avatars` global. #}
+{% set link = author.url %}
+{% set src = avatars[author.data.page.fileSlug] or '/assets/media/generic-avatar.jpg' %}
+<div class="col-12 col-sm-auto people-person">
+  <a href="{{ link }}"><img src="{{ src }}" alt="{{ author.data.title }}" class="avatar avatar-circle"></a>
+  <div class="portrait-title">
+    <h2><a href="{{ link }}">{{ author.data.title }}</a></h2>
+    {% if author.data.role %}<h3>{{ author.data.role }}</h3>{% endif %}
+    {% set social = author.data.social %}
+    {% include "social-icons.njk" %}
+    {% if author.data.interests and author.data.interests.length %}
+      <p class="people-interests">{{ author.data.interests | join(', ') }}</p>
+    {% endif %}
+  </div>
+</div>

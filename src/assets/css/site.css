@@ -1,0 +1,45 @@
+/* Centered headings/CTAs ported from the old assets/scss/template.scss */
+.section-heading { text-align: center; }
+
+/* Portrait grid */
+.people-widget { row-gap: 2rem; }
+.people-person { text-align: center; max-width: 14rem; }
+.people-person .avatar { width: 150px; height: 150px; object-fit: cover; }
+.avatar-circle { border-radius: 50%; }
+.avatar-square { border-radius: 0; }
+.portrait-title h2 { font-size: 1.05rem; margin-top: 0.75rem; margin-bottom: 0.1rem; }
+.portrait-title h3 { font-size: 0.85rem; color: #555; margin-bottom: 0.25rem; }
+.portrait-title a { color: inherit; text-decoration: none; }
+.portrait-title a:hover { text-decoration: underline; }
+.people-interests { font-size: 0.8rem; color: #666; margin-top: 0.25rem; }
+
+/* Social icon row */
+.social-icons { margin: 0.25rem 0; padding: 0; list-style: none; display: flex; gap: 0.5rem; justify-content: center; }
+.social-icons a { color: #444; }
+.social-icons a:hover { color: #000; }
+
+/* Group section headings on homepage */
+.group-heading { margin-top: 2.5rem; margin-bottom: 1.25rem; }
+
+/* Tables rendered from markdown (alumni section) — bare <table> elements */
+section table {
+  width: 100%;
+  margin-bottom: 1.5rem;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+section table th,
+section table td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #dee2e6;
+  vertical-align: top;
+}
+section table thead th {
+  border-bottom: 2px solid #adb5bd;
+  background: #f8f9fa;
+  text-align: left;
+}
+
+/* Author profile page */
+.author-profile .avatar { width: 180px; height: 180px; object-fit: cover; }
+.author-profile .bio { font-size: 1rem; line-height: 1.6; }
