@@ -21,6 +21,10 @@ layout: layout.njk
           {% endif %}
         </p>
       </header>
+      {% set featuredImage = featured[page.fileSlug] %}
+      {% if featuredImage %}
+        <img src="{{ featuredImage }}" alt="" class="post-featured img-fluid mb-4 d-block mx-auto">
+      {% endif %}
       <div class="post-body">
         {{ content | safe }}
       </div>
