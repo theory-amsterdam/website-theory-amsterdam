@@ -5,62 +5,68 @@ This website provides an overview of the academic research in theoretical comput
 
 Initiated by Christian Schaffner in September 2021, currently maintained by Christian Schaffner, Ulle Endriss and others.
 
-Built from [Wowchemy's Research Group Template](https://github.com/wowchemy/starter-hugo-research-group) for [Hugo](https://github.com/gohugoio/hugo).
+Built with [Eleventy](https://www.11ty.dev/) and [Bootstrap 5](https://getbootstrap.com/).
 
-## Building this website from scratch locally
+## Running the site locally
 
-### On Mac/Linux
-
-1. Install [Hugo and its dependencies](https://wowchemy.com/docs/getting-started/install-hugo-extended/).
+1. Install [Node.js](https://nodejs.org/) (v20 or newer).
 
 2. Clone this repo:
 
 ```bash
 $ git clone git@github.com:theory-amsterdam/website-theory-amsterdam.git
+$ cd website-theory-amsterdam
+$ npm install
 ```
 
-3. Start the Hugo server to see the site live locally at http://localhost:1313/ (or at whatever the Hugo server tells you):
+3. Start the dev server (serves at http://localhost:8080/ by default and live-reloads on changes):
 
 ```bash
-$ cd website-theory-amsterdam
-$ hugo server
+$ npm run dev
 ```
 
-4. Edit the [Markdown source files](https://wowchemy.com/docs/content/writing-markdown-latex/) with the `.md` extension in the [/content/](/content) subdirectory to make changes to the site. As long as the Hugo server is running, your changes should be visible immediately at http://localhost:1313/.
+4. Edit the Markdown files in [/src/](/src) to make changes. The site rebuilds automatically while the dev server is running.
 
-5. Using a suitable editor like [Visual Studio Code](https://code.visualstudio.com/) allows you to easily search across all source files and will help find the correct file to edit if you want to make specific changes.
+5. Add a new researcher by duplicating a folder in [/src/authors/](/src/authors), editing the `index.md` frontmatter, and dropping in an `avatar.jpg` (or `.png` / `.jpeg`).
 
-6. Add new researchers by duplicating a similar subfolder in [/content/authors/](/content/authors) and adjusting the `.md` content and replacing the avatar picture.
+6. When you're happy with the result, commit to `main`. Netlify rebuilds and deploys automatically to https://theory-amsterdam.netlify.app/ (and https://theory.amsterdam).
 
-7. When you are happy with the result, commit the changes to the main branch. The site is then automatically deployed to https://theory-amsterdam.netlify.app/ and accessible under https://theory.amsterdam.
+To produce a one-off production build into `_site/`:
 
-### On Windows
-
-1. Install:
-   - [GitHub Desktop](https://desktop.github.com/)
-   - [Visual Studio Code](https://code.visualstudio.com/)
-   - [Hugo and its dependencies](https://wowchemy.com/docs/getting-started/install-hugo-extended/#windows), including PowerShell and Scoop.
-   - [Go](https://go.dev/doc/install)
+```bash
+$ npm run build
+```
 
 ## Updating an existing personal page
 
 If you just want to edit a single already existing page, you can do this through the GitHub web interface by following these steps:
 
 1. Log into https://github.com, or sign up for an account if you don't have one.
-2. Navigate to the `_index.md` file of the personal page you want to edit, e.g., [/content/authors/schaffner/_index.md](/content/authors/schaffner/_index.md).
+2. Navigate to the `index.md` file of the personal page you want to edit, e.g., [/src/authors/schaffner/index.md](/src/authors/schaffner/index.md).
 3. Click on the "edit" icon in the upper right corner.
 4. The system will warn you that you don't have write permission in the repository and that it will create a fork of the repo instead.
 5. Make the edits you want in your copy of the file.
 6. Click on "commit changes..." in the upper right corner.
-7. Provide a sensible `commit message` like "Update _index.html of Christian Schaffner" and `description` like "update job descriptions".
+7. Provide a sensible `commit message` like "Update index.md of Christian Schaffner" and `description` like "update job descriptions".
 8. When you are happy with the proposed changes, click on `create pull request`, and again on `create pull request` to confirm.
 9. Then wait until one of the maintainers of the project approves your request or provides you with more information on how to adapt your request.
 
 In these beginner's guides, you can find some more information about [pull requests](https://www.howtogeek.com/devops/what-are-git-pull-requests-and-how-do-you-use-them/) and [how to get started with them](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/).
 
+## Project layout
 
-## Troubleshooting
-
-This [information](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/) might be useful. Sometimes, you might have to [delete Hugo's default cache folder](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/#error-failed-to-resolve-output-format).
-
-For more information, try the search function on the [Wowchemy website](https://wowchemy.com/).
+```
+src/
+  _includes/   layouts and reusable templates
+  _data/       global data (e.g. avatars.js)
+  assets/      CSS, media, static files passed through to the build
+  authors/     one folder per researcher (index.md + avatar)
+  posts/       news & job posts (one folder per post)
+  contact/     contact page
+  history/     history page
+  institutes/  institutes page
+  post/        /post/ listing page
+  index.njk    homepage
+eleventy.config.js
+netlify.toml
+```
