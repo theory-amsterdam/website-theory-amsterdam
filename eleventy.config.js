@@ -5,8 +5,22 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.ignores.add("**/_site/**");
 
+  eleventyConfig.addFilter("dateISO", (d) => {
+    const date = d instanceof Date ? d : new Date(d);
+    return date.toISOString().slice(0, 10);
+  });
+
+  eleventyConfig.addFilter("dateLong", (d) => {
+    const date = d instanceof Date ? d : new Date(d);
+    return date.toLocaleDateString("en-GB", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+  });
+
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
-  eleventyConfig.addPassthroughCopy("src/authors/**/avatar.*");
+  eleventyConfig.addPassthroughCopy("src/**/*.{jpg,jpeg,png,gif,webp,JPG,JPEG,PNG}");
 
   eleventyConfig.addCollection("authors", (collectionApi) =>
     collectionApi
