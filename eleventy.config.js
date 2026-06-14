@@ -4,6 +4,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(RenderPlugin);
 
   eleventyConfig.ignores.add("**/_site/**");
+  // Homepage prose partials are rendered via {% renderFile %} from home/index.njk;
+  // ignore them as standalone templates so they don't emit /home/sections/<slug>/ pages.
+  eleventyConfig.ignores.add("src/home/sections/**/*.md");
 
   eleventyConfig.addFilter("dateISO", (d) => {
     const date = d instanceof Date ? d : new Date(d);
