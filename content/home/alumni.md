@@ -39,29 +39,33 @@ design:
 
 
 ## PhD Students
-| Name                                                                               | PhD Advisor(s)                               | Year of PhD | Current Affiliation |
-|------------------------------------------------------------------------------------|----------------------------------------------|-------------|---------------------|
-| [Estéban Gabory](https://estebangabory.github.io)                                  | Solon P. Pissis, Leen Stougie                | 2025        | University of Wrocław |
-| [Harold Nieuwboer](https://han28.github.io)                                        | Michael Walter, Eric Opdam                   | 2024        | University of Copenhagen |
-| [Rene Allerstorfer](https://www.linkedin.com/in/rene-allerstorfer-b2171a86/)       | Harry Buhrman                                | 2024        | PsiQuantum |
-| [Philip Verduyn Lunel](https://www.linkedin.com/in/philip-verduyn-lunel-b81815a7/) | Harry Buhrman                                | 2024        | Sorbonne Université |
-| [Hans-Dieter Hiep](https://www.drheap.nl)                                          | Frank S. de Boer                             | 2024        | NLnet Foundation |
-| [Arjan Cornelissen](https://arriopolis.github.io/)                                 | Māris Ozols                                  | 2023        | Simons Institute, UC Berkeley |
-| [Subhasree Patro](https://subhasree-patro.github.io)                               | Harry Buhrman, Florian Speelman              | 2023        | Eindhoven University of Technology |
-| [Freek Witteveen](https://www.linkedin.com/in/freek-witteveen-b8490211b/)          | Michael Walter                               | 2022        | QuSoft |
-| [Petar Vukmirovic](https://www.linkedin.com/in/petar-vukmirovic/)                  | Jasmin Blanchette                            | 2022        | Mendix |
-| [Farrokh Labib](https://www.linkedin.com/in/farrokh-labib-13066687/)               | Jop Briët                                    | 2022        | Unitary Foundation |
-| [Jan Czajkowski](https://www.linkedin.com/in/jan-czajkowski-44201ba8/)             | Christian Schaffner, Harry Buhrman           | 2021        | Shell |
-| [Alexander Bentkamp](https://abentkamp.github.io/)                                 | Jasmin Blanchette, Wan Fokkink, Uwe Waldmann | 2021        | Cryspen |
-| [Zoi Terzopoulou](https://www.zoiterzopoulou.com/)                                 | Ulle Endriss                                 | 2021        | GATE, Saint-Etienne School of Economics |
-| [Joris Kattemölle](https://www.kattemolle.com)                                     | Jasper van Wezel, Kareljan Schoutens         | 2021        | University of Konstanz |
-| [Yfke Dulek](https://www.linkedin.com/in/yfkedulek/)                               | Christian Schaffner, Harry Buhrman           | 2020        | QuSoft |
-| [Joran van Apeldoorn](https://www.linkedin.com/in/joran-van-apeldoorn-924483103)   | Ronald de Wolf                               | 2020        | Institute of Information Law, UvA |
-| [Koen Groenland](https://sites.google.com/view/koengroenland)                      | Harry Buhrman, Kareljan Schoutens            | 2020        | UvA and QuSoft |
-| [András Gilyén](http://gilyen.hu/)                                                 | Ronald de Wolf                               | 2019        | Alfréd Rényi Institute of Mathematics, Budapest |
-| [Sander Gribling](https://sites.google.com/site/sandergribling/)                   | Monique Laurent, Ronald de Wolf              | 2019        |	Tilburg University |
-| [Srinivasan Arunachalam](https://logitechenator.github.io/sarunach/)	             | Ronald de Wolf                               | 2018        | IBM T.J. Watson Research Center |
-| [Giannicola Scarpa](https://sites.google.com/site/giannicolascarpa/)               | Ronald de Wolf                               | 2013        |	Universidad Politécnica de Madrid	|
-| [Umberto Grandi](https://www.irit.fr/~Umberto.Grandi/)                             | Ulle Endriss                                 | 2012        | IRIT, University of Toulouse |
-| [Stephanie Wehner](https://qutech.nl/person/stephanie-wehner/)                     | Harry Buhrman                                | 2008        | QuTech, TU Delft |
-| [Troy Lee](http://troylee.org/)                                                    | Harry Buhrman                                | 2006        | University of Technology Sydney |
+| Name                                                                               | PhD Advisor(s)                                  | Year of PhD | Current Affiliation |
+|------------------------------------------------------------------------------------|-------------------------------------------------|-------------|---------------------|
+| [Visa Nummelin](https://www.linkedin.com/in/visa-nummelin-bb3a87203/)              | Jasmin Blanchette                               | 2025        |  |
+| [Aloïs Rosset](https://alois.rosset.pro/)                                          | Joerg Endrullis, Helle Hvid Hansen, Wan Fokkink | 2025        | École Suisse d'Allemand |
+| [Anne Baanen](https://anne.mx/)                                                    | Jasmin Blanchette, Sander Dahmen                | 2024        | Mathlib Initiative |
+| Roy Overbeek                                                                       | Wan Fokkink, Jörg Endrullis                     | 2024        |  |
+| [Estéban Gabory](https://estebangabory.github.io)                                  | Solon P. Pissis, Leen Stougie                   | 2025        | University of Wrocław |
+| [Harold Nieuwboer](https://han28.github.io)                                        | Michael Walter, Eric Opdam                      | 2024        | University of Copenhagen |
+| [Rene Allerstorfer](https://www.linkedin.com/in/rene-allerstorfer-b2171a86/)       | Harry Buhrman                                   | 2024        | PsiQuantum |
+| [Philip Verduyn Lunel](https://www.linkedin.com/in/philip-verduyn-lunel-b81815a7/) | Harry Buhrman                                   | 2024        | Sorbonne Université |
+| [Hans-Dieter Hiep](https://www.drheap.nl)                                          | Frank S. de Boer                                | 2024        | NLnet Foundation |
+| [Arjan Cornelissen](https://arriopolis.github.io/)                                 | Māris Ozols                                     | 2023        | Simons Institute, UC Berkeley |
+| [Subhasree Patro](https://subhasree-patro.github.io)                               | Harry Buhrman, Florian Speelman                 | 2023        | Eindhoven University of Technology |
+| [Freek Witteveen](https://www.linkedin.com/in/freek-witteveen-b8490211b/)          | Michael Walter                                  | 2022        | QuSoft |
+| [Petar Vukmirovic](https://www.linkedin.com/in/petar-vukmirovic/)                  | Jasmin Blanchette                               | 2022        | Mendix |
+| [Farrokh Labib](https://www.linkedin.com/in/farrokh-labib-13066687/)               | Jop Briët                                       | 2022        | Unitary Foundation |
+| [Jan Czajkowski](https://www.linkedin.com/in/jan-czajkowski-44201ba8/)             | Christian Schaffner, Harry Buhrman              | 2021        | Shell |
+| [Alexander Bentkamp](https://abentkamp.github.io/)                                 | Jasmin Blanchette, Wan Fokkink, Uwe Waldmann    | 2021        | Cryspen |
+| [Zoi Terzopoulou](https://www.zoiterzopoulou.com/)                                 | Ulle Endriss                                    | 2021        | GATE, Saint-Etienne School of Economics |
+| [Joris Kattemölle](https://www.kattemolle.com)                                     | Jasper van Wezel, Kareljan Schoutens            | 2021        | University of Konstanz |
+| [Yfke Dulek](https://www.linkedin.com/in/yfkedulek/)                               | Christian Schaffner, Harry Buhrman              | 2020        | QuSoft |
+| [Joran van Apeldoorn](https://www.linkedin.com/in/joran-van-apeldoorn-924483103)   | Ronald de Wolf                                  | 2020        | Institute of Information Law, UvA |
+| [Koen Groenland](https://sites.google.com/view/koengroenland)                      | Harry Buhrman, Kareljan Schoutens               | 2020        | UvA and QuSoft |
+| [András Gilyén](http://gilyen.hu/)                                                 | Ronald de Wolf                                  | 2019        | Alfréd Rényi Institute of Mathematics, Budapest |
+| [Sander Gribling](https://sites.google.com/site/sandergribling/)                   | Monique Laurent, Ronald de Wolf                 | 2019        |	Tilburg University |
+| [Srinivasan Arunachalam](https://logitechenator.github.io/sarunach/)	             | Ronald de Wolf                                  | 2018        | IBM T.J. Watson Research Center |
+| [Giannicola Scarpa](https://sites.google.com/site/giannicolascarpa/)               | Ronald de Wolf                                  | 2013        |	Universidad Politécnica de Madrid	|
+| [Umberto Grandi](https://www.irit.fr/~Umberto.Grandi/)                             | Ulle Endriss                                    | 2012        | IRIT, University of Toulouse |
+| [Stephanie Wehner](https://qutech.nl/person/stephanie-wehner/)                     | Harry Buhrman                                   | 2008        | QuTech, TU Delft |
+| [Troy Lee](http://troylee.org/)                                                    | Harry Buhrman                                   | 2006        | University of Technology Sydney |

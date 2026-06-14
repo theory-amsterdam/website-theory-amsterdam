@@ -17,12 +17,15 @@ social:
 organizations:
   - name: VU Theoretical Computer Science
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/
+  - name: CWI Networks and Optimization
+    url: https://www.cwi.nl/research/groups/networks-and-optimization
 
 email: ""
 superuser: false
 user_groups:
   - Permanent Members
   - VU Theoretical Computer Science
+  - CWI Networks and Optimization
 highlight_name: false
 ---
 

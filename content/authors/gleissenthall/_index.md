@@ -9,7 +9,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: https://goto.ucsd.edu/~gleissen/
+    link: https://gleissen.github.io
   - icon: envelope
     icon_pack: fas
     link: mailto:k.freiherrvongleissenthal@vu.nl
