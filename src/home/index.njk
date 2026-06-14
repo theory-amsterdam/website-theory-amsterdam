@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: Home
+permalink: "/"
 ---
 {% set groupOrder = ["Permanent Members", "Postdocs", "PhD Students", "Research Assistants", "Visitors", "Alumni"] %}
 
@@ -48,15 +49,15 @@ title: Home
 
 <section id="seminars" class="py-4">
   <div class="section-heading mb-3"><h1>Seminars</h1></div>
-  {% renderFile "./src/_includes/sections/seminars.md", {}, "md" %}
+  {% renderFile "./src/home/sections/seminars.md", {}, "md" %}
 </section>
 
 <section id="teaching" class="py-4 section-alt">
   <div class="section-heading mb-3"><h1>Teaching</h1></div>
-  {% renderFile "./src/_includes/sections/teaching.md", {}, "md" %}
+  {% renderFile "./src/home/sections/teaching.md", {}, "md" %}
 </section>
 
 <section id="alumni" class="py-4">
   <div class="section-heading mb-3"><h1>Some Alumni</h1></div>
-  {% renderFile "./src/_includes/sections/alumni.md", {}, "md" %}
+  {% renderFile "./src/home/sections/alumni.md", {}, "md" %}
 </section>
