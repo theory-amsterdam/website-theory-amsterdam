@@ -3,7 +3,7 @@ layout: layout.njk
 title: Contact
 permalink: /contact/
 ---
-# Code of Conduct & Contact
+<h1 class="text-center mb-5">Code of Conduct &amp; Contact</h1>
 
 ## Code of Conduct
 Researchers at Dutch universities and knowledge institutes follow the [Netherlands Code of Conduct for Research Integrity](https://www.universiteitenvannederland.nl/en/research-integrity).
