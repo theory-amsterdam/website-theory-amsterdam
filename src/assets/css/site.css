@@ -28,6 +28,14 @@ section[id] { scroll-margin-top: 70px; }
 /* Group section headings on homepage */
 .group-heading { margin-top: 2.5rem; margin-bottom: 1.25rem; }
 
+/* Alternating homepage section background — extends full viewport width
+   while content stays within the parent .container. */
+.section-alt {
+  background-color: #f1f3f5;
+  box-shadow: 0 0 0 100vmax #f1f3f5;
+  clip-path: inset(0 -100vmax);
+}
+
 /* Tables rendered from markdown (alumni section) — bare <table> elements */
 section table {
   width: 100%;
