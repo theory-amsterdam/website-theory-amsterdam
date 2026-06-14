@@ -19,6 +19,18 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  eleventyConfig.addFilter("excerpt", (html) => {
+    if (!html) return "";
+    const idx = html.indexOf("<!--more-->");
+    return idx >= 0 ? html.slice(0, idx) : html;
+  });
+
+  eleventyConfig.addFilter("readTime", (html) => {
+    if (!html) return 1;
+    const words = html.replace(/<[^>]+>/g, " ").trim().split(/\s+/).length;
+    return Math.max(1, Math.round(words / 200));
+  });
+
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.addPassthroughCopy("src/authors/**/*.{jpg,jpeg,png,gif,webp,JPG,JPEG,PNG}");
   eleventyConfig.addPassthroughCopy("src/history/**/*.{jpg,jpeg,png,gif,webp,JPG,JPEG,PNG}");

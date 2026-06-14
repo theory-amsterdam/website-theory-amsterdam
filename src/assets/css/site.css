@@ -28,6 +28,14 @@ section[id] { scroll-margin-top: 70px; }
 /* Group section headings on homepage */
 .group-heading { margin-top: 2.5rem; margin-bottom: 1.25rem; }
 
+/* Post list thumbnail */
+.post-list-thumb {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+.post-list-excerpt > :last-child { margin-bottom: 0; }
+
 /* Alternating homepage section background — extends full viewport width
    while content stays within the parent .container. */
 .section-alt {
