@@ -1,0 +1,55 @@
+---
+layout: layout.njk
+title: Jobs
+permalink: /post/
+---
+<div class="section-heading mb-4">
+  <h1>Jobs</h1>
+</div>
+
+<div class="row">
+  <div class="col-12 col-lg-10 offset-lg-1">
+    {% set posts = collections.posts | reverse %}
+    {% if posts.length == 0 %}
+      <p>No posts yet.</p>
+    {% else %}
+      <ul class="list-unstyled post-list">
+        {% for post in posts %}
+          {% set slug = post.data.page.fileSlug %}
+          {% set thumb = featured[slug] %}
+          <li class="post-list-item mb-5 pb-4 border-bottom">
+            <div class="row gx-4">
+              <div class="col">
+                <h2 class="h3 fw-bold mb-2"><a href="{{ post.url }}" class="text-reset text-decoration-none">{{ post.data.title }}</a></h2>
+                <div class="post-list-excerpt mb-3">
+                  {{ post.templateContent | excerpt | safe }}
+                </div>
+                {% if post.data.authors and post.data.authors.length %}
+                  <p class="text-muted small mb-1">
+                    {% for slug in post.data.authors -%}
+                      {%- set outerLast = loop.last -%}
+                      {%- for a in collections.authors -%}
+                        {%- if a.data.page.fileSlug == slug -%}
+                          <a href="{{ a.url }}" class="text-reset">{{ a.data.title }}</a>{% if not outerLast %}, {% endif %}
+                        {%- endif -%}
+                      {%- endfor -%}
+                    {%- endfor %}
+                  </p>
+                {% endif %}
+                <p class="text-muted small mb-0">
+                  Last updated on <time datetime="{{ post.data.date | dateISO }}">{{ post.data.date | dateLong }}</time>
+                  &nbsp;&middot;&nbsp; {{ post.templateContent | readTime }} min read
+                </p>
+              </div>
+              {% if thumb %}
+                <div class="col-auto">
+                  <img src="{{ thumb }}" alt="" class="post-list-thumb">
+                </div>
+              {% endif %}
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</div>

@@ -1,0 +1,38 @@
+---
+layout: layout.njk
+---
+<div class="row">
+  <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3">
+    <article class="post">
+      <header class="mb-4">
+        <h1>{{ title }}</h1>
+        {% if authors and authors.length %}
+          <p class="mb-1">
+            {% for slug in authors -%}
+              {%- set outerLast = loop.last -%}
+              {%- for a in collections.authors -%}
+                {%- if a.data.page.fileSlug == slug -%}
+                  <a href="{{ a.url }}">{{ a.data.title }}</a>{% if not outerLast %}, {% endif %}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endfor %}
+          </p>
+        {% endif %}
+        {% if date %}
+          <p class="text-muted small mb-0">
+            Last updated on <time datetime="{{ date | dateISO }}">{{ date | dateLong }}</time>
+            &nbsp;&middot;&nbsp; {{ content | readTime }} min read
+          </p>
+        {% endif %}
+      </header>
+      {% set featuredImage = featured[page.fileSlug] %}
+      {% if featuredImage %}
+        <img src="{{ featuredImage }}" alt="" class="post-featured img-fluid mb-4 d-block mx-auto">
+      {% endif %}
+      <div class="post-body">
+        {{ content | safe }}
+      </div>
+    </article>
+  </div>
+</div>
+<p class="mt-4"><a href="/post/">&larr; back to all posts</a></p>

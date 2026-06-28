@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if title %}{{ title }} | {% endif %}Theory.Amsterdam</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.6/css/academicons.min.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
+  </head>
+  <body data-bs-spy="scroll" data-bs-target="#navMenu" data-bs-offset="80">
+    <nav class="navbar navbar-expand-md navbar-light bg-light border-bottom sticky-top">
+      <div class="container">
+        <a class="navbar-brand" href="/">Theory.Amsterdam</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navMenu">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item"><a class="nav-link" href="/#people">People</a></li>
+            <li class="nav-item"><a class="nav-link" href="/#seminars">Seminars</a></li>
+            <li class="nav-item"><a class="nav-link" href="/#teaching">Teaching</a></li>
+            <li class="nav-item"><a class="nav-link" href="/institutes/">Institutes</a></li>
+            <li class="nav-item"><a class="nav-link" href="/post/">Jobs</a></li>
+            <li class="nav-item"><a class="nav-link" href="/history/">History</a></li>
+            <li class="nav-item"><a class="nav-link" href="/contact/">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container py-4">
+      {{ content | safe }}
+    </main>
+
+    <footer class="border-top py-4 mt-5 text-center text-muted small">
+      <div class="container">
+        TCS in Amsterdam &middot; <a href="https://github.com/theory-amsterdam/website-theory-amsterdam">source on GitHub</a> &middot; originally based on <a href="https://github.com/HugoBlox/kit">HugoBlox</a>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+      (function () {
+        var path = location.pathname.replace(/\/+$/, "") + "/";
+        if (path === "/") return;
+        document.querySelectorAll("#navMenu .nav-link").forEach(function (link) {
+          var href = link.getAttribute("href") || "";
+          if (href.charAt(0) === "/" && href.indexOf("#") === -1 && href !== "/" && path.indexOf(href) === 0) {
+            link.classList.add("active");
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>

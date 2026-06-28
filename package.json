@@ -1,0 +1,20 @@
+{
+  "name": "website-theory-amsterdam",
+  "version": "2.0.0",
+  "private": true,
+  "description": "theory.amsterdam — TCS researchers in Amsterdam",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theory-amsterdam/website-theory-amsterdam.git"
+  },
+  "license": "MIT",
+  "homepage": "https://theory.amsterdam",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6"
+  }
+}

@@ -1,0 +1,14 @@
+{# Renders a `social: [{icon, icon_pack, link}, ...]` array as a row of icons.
+   icon_pack → FA family: fas/far/fab = Font Awesome (free), ai = Academicons. #}
+{% if social and social.length %}
+<ul class="social-icons">
+  {% for item in social %}
+    {% set pack = item.icon_pack or 'fas' %}
+    <li>
+      <a href="{{ item.link }}"{% if 'http' in item.link %} target="_blank" rel="noopener"{% endif %} title="{{ item.icon }}">
+        <i class="{{ pack }} {% if pack == 'ai' %}ai-{{ item.icon }}{% else %}fa-{{ item.icon }}{% endif %}"></i>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}

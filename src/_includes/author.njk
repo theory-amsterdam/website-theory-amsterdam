@@ -1,0 +1,35 @@
+---
+layout: layout.njk
+---
+<article class="author-profile row">
+  <aside class="col-md-3 text-center mb-4">
+    {% set avatar = avatars[page.fileSlug] or '/assets/media/generic-avatar.jpg' %}
+    <img src="{{ avatar }}" alt="{{ title }}" class="avatar avatar-circle">
+
+    {% if role %}<h3 class="h6 mt-3 mb-1">{{ role }}</h3>{% endif %}
+
+    {% if organizations and organizations.length %}
+    <ul class="list-unstyled small mt-2 mb-2">
+      {% for org in organizations %}
+      <li>{% if org.url %}<a href="{{ org.url }}">{{ org.name }}</a>{% else %}{{ org.name }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% include "social-icons.njk" %}
+  </aside>
+
+  <div class="col-md-9">
+    <h1>{{ title }}</h1>
+
+    {% if interests and interests.length %}
+    <p class="text-muted"><strong>Interests:</strong> {{ interests | join(', ') }}</p>
+    {% endif %}
+
+    <div class="bio">
+      {{ content | safe }}
+    </div>
+
+    <p class="mt-4"><a href="/">&larr; back to all researchers</a></p>
+  </div>
+</article>

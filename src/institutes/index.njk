@@ -1,0 +1,67 @@
+---
+layout: layout.njk
+title: Institutes
+permalink: /institutes/
+---
+{% set instituteGroups = [
+  "CWI Algorithms and Complexity",
+  "CWI Networks and Optimization",
+  "CWI Computer Security",
+  "CWI Life Sciences and Health",
+  "UvA ILLC",
+  "UvA Informatics Institute",
+  "UvA Korteweg-de Vries Institute for Mathematics",
+  "UvA Institute of Physics",
+  "VU Theoretical Computer Science",
+  "VU School of Business and Economics",
+  "VU Bioinformatics",
+  "QuSoft"
+] %}
+
+<section class="py-3">
+  <div class="section-heading mb-3"><h1>Institutes</h1></div>
+
+  <h4>Institutions</h4>
+  <p>All TCS researchers listed on this site are employed by one (or more) of the following institutions:</p>
+  <ul>
+    <li>CWI: <a href="https://www.cwi.nl">Centrum Wiskunde &amp; Informatica</a></li>
+    <li>UvA: <a href="https://www.uva.nl">University of Amsterdam</a></li>
+    <li>VU: <a href="https://vu.nl">Vrije Universiteit</a></li>
+  </ul>
+
+  <h4>Research Groups</h4>
+  <ul>
+    <li><a href="https://www.cwi.nl/research/groups/algorithms-and-complexity">CWI Algorithms and Complexity</a></li>
+    <li><a href="https://www.cwi.nl/research/groups/networks-and-optimization">CWI Networks and Optimization</a></li>
+    <li><a href="https://www.cwi.nl/research/groups/computer-security">CWI Computer Security</a></li>
+    <li><a href="https://www.cwi.nl/research/groups/life-sciences-and-health">CWI Life Sciences and Health</a></li>
+    <li><a href="https://ivi.uva.nl">UvA Informatics Institute</a>: <a href="https://ivi.fnwi.uva.nl/tcs/">Theory of Computer Science</a>, <a href="https://mns-research.nl/">Multiscale Networked Systems</a></li>
+    <li><a href="https://www.illc.uva.nl">UvA ILLC</a>: <a href="https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS/">Theoretical Computer Science</a></li>
+    <li><a href="https://kdvi.uva.nl">UvA Korteweg-de Vries Institute for Mathematics</a>: <a href="https://kdvi.uva.nl/research/agmp/algebra-geometry-mathematical-physics.html">Algebra, Geometry and Mathematical Physics</a></li>
+    <li><a href="https://iop.uva.nl/">UvA Institute of Physics</a></li>
+    <li><a href="https://www.cs.vu.nl/~tcs/">VU Theoretical Computer Science</a></li>
+    <li><a href="https://research.vu.nl/en/organisations/school-of-business-and-economics">VU School of Business and Economics</a></li>
+    <li><a href="https://research.vu.nl/en/organisations/bioinformatics-2">VU Bioinformatics</a></li>
+    <li><a href="https://qusoft.org">QuSoft</a></li>
+  </ul>
+</section>
+
+<section class="py-3">
+  {% for group in instituteGroups %}
+    {% set members = [] %}
+    {% for author in collections.authors %}
+      {% if author.data.user_groups and (group in author.data.user_groups) %}
+        {% set members = (members.push(author), members) %}
+      {% endif %}
+    {% endfor %}
+
+    {% if members.length %}
+      <h2 class="group-heading text-center">{{ group }}</h2>
+      <div class="row justify-content-center people-widget">
+        {% for author in members %}
+          {% include "person-card.njk" %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>
