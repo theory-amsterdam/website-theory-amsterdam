@@ -3,14 +3,10 @@ title: Dmitry Grinko
 lastname: Grinko
 role: Postdoc
 interests:
-  - representation theory
-  - quantum computing
-  - quantum information
   - quantum algorithms
-  - quantum optimization
+  - quantum information
+  - representation theory
   - quantum error correction
-  - mathematical formalization
-  - AI for science
 social:
   - icon: link
     icon_pack: fas
