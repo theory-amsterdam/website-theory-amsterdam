@@ -1,9 +1,12 @@
 ---
 title: Dmitry Grinko
 lastname: Grinko
-role: PhD Student
+role: Postdoc
 interests:
   - quantum algorithms
+  - quantum information
+  - representation theory
+  - quantum error correction
 social:
   - icon: link
     icon_pack: fas
@@ -22,14 +25,15 @@ organizations:
     url: https://www.illc.uva.nl
   - name: QuSoft
     url: https://qusoft.org/
-
 email: ""
 superuser: false
 user_groups:
-  - PhD Students
+  - Postdocs
   - UvA ILLC
   - QuSoft
 highlight_name: false
 ---
 
-I am PhD student under supervision of Maris Ozols, as part of his VIDI project Mathematics of Quantum Algorithms.
+I am a postdoc interested in applications of representation theory to quantum computing and quantum information, particularly algorithms, optimization, and error correction.
+Recently, I have also been working on mathematical formalization and AI for science.
+I completed my PhD under the supervision of Maris Ozols in February 2025.
