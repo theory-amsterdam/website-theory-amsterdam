@@ -47,9 +47,9 @@ module.exports = function (eleventyConfig) {
     collectionApi
       .getFilteredByGlob("src/authors/**/index.md")
       .sort((a, b) => {
-        const byFirst = firstName(a).localeCompare(firstName(b));
-        if (byFirst !== 0) return byFirst;
-        return (a.data.lastname || "").localeCompare(b.data.lastname || "");
+        const byLast = (a.data.lastname || "").localeCompare(b.data.lastname || "");
+        if (byLast !== 0) return byLast;
+        return firstName(a).localeCompare(firstName(b));
       })
   );
 
