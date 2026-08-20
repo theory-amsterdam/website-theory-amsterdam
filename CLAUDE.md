@@ -61,16 +61,17 @@ Institute groups — `instituteGroups` in `src/institutes/index.njk:6-19`, in re
 CWI Algorithms and Complexity · CWI Networks and Optimization · CWI Computer Security
 UvA ILLC · UvA Informatics Institute · UvA Korteweg-de Vries Institute for Mathematics
 UvA Institute of Physics · UvA Van 't Hoff Institute for Molecular Sciences
-VU Theoretical Computer Science · VU Bioinformatics · QuSoft
+VU Theoretical Computer Science · QuSoft
 ```
 
 The list is deliberately limited to institutions **in Amsterdam**. A member with an outside
 affiliation (Frank de Boer at LIACS Leiden, Monique Laurent at Tilburg) keeps it under
 `organizations`, which is display-only, and is grouped here by their Amsterdam institute.
 
-`Research Assistants`, `Visitors` and `Alumni` have no members, so those sections render as
-nothing; `Alumni` is empty by design — alumni are table rows, not pages. `VU Bioinformatics` is
-also empty since Solon Pissis left, and is awaiting a decision.
+Every institute group currently has at least one member. Of the role groups, `Research
+Assistants`, `Visitors` and `Alumni` have none, so those sections render as nothing; `Alumni` is
+empty by design — alumni are table rows, not pages. A group that empties out should be removed
+rather than left rendering nothing (check C8 flags this).
 
 A `user_groups` value outside this vocabulary makes the person invisible on `/institutes/`.
 **Don't "fix" that by inventing a new group string** — either add the institute properly (edit

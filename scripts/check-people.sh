@@ -40,7 +40,6 @@ UvA Korteweg-de Vries Institute for Mathematics
 UvA Institute of Physics
 UvA Van '\''t Hoff Institute for Molecular Sciences
 VU Theoretical Computer Science
-VU Bioinformatics
 QuSoft'
 
 VOCAB="$ROLE_GROUPS
@@ -84,7 +83,6 @@ group_for_url() {
     *kdvi.uva.nl*)               echo "UvA Korteweg-de Vries Institute for Mathematics" ;;
     *iop.uva.nl*)                echo "UvA Institute of Physics" ;;
     *cs.vu.nl*|*theoretical-computer-science*) echo "VU Theoretical Computer Science" ;;
-    *bioinformatics*)            echo "VU Bioinformatics" ;;
     *qusoft.org*)                echo "QuSoft" ;;
     *) echo "" ;;
   esac
