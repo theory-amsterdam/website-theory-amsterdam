@@ -7,7 +7,7 @@
 | [Andrés Goens](https://goens.org)                                                       | University of Amsterdam | 2023-2025 | TU Darmstadt |
 | [Jasmin Blanchette](https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette_de.html)   | Vrije Universiteit Amsterdam | 2017-2023 | Ludwig-Maximilians-Universität München |
 | [Leen Torenvliet](https://www.linkedin.com/in/leen-torenvliet-9671405)                  | University of Amsterdam | 1975 - 2022 | retired
-| [Inge Bethke](https://staff.fnwi.uva.nl/i.bethke/)                                      | University of Amsterdam | 2001-2022 | retired |
+| [Inge Bethke](https://scholar.google.com/citations?user=7qgSvA4AAAAJ&hl=en) | University of Amsterdam | 2001-2022 | retired |
 | [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/)                                       | University of Amsterdam | 1995-2022 | retired |
 | [Viresh Patel](https://www.qmul.ac.uk/maths/profiles/patelv.html)                       | University of Amsterdam | 2015-2022 | Queen Mary University of London |
 
@@ -38,7 +38,7 @@
 | [Niels Neumann](https://www.linkedin.com/in/nmp-neumann/)                          | Harry Buhrman, Jop Briët                        | 2025        | TNO |
 | [Sebastian Zur](https://www.linkedin.com/in/zursebastian/)                         | Stacey Jeffery                                  | 2025        | IRIF, Université Paris Cité |
 | [Anne Baanen](https://anne.mx/)                                                    | Jasmin Blanchette, Sander Dahmen                | 2024        | Mathlib Initiative |
-| Roy Overbeek                                                                       | Wan Fokkink, Jörg Endrullis                     | 2024        |  |
+| [Roy Overbeek](https://www.linkedin.com/in/overbeekroy/)                           | Wan Fokkink, Jörg Endrullis                     | 2024        | ZorgDomein |
 | [Estéban Gabory](https://estebangabory.github.io)                                  | Solon P. Pissis, Leen Stougie                   | 2025        | University of Wrocław |
 | [Harold Nieuwboer](https://han28.github.io)                                        | Michael Walter, Eric Opdam                      | 2024        | University of Copenhagen |
 | [Rene Allerstorfer](https://www.linkedin.com/in/rene-allerstorfer-b2171a86/)       | Harry Buhrman                                   | 2024        | PsiQuantum |
