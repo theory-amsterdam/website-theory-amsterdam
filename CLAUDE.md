@@ -59,20 +59,24 @@ Institute groups — `instituteGroups` in `src/institutes/index.njk:6-19`, in re
 
 ```
 CWI Algorithms and Complexity · CWI Networks and Optimization · CWI Computer Security
-CWI Life Sciences and Health · UvA ILLC · UvA Informatics Institute
-UvA Korteweg-de Vries Institute for Mathematics · UvA Institute of Physics
-VU Theoretical Computer Science · VU School of Business and Economics · VU Bioinformatics
-QuSoft
+UvA ILLC · UvA Informatics Institute · UvA Korteweg-de Vries Institute for Mathematics
+UvA Institute of Physics · UvA Van 't Hoff Institute for Molecular Sciences
+VU Theoretical Computer Science · VU Bioinformatics · QuSoft
 ```
 
-`Research Assistants`, `Visitors`, `Alumni`, `CWI Life Sciences and Health` and
-`VU School of Business and Economics` currently have no members, so those sections render as
-nothing. `Alumni` is empty by design — alumni are table rows, not pages.
+The list is deliberately limited to institutions **in Amsterdam**. A member with an outside
+affiliation (Frank de Boer at LIACS Leiden, Monique Laurent at Tilburg) keeps it under
+`organizations`, which is display-only, and is grouped here by their Amsterdam institute.
 
-Three people sit outside this vocabulary and are therefore invisible on `/institutes/`: `boer`,
-`laurent`, `polla`. They are listed in `scripts/known-exceptions.txt` pending a maintainer
-decision — **don't "fix" them by inventing a new group string.** Adding a genuinely new institute
-means editing `instituteGroups` **and** the `<ul>` of research-group links above it in the same file.
+`Research Assistants`, `Visitors` and `Alumni` have no members, so those sections render as
+nothing; `Alumni` is empty by design — alumni are table rows, not pages. `VU Bioinformatics` is
+also empty since Solon Pissis left, and is awaiting a decision.
+
+A `user_groups` value outside this vocabulary makes the person invisible on `/institutes/`.
+**Don't "fix" that by inventing a new group string** — either add the institute properly (edit
+`instituteGroups` **and** the `<ul>` of research-group links above it, in the same file) or drop
+the entry from `user_groups` and leave the affiliation in `organizations`. Findings that are
+accepted but not yet resolved go in `scripts/known-exceptions.txt`.
 
 ## The `organizations` / `user_groups` trap
 
@@ -153,10 +157,10 @@ catch little while making deploys fail on someone else's outage.
 
 ## Line endings
 
-`.editorconfig` says LF, but `src/authors/fokkink/index.md` and `src/authors/pissis/index.md` have
-been CRLF since the Hugo port. A naive `grep '^role: PhD Student$'` misses them — the `\r` is part
-of the last field. Every script here pipes through `tr -d '\r'`. Don't bulk-convert those two files
-inside a people PR; it's an unrelated whole-file diff.
+`.editorconfig` says LF, but `src/authors/fokkink/index.md` has been CRLF since the Hugo port. A
+naive `grep '^role: PhD Student$'` misses it — the `\r` is part of the last field. Every script here
+pipes through `tr -d '\r'`. Don't bulk-convert that file inside a people PR; it's an unrelated
+whole-file diff.
 
 ## Private data
 

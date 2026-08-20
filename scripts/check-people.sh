@@ -34,13 +34,12 @@ Alumni'
 INSTITUTE_GROUPS='CWI Algorithms and Complexity
 CWI Networks and Optimization
 CWI Computer Security
-CWI Life Sciences and Health
 UvA ILLC
 UvA Informatics Institute
 UvA Korteweg-de Vries Institute for Mathematics
 UvA Institute of Physics
+UvA Van '\''t Hoff Institute for Molecular Sciences
 VU Theoretical Computer Science
-VU School of Business and Economics
 VU Bioinformatics
 QuSoft'
 
@@ -265,12 +264,12 @@ report_info
 
 echo
 echo "== C9  CRLF sentinel =="
-# fokkink and pissis have been CRLF since the Hugo port. A new entry means
+# fokkink has been CRLF since the Hugo port. A new entry means
 # someone edited through a Windows client; fix that file on its own.
 : > "$tmp"
 grep -rl --include='*.md' "$(printf '\r')" src/authors/ src/home/ 2>/dev/null | sort | while IFS= read -r f; do
   case "$f" in
-    src/authors/fokkink/index.md|src/authors/pissis/index.md) ;;
+    src/authors/fokkink/index.md) ;;
     *) echo "$f is CRLF (new — fix line endings in its own commit)" ;;
   esac
 done >> "$tmp"

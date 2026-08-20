@@ -5,9 +5,8 @@
 # instituteGroups (src/institutes/index.njk).
 #
 # Resolving one means either adding the institute to instituteGroups AND the
-# <ul> of links above it, or retagging the person — then delete the line here.
-# Raised for a maintainer decision in PR #51.
+# <ul> of links above it, or dropping the entry from the person's user_groups
+# (their organizations list can still show the affiliation) — then delete the
+# line here.
 
-boer|Leiden Institute of Advanced Computer Science
-laurent|University Tilburg
-polla|UvA Van 't Hoff Institute for Molecular Sciences
+# (empty — nothing currently accepted)

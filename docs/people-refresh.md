@@ -87,10 +87,13 @@ Use these **additively only**:
 
 **Absence from one of these pages is zero evidence that somebody has left.** They list whole
 groups including administrative and support staff, several are rendered client-side, and their
-URLs move without notice — `https://ivi.fnwi.uva.nl/tcs/` currently redirects to
-`https://ivi-tcs.science.uva.nl/`, and `https://www.cwi.nl/research/groups/life-sciences-and-health`
-is a 404. If you infer departures from these pages, you will eventually propose deleting a
-sitting professor.
+URLs move without notice — the UvA IvI Theory of Computer Science page moved from
+`ivi.fnwi.uva.nl/tcs` to `ivi-tcs.science.uva.nl` in 2026, and the CWI Life Sciences and Health
+group page 404'd for long enough that the group was dropped from this site entirely. If you infer
+departures from these pages, you will eventually propose deleting a sitting professor.
+
+The list is Amsterdam institutions only. Someone with an outside affiliation keeps it under
+`organizations` and is grouped by their Amsterdam institute.
 
 For the VU TCS, KdVI and non-QuSoft ILLC members there is **no upstream source at all** — only
 these pages, and a person who knows. Name that person in the PR and ask them.
