@@ -27,7 +27,7 @@ social:
 
 organizations:
   - name: UvA ILLC
-    url: https://www.illc.uva.nl
+    url: https://www.illc.uva.nl/
   - name: Quantinuum
     url: https://www.quantinuum.com/
   - name: QuSoft

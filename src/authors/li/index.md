@@ -1,7 +1,7 @@
 ---
 title: Sarah Meng Li
 lastname: Li
-role: PhD student
+role: PhD Student
 avatar_filename: avatar
 social:
 - icon: link

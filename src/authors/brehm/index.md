@@ -1,7 +1,7 @@
 ---
 title: Martijn Brehm
 lastname: Brehm
-role: PhD student
+role: PhD Student
 avatar_filename: avatar
 social:
 - icon: envelope

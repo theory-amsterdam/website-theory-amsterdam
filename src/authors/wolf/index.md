@@ -19,7 +19,7 @@ organizations:
   - name: CWI Algorithms and Complexity
     url: https://www.cwi.nl/research/groups/algorithms-and-complexity
   - name: UvA ILLC
-    url: https://www.cwi.nl
+    url: https://www.illc.uva.nl/
   - name: QuSoft
     url: https://qusoft.org/
 

@@ -17,7 +17,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=MvpHxm8AAAAJ
 organizations:
-  - name: University of Amsterdam, Korteweg de Vries
+  - name: UvA Korteweg-de Vries Institute for Mathematics
     url: https://kdvi.uva.nl/
 
 email: ""

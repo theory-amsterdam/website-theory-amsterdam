@@ -27,7 +27,6 @@ superuser: false
 user_groups:
   - Permanent Members
   - CWI Networks and Optimization
-  - University Tilburg
 highlight_name: false
 ---
 

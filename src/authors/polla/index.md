@@ -15,7 +15,7 @@ social:
     link: mailto:s.polla@uva.nl
 organizations:
   - name: UvA Informatics Institute
-    url: https://ivi.uva.nl
+    url: https://ivi.uva.nl/
   - name: UvA Van 't Hoff Institute for Molecular Sciences
     url: https://hims.uva.nl
   - name: QuSoft

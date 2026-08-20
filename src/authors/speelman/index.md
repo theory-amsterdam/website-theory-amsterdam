@@ -15,7 +15,7 @@ social:
   link: https://scholar.google.nl/citations?user=hX_ToHkAAAAJ
 organizations:
   - name: UvA Informatics Institute
-    url: https://ivi.uva.nl
+    url: https://ivi.uva.nl/
   - name: QuSoft
     url: https://qusoft.org/
 superuser: false

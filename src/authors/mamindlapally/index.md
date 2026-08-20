@@ -1,7 +1,7 @@
 ---
 title: Manideep Mamindlapally
 lastname: Mamindlapally
-role: PhD student
+role: PhD Student
 avatar_filename: avatar
 social:
 - icon: envelope

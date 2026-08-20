@@ -17,7 +17,7 @@ social:
     link: https://www.linkedin.com/in/marten-folkertsma-491368bb/
 organizations:
 - name: UvA Informatics Institute
-  url: https://ivi.uva.nl
+  url: https://ivi.uva.nl/
 - name: QuSoft
   url: https://qusoft.org/
 
