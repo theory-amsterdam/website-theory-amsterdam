@@ -22,7 +22,7 @@ social:
     link: https://twitter.com/dmitry_grinko
 organizations:
   - name: UvA ILLC
-    url: https://www.illc.uva.nl
+    url: https://www.illc.uva.nl/
   - name: QuSoft
     url: https://qusoft.org/
 email: ""

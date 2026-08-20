@@ -11,7 +11,7 @@ social:
     link: mailto:maximvdberg@gmail.com
 organizations:
   - name: UvA Korteweg-de Vries Institute for Mathematics
-    url: https://kdvi.uva.nl
+    url: https://kdvi.uva.nl/
   - name: QuSoft
     url: https://qusoft.org/
 

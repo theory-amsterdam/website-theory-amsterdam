@@ -20,7 +20,7 @@ social:
     link: https://twitter.com/staceymjeffery
     
 organizations:
-  - name: CWI, Algorithms and Complexity
+  - name: CWI Algorithms and Complexity
     url: https://www.cwi.nl/research/groups/algorithms-and-complexity
   - name: QuSoft
     url: https://qusoft.org/

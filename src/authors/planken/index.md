@@ -1,7 +1,7 @@
 ---
 title: Daan Planken
 lastname: Planken
-role: PhD student
+role: PhD Student
 avatar_filename: avatar
 social:
 - icon: link

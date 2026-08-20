@@ -24,7 +24,7 @@ organizations:
   - name: CWI Networks and Optimization
     url: https://www.cwi.nl/research/groups/networks-and-optimization
   - name: UvA ILLC
-    url: https://www.illc.uva.nl
+    url: https://www.illc.uva.nl/
 
 email: ""
 superuser: false

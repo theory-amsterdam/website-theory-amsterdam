@@ -1,7 +1,7 @@
 ---
 title: Ailsa Robertson
 lastname: Robertson
-role: PhD student
+role: PhD Student
 avatar_filename: avatar
 social:
 - icon: envelope

@@ -11,7 +11,7 @@ social:
     link: mailto:f.kuyanov@uva.nl
 organizations:
   - name: UvA Informatics Institute
-    url: https://ivi.uva.nl
+    url: https://ivi.uva.nl/
   - name: QuSoft
     url: https://qusoft.org/
 

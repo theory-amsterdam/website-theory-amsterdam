@@ -11,7 +11,7 @@ social:
     link: mailto:c.bruinsma@uva.nl
 organizations:
   - name: UvA ILLC
-    url: https://www.illc.uva.nl
+    url: https://www.illc.uva.nl/
   - name: QuSoft
     url: https://qusoft.org/
 

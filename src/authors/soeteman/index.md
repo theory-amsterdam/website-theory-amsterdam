@@ -19,7 +19,7 @@ social:
 
 organizations:
 - name: UvA ILLC
-  url: https://www.illc.uva.nl
+  url: https://www.illc.uva.nl/
 
 user_groups:
 - PhD Students

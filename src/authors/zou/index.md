@@ -1,7 +1,7 @@
 ---
 title: Mingrui Zou
 lastname: Zou
-role: PhD student
+role: PhD Student
 avatar_filename: avatar
 social:
 - icon: envelope

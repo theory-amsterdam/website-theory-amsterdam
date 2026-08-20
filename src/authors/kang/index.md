@@ -18,7 +18,7 @@ social:
   link: https://dblp.org/pid/62/6527.html
 
 organizations:
-- name: University of Amsterdam, Korteweg-de Vries Institute for Mathematics
+- name: UvA Korteweg-de Vries Institute for Mathematics
   url: https://kdvi.uva.nl/
 
 superuser: false
