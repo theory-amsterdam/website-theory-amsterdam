@@ -3,6 +3,7 @@
 ## Permanent Members
 | Name                                                                                    | Institution | Years | Current Affiliation |
 |-----------------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
+| [Solon P. Pissis](https://solon-pissis.github.io/)                                       | CWI | 2019-2026 | The Cyprus Institute |
 | [Andrés Goens](https://goens.org)                                                       | University of Amsterdam | 2023-2025 | TU Darmstadt |
 | [Jasmin Blanchette](https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette_de.html)   | Vrije Universiteit Amsterdam | 2017-2023 | Ludwig-Maximilians-Universität München |
 | [Leen Torenvliet](https://www.linkedin.com/in/leen-torenvliet-9671405)                  | University of Amsterdam | 1975 - 2022 | retired
@@ -28,6 +29,7 @@
 ## PhD Students
 | Name                                                                               | PhD Advisor(s)                                  | Year of PhD | Next Affiliation |
 |------------------------------------------------------------------------------------|-------------------------------------------------|-------------|---------------------|
+| [Lynn Engelberts](https://www.linkedin.com/in/lynn-engelberts/)                    | Ronald de Wolf                                  | 2026        | CWI Cryptology |
 | [Visa Nummelin](https://www.linkedin.com/in/visa-nummelin-bb3a87203/)              | Jasmin Blanchette                               | 2025        |  |
 | [Aloïs Rosset](https://alois.rosset.pro/)                                          | Joerg Endrullis, Helle Hvid Hansen, Wan Fokkink | 2025        | École Suisse d'Allemand |
 | [Jordi Weggemans](https://jordiweggemans.github.io/)                               | Harry Buhrman, Florian Speelman                 | 2025        | Quantinuum |
