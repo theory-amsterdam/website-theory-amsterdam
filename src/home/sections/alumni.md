@@ -38,7 +38,7 @@
 | [Niels Neumann](https://www.linkedin.com/in/nmp-neumann/)                          | Harry Buhrman, Jop Briët                        | 2025        | TNO |
 | [Sebastian Zur](https://www.linkedin.com/in/zursebastian/)                         | Stacey Jeffery                                  | 2025        | IRIF, Université Paris Cité |
 | [Anne Baanen](https://anne.mx/)                                                    | Jasmin Blanchette, Sander Dahmen                | 2024        | Mathlib Initiative |
-| Roy Overbeek                                                                       | Wan Fokkink, Jörg Endrullis                     | 2024        |  |
+| [Roy Overbeek](https://www.linkedin.com/in/overbeekroy/)                           | Wan Fokkink, Jörg Endrullis                     | 2024        | ZorgDomein |
 | [Estéban Gabory](https://estebangabory.github.io)                                  | Solon P. Pissis, Leen Stougie                   | 2025        | University of Wrocław |
 | [Harold Nieuwboer](https://han28.github.io)                                        | Michael Walter, Eric Opdam                      | 2024        | University of Copenhagen |
 | [Rene Allerstorfer](https://www.linkedin.com/in/rene-allerstorfer-b2171a86/)       | Harry Buhrman                                   | 2024        | PsiQuantum |
