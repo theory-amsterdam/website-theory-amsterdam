@@ -29,6 +29,7 @@ superuser: false
 user_groups:
   - Permanent Members
   - UvA Korteweg-de Vries Institute for Mathematics
+  - QuSoft
 highlight_name: false
 ---
 I am currently an assistant professor in Discrete Mathematics at the Korteweg-de Vries Institute for Mathematics, at University of Amsterdam.

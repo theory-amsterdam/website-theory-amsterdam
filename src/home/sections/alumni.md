@@ -9,7 +9,6 @@
 | [Inge Bethke](https://staff.fnwi.uva.nl/i.bethke/)                                      | University of Amsterdam | 2001-2022 | retired |
 | [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/)                                       | University of Amsterdam | 1995-2022 | retired |
 | [Viresh Patel](https://www.qmul.ac.uk/maths/profiles/patelv.html)                       | University of Amsterdam | 2015-2022 | Queen Mary University of London |
-| [Michael Walter](https://michaelwalter.info/)                                           | University of Amsterdam | 2017-2021 | Ruhr Universität Bochum |
 
 
 ## Postdocs
@@ -27,10 +26,15 @@
 
 
 ## PhD Students
-| Name                                                                               | PhD Advisor(s)                                  | Year of PhD | Current Affiliation |
+| Name                                                                               | PhD Advisor(s)                                  | Year of PhD | Next Affiliation |
 |------------------------------------------------------------------------------------|-------------------------------------------------|-------------|---------------------|
 | [Visa Nummelin](https://www.linkedin.com/in/visa-nummelin-bb3a87203/)              | Jasmin Blanchette                               | 2025        |  |
 | [Aloïs Rosset](https://alois.rosset.pro/)                                          | Joerg Endrullis, Helle Hvid Hansen, Wan Fokkink | 2025        | École Suisse d'Allemand |
+| [Jordi Weggemans](https://jordiweggemans.github.io/)                               | Harry Buhrman, Florian Speelman                 | 2025        | Quantinuum |
+| [Garazi Muguruza Lasa](https://www.linkedin.com/in/garazi-muguruza/)               | Florian Speelman, Paola Grosso, Christian Schaffner | 2025        | SURF |
+| [Llorenç Escolà-Farràs](https://www.linkedin.com/in/lloren%C3%A7-escol%C3%A0-farr%C3%A0s-0b98b71b6/) | Florian Speelman, Paola Grosso, Christian Schaffner | 2025        | TU Eindhoven |
+| [Niels Neumann](https://www.linkedin.com/in/nmp-neumann/)                          | Harry Buhrman, Jop Briët                        | 2025        | TNO |
+| [Sebastian Zur](https://www.linkedin.com/in/zursebastian/)                         | Stacey Jeffery                                  | 2025        | IRIF, Université Paris Cité |
 | [Anne Baanen](https://anne.mx/)                                                    | Jasmin Blanchette, Sander Dahmen                | 2024        | Mathlib Initiative |
 | Roy Overbeek                                                                       | Wan Fokkink, Jörg Endrullis                     | 2024        |  |
 | [Estéban Gabory](https://estebangabory.github.io)                                  | Solon P. Pissis, Leen Stougie                   | 2025        | University of Wrocław |
@@ -38,9 +42,10 @@
 | [Rene Allerstorfer](https://www.linkedin.com/in/rene-allerstorfer-b2171a86/)       | Harry Buhrman                                   | 2024        | PsiQuantum |
 | [Philip Verduyn Lunel](https://www.linkedin.com/in/philip-verduyn-lunel-b81815a7/) | Harry Buhrman                                   | 2024        | Sorbonne Université |
 | [Hans-Dieter Hiep](https://www.drheap.nl)                                          | Frank S. de Boer                                | 2024        | NLnet Foundation |
+| [Yanlin Chen](https://sites.google.com/view/yanlin-chen)                           | Ronald de Wolf, Māris Ozols                     | 2024        | University of Maryland |
 | [Arjan Cornelissen](https://arriopolis.github.io/)                                 | Māris Ozols                                     | 2023        | Simons Institute, UC Berkeley |
 | [Subhasree Patro](https://subhasree-patro.github.io)                               | Harry Buhrman, Florian Speelman                 | 2023        | Eindhoven University of Technology |
-| [Freek Witteveen](https://www.linkedin.com/in/freek-witteveen-b8490211b/)          | Michael Walter                                  | 2022        | QuSoft |
+| [Freek Witteveen](/authors/witteveen/)          | Michael Walter                                  | 2022        | QuSoft |
 | [Petar Vukmirovic](https://www.linkedin.com/in/petar-vukmirovic/)                  | Jasmin Blanchette                               | 2022        | Mendix |
 | [Farrokh Labib](https://www.linkedin.com/in/farrokh-labib-13066687/)               | Jop Briët                                       | 2022        | Unitary Foundation |
 | [Jan Czajkowski](https://www.linkedin.com/in/jan-czajkowski-44201ba8/)             | Christian Schaffner, Harry Buhrman              | 2021        | Shell |

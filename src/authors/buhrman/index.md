@@ -9,6 +9,9 @@ interests:
   - Kolmogorov complexity
   - computational biology
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://www.uva.nl/profiel/b/u/h.m.buhrman/h.m.buhrman.html
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/harry-buhrman-4445b9/
@@ -25,6 +28,8 @@ social:
 organizations:
   - name: UvA ILLC
     url: https://www.illc.uva.nl
+  - name: Quantinuum
+    url: https://www.quantinuum.com/
   - name: QuSoft
     url: https://qusoft.org/
 

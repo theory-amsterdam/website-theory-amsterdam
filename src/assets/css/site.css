@@ -1,6 +1,15 @@
-/* Anchor offset for sticky nav */
-html { scroll-padding-top: 70px; }
-section[id] { scroll-margin-top: 70px; }
+/* Root font scale ported from the old Wowchemy theme, so type matches the
+   previous site. Everything below — and all of Bootstrap's rem-based sizing —
+   is calibrated against this, not the browser's 16px default. */
+html { font-size: 16.17px; }
+@media screen and (min-width: 58em) { html { font-size: 21px; } }
+/* Bootstrap sets line-height on body, so it has to be overridden there. */
+body { line-height: 1.65; }
+
+/* Anchor offset for sticky nav — in rem so it tracks the navbar, which grows
+   with the root font size. */
+html { scroll-padding-top: 4.375rem; }
+section[id] { scroll-margin-top: 4.375rem; }
 
 /* Sticky nav active state */
 .navbar .nav-link.active { font-weight: 600; color: #000; }
@@ -10,12 +19,14 @@ section[id] { scroll-margin-top: 70px; }
 
 /* Portrait grid */
 .people-widget { row-gap: 2rem; }
-.people-person { text-align: center; max-width: 14rem; }
+/* Fixed px, not rem: the card width should stay put while the type inside it
+   scales. Matches the ~228px the old site gave these cards. */
+.people-person { text-align: center; max-width: 224px; }
 .people-person .avatar { width: 150px; height: 150px; object-fit: cover; }
 .avatar-circle { border-radius: 50%; }
 .avatar-square { border-radius: 0; }
-.portrait-title h2 { font-size: 1.05rem; margin-top: 0.75rem; margin-bottom: 0.1rem; }
-.portrait-title h3 { font-size: 0.85rem; color: #555; margin-bottom: 0.25rem; }
+.portrait-title h2 { font-size: 1rem; margin-top: 0.75rem; margin-bottom: 0.1rem; }
+.portrait-title h3 { font-size: 0.7rem; color: #555; margin-bottom: 0.25rem; }
 .portrait-title a { color: inherit; text-decoration: none; }
 .portrait-title a:hover { text-decoration: underline; }
 .people-interests { font-size: 0.8rem; color: #666; margin-top: 0.25rem; }

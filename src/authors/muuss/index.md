@@ -20,6 +20,7 @@ superuser: false
 user_groups:
   - PhD Students
   - UvA Informatics Institute
+  - QuSoft
 
 interests:
   - quantum cryptography

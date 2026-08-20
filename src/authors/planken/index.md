@@ -4,6 +4,9 @@ lastname: Planken
 role: PhD student
 avatar_filename: avatar
 social:
+- icon: link
+  icon_pack: fas
+  link: https://www.cwi.nl/en/people/daan-planken/
 - icon: envelope
   icon_pack: fas
   link: mailto:d.p.j.planken@uva.nl
@@ -17,6 +20,7 @@ superuser: false
 user_groups:
   - PhD Students
   - UvA Informatics Institute
+  - QuSoft
 
 interests:
   - quantum key distribution

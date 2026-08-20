@@ -20,6 +20,7 @@ superuser: false
 user_groups:
   - Postdocs
   - UvA Informatics Institute
+  - QuSoft
 
 interests:
   - (Quantum) cryptography
