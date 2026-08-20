@@ -1,5 +1,5 @@
 ---
-title: Sarah Li
+title: Sarah Meng Li
 lastname: Li
 role: PhD student
 avatar_filename: avatar
@@ -26,6 +26,7 @@ superuser: false
 user_groups:
   - PhD Students
   - UvA Informatics Institute
+  - QuSoft
 
 interests:
   - Quantum circuit characterization, synthesis and optimization

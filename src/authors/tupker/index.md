@@ -16,8 +16,8 @@ social:
     link: https://www.linkedin.com/in/quinten-tupker-69044b155
 
 organizations:
-- name: CWI
-  url: https://www.cwi.nl/
+- name: CWI Algorithms and Complexity
+  url: https://www.cwi.nl/research/groups/algorithms-and-complexity
 - name: QuSoft
   url: https://qusoft.org/
 

@@ -4,19 +4,23 @@ lastname: Groenland
 role: Quantum Innovation Officer
 avatar_filename: avatar
 social:
+- icon: link
+  icon_pack: fas
+  link: https://www.koengroenland.com
 - icon: envelope
   icon_pack: fas
   link: mailto:K.L.Groenland@uva.nl
 
 organizations:
-  - name: UvA Informatics Institute
-    url: https://ivi.uva.nl/
+  - name: UvA Institute of Physics
+    url: https://iop.uva.nl/
   - name: QuSoft
     url: https://qusoft.org/
 superuser: false
 user_groups:
   - Permanent Members
-  - UvA Informatics Institute
+  - UvA Institute of Physics
+  - QuSoft
 
 interests:
 - Quantum Technology

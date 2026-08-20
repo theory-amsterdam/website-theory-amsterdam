@@ -12,3 +12,6 @@ assets/jsconfig.json
 # Eleventy
 _site/
 node_modules/
+
+# local
+private_data/
