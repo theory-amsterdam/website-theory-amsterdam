@@ -1,0 +1,13 @@
+# Accepted, unresolved findings — one per line, "<slug>|<group>".
+# Listing something here suppresses its C1 failure so that NEW breakage stays
+# visible. It does not make the problem go away: each line is a person who is
+# currently invisible on /institutes/ because their institute is not in
+# instituteGroups (src/institutes/index.njk).
+#
+# Resolving one means either adding the institute to instituteGroups AND the
+# <ul> of links above it, or retagging the person — then delete the line here.
+# Raised for a maintainer decision in PR #51.
+
+boer|Leiden Institute of Advanced Computer Science
+laurent|University Tilburg
+polla|UvA Van 't Hoff Institute for Molecular Sciences
