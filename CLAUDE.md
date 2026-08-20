@@ -23,8 +23,14 @@ Netlify additionally runs `netlify-plugin-checklinks` on deploy.
 `src/authors/<slug>/index.md` plus `avatar.<ext>`. There is no central people file.
 
 Slug = lowercase, ASCII-folded surname, nobiliary particles dropped: `wolf` (de Wolf), `berg`
-(van den Berg), `kohne` (Köhne), `sa` (Sá), `reiffenhaeuser` (Reiffenhäuser). One exception:
-`tencate` keeps the particle in the slug while `lastname: Cate` drops it.
+(van den Berg), `sa` (Sá). One exception: `tencate` keeps the particle in the slug while
+`lastname: Cate` drops it.
+
+**Umlaut tiebreak:** both conventions are live — `kohne` (Köhne) strips the diaeresis, while
+`schaefer` (Schäfer) and `reiffenhaeuser` (Reiffenhäuser) use the German `ä→ae` expansion. For a
+new person, **use whichever form they use themselves** (their homepage, email address or
+institutional page); if there's no evidence either way, strip the diaeresis. Don't rename an
+existing folder to match — the slug is a URL.
 
 `src/authors/authors.json` applies `layout`, `tags` and `permalink` to every author page — never
 set those in a person's file.
