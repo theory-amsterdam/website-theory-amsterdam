@@ -7,7 +7,7 @@
 | [Andrés Goens](https://goens.org)                                                       | University of Amsterdam | 2023-2025 | TU Darmstadt |
 | [Jasmin Blanchette](https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette_de.html)   | Vrije Universiteit Amsterdam | 2017-2023 | Ludwig-Maximilians-Universität München |
 | [Leen Torenvliet](https://www.linkedin.com/in/leen-torenvliet-9671405)                  | University of Amsterdam | 1975 - 2022 | retired
-| [Inge Bethke](https://staff.fnwi.uva.nl/i.bethke/)                                      | University of Amsterdam | 2001-2022 | retired |
+| [Inge Bethke](https://scholar.google.com/citations?user=7qgSvA4AAAAJ&hl=en) | University of Amsterdam | 2001-2022 | retired |
 | [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/)                                       | University of Amsterdam | 1995-2022 | retired |
 | [Viresh Patel](https://www.qmul.ac.uk/maths/profiles/patelv.html)                       | University of Amsterdam | 2015-2022 | Queen Mary University of London |
 
