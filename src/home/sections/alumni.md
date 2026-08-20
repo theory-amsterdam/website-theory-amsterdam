@@ -26,13 +26,13 @@
 
 
 ## PhD Students
-| Name                                                                               | PhD Advisor(s)                                  | Year of PhD | Current Affiliation |
+| Name                                                                               | PhD Advisor(s)                                  | Year of PhD | Next Affiliation |
 |------------------------------------------------------------------------------------|-------------------------------------------------|-------------|---------------------|
 | [Visa Nummelin](https://www.linkedin.com/in/visa-nummelin-bb3a87203/)              | Jasmin Blanchette                               | 2025        |  |
 | [Aloïs Rosset](https://alois.rosset.pro/)                                          | Joerg Endrullis, Helle Hvid Hansen, Wan Fokkink | 2025        | École Suisse d'Allemand |
-| [Jordi Weggemans](https://jordiweggemans.github.io/)                               | Harry Buhrman, Florian Speelman                 | 2025        |  |
-| [Garazi Muguruza Lasa](https://www.linkedin.com/in/garazi-muguruza/)               | Florian Speelman, Paola Grosso, Christian Schaffner | 2025        |  |
-| [Llorenç Escolà-Farràs](https://www.linkedin.com/in/lloren%C3%A7-escol%C3%A0-farr%C3%A0s-0b98b71b6/) | Florian Speelman, Paola Grosso, Christian Schaffner | 2025        |  |
+| [Jordi Weggemans](https://jordiweggemans.github.io/)                               | Harry Buhrman, Florian Speelman                 | 2025        | Quantinuum |
+| [Garazi Muguruza Lasa](https://www.linkedin.com/in/garazi-muguruza/)               | Florian Speelman, Paola Grosso, Christian Schaffner | 2025        | SURF |
+| [Llorenç Escolà-Farràs](https://www.linkedin.com/in/lloren%C3%A7-escol%C3%A0-farr%C3%A0s-0b98b71b6/) | Florian Speelman, Paola Grosso, Christian Schaffner | 2025        | TU Eindhoven |
 | [Niels Neumann](https://www.linkedin.com/in/nmp-neumann/)                          | Harry Buhrman, Jop Briët                        | 2025        | TNO |
 | [Sebastian Zur](https://www.linkedin.com/in/zursebastian/)                         | Stacey Jeffery                                  | 2025        | IRIF, Université Paris Cité |
 | [Anne Baanen](https://anne.mx/)                                                    | Jasmin Blanchette, Sander Dahmen                | 2024        | Mathlib Initiative |
