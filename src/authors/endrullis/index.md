@@ -9,7 +9,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: http://joerg.endrullis.de/
+    link: https://joerg.endrullis.de/
   - icon: envelope
     icon_pack: fas
     link: mailto:j.endrullis@vu.nl

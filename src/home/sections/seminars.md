@@ -9,4 +9,4 @@ The following TCS seminars are held regularly at various places in Amsterdam (so
 
 Furthermore, there also are the following one-off talks:
 
-- [Talk by Venkatesan Guruswami](https://ivi.fnwi.uva.nl/tcs/post/24-05-27-talk/), Monday June 10th 2024, start at 16:00 at CWI
+- [Talk by Venkatesan Guruswami](https://ivi-tcs.science.uva.nl/post/24-05-27-talk/), Monday June 10th 2024, start at 16:00 at CWI
