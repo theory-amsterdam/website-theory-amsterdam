@@ -123,6 +123,23 @@ awk -F'\t' 'NR==FNR { if ($2 ~ /^2/) ok[$1]=1; next }
             { if ($1 in ok) next; print }' "$pass2" "$pass1" > "$final"
 awk -F'\t' '$2 ~ /^2/ {print $1}' "$pass2" > "$pass2.ok"
 
+# Third pass, per host. A host that fails several URLs at once is almost always
+# rate-limiting us, not hosting several dead pages: parallel probing of dblp.org
+# produced seven "000" results while every one of those URLs was in fact live.
+# So for any host with 2+ remaining failures, re-probe its URLs one at a time
+# with a real pause, and only keep the ones that still fail.
+for host in $(awk -F'\t' '{print $1}' "$final" | while IFS= read -r u; do
+                  allowed "$u" || host_of "$u"      # allowlisted hosts are dropped later anyway
+              done | sort | uniq -c | awk '$1 >= 2 {print $2}'); do
+  echo "  (re-probing $host serially — multiple failures look like rate limiting)"
+  awk -F'\t' -v h="$host" 'index($1, "//"h"/") || index($1, "//"h":") {print $1}' "$final" \
+  | while IFS= read -r u; do
+      sleep 2
+      c=$(curl -sS -o /dev/null -L --compressed --max-time 25 -A "$UA" -w '%{http_code}' "$u" 2>/dev/null)
+      case "$c" in 2*) printf '%s\n' "$u" >> "$pass2.ok" ;; esac
+    done
+done
+
 # ------------------------------------------------------------------ classifying
 hard=0; insecure=0; soft=0; blocked=0
 : > "$final.blocked"
