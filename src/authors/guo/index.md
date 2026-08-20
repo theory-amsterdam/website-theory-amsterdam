@@ -8,7 +8,7 @@ interests:
 social:
   - icon: link
     icon_pack: fas
-    link: http://krystalguo.com/
+    link: https://krystalguo.com/
   - icon: envelope
     icon_pack: fas
     link: mailto:k.guo@uva.nl

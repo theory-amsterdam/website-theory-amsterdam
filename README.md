@@ -29,6 +29,14 @@ $ npm run dev
 
 5. Add a new researcher by duplicating a folder in [/src/authors/](/src/authors), editing the `index.md` frontmatter, and dropping in an `avatar.jpg` (or `.png` / `.jpeg`).
 
+   The field that decides whether anyone can actually see the new page is `user_groups`: it needs
+   **one** role group (`Permanent Members`, `Postdocs` or `PhD Students`) plus **one or more**
+   institute groups, each spelled exactly as it appears in
+   [/src/institutes/index.njk](/src/institutes/index.njk). A misspelling silently hides the person
+   with no error. Run `bash scripts/check-people.sh` before committing — it catches that and a
+   handful of similar traps. See [CLAUDE.md](/CLAUDE.md) for the full conventions, and
+   [docs/people-refresh.md](/docs/people-refresh.md) for the recurring update procedure.
+
 6. When you're happy with the result, commit to `main`. Netlify rebuilds and deploys automatically to https://theory-amsterdam.netlify.app/ (and https://theory.amsterdam).
 
 To produce a one-off production build into `_site/`:
