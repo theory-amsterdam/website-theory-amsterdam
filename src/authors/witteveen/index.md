@@ -6,6 +6,9 @@ interests:
   - quantum information
   - quantum algorithms
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:F.Witteveen@cwi.nl
   - icon: link
     icon_pack: fas
     link: https://www.cwi.nl/people/freek-witteveen

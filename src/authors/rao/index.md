@@ -3,6 +3,9 @@ title: Rajath Rao
 lastname: Rao
 role: PhD Student
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:r.raokamblanagendra@vu.nl
   - icon: link
     icon_pack: fas
     link: https://www.linkedin.com/in/rajath-rao-08a253214/

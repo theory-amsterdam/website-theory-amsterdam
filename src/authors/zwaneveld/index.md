@@ -2,6 +2,10 @@
 title: Gabriëlle Zwaneveld
 lastname: Zwaneveld
 role: PhD Student
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:g.c.zwaneveld@uva.nl
 organizations:
   - name: UvA Korteweg-de Vries Institute for Mathematics
     url: https://kdvi.uva.nl/

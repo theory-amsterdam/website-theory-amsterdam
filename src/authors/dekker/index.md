@@ -9,7 +9,7 @@ social:
   link: https://staff.fnwi.uva.nl/p.m.dekker/
 - icon: envelope
   icon_pack: fas
-  link: mailto:p.m.dekker@uva.nl 
+  link: mailto:p.m.dekker@uva.nl
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ItDD2tEAAAAJ

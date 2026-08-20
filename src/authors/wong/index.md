@@ -3,6 +3,9 @@ title: Tsz Fung Wind Wong
 lastname: Wong
 role: PhD Student
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:t.f.w.wong@vu.nl
   - icon: link
     icon_pack: fas
     link: https://research.vu.nl/en/persons/tsz-fung-wind-wong/
