@@ -5,6 +5,10 @@ role: PhD Student
 interests:
   - quantum algorithms
   - quantum complexity theory
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:Lorenzo.Grevink@cwi.nl
 organizations:
   - name: CWI Algorithms and Complexity
     url: https://www.cwi.nl/research/groups/algorithms-and-complexity

@@ -5,6 +5,9 @@ role: Full Professor
 interests:
   - quantum information theory
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:michael.walter@lmu.de
   - icon: link
     icon_pack: fas
     link: https://michaelwalter.info/

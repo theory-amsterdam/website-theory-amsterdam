@@ -9,8 +9,8 @@ affiliations. This runbook exists so that stops being an annual event.
 it could check on its own; the actual work is a local session, because the primary source and the
 avatar tooling are only available locally.
 
-**Scope:** people only, plus a link-rot sweep. Publications, seminars, teaching and job posts are
-out of scope here.
+**Scope:** people only, plus a link-rot sweep and a mailing-list check. Publications, seminars,
+teaching and job posts are out of scope here.
 
 **Containment.** Anything derived from the private roster stays inside `private_data/`, which is
 gitignored. Never copy it elsewhere in the repo, never `git add -f`, and check
@@ -243,6 +243,43 @@ separates:
 For an alumnus, hunt for a replacement URL rather than removing the link: a dead homepage still
 identifies the person.
 
+## Phase 7b — The mailing list (local only)
+
+The group's announcement list drifts out of step with the site the same way everything else does,
+and nothing catches it automatically.
+
+Members page (needs a UvA login, so this step cannot run unattended):
+`https://list.uva.nl/postorius/lists/theory.amsterdam.list.uva.nl/members/member/?count=200&page=1`
+
+Compare it against the addresses published on the site:
+
+```bash
+for f in src/authors/*/index.md; do
+  t=$(tr -d '\r' < "$f")
+  printf '%s\t%s\n' \
+    "$(printf '%s\n' "$t" | sed -n 's/^title: *//p')" \
+    "$(printf '%s\n' "$t" | sed -n 's/^[[:space:]]*link: *mailto://p' | head -1 | tr 'A-Z' 'a-z')"
+done
+```
+
+**This check is additive only. Never propose removing anyone.** People unsubscribe themselves when
+they want to, and dead addresses bounce off on their own. The only output is *current members who
+are not subscribed*, which is a nudge to ask them — not something to act on unilaterally, since
+subscribing someone is making a decision in their name.
+
+**Match on the person, not the address.** Plenty of people subscribe with an address other than the
+one the site publishes, and a naive comparison flags them every single run. On the first check, five
+of eleven apparent gaps were false — subscriptions under a first-name address (`malvin@…`,
+`femke@…`), a different institution's domain, or a different spelling. Before reporting anyone as
+missing, grep the member list for their surname *and* their first name *and* any obvious initials
+form. Only report someone when none of those hit.
+
+Expect the list to be much larger than the site — it legitimately carries alumni and affiliates.
+That difference is not drift.
+
+Treat the member list as personal data: it belongs in `private_data/`, and no address from it goes
+into a commit message, a PR body or an issue.
+
 ## Phase 8 — Verify and open the PR
 
 ```bash
@@ -267,7 +304,9 @@ PR body, in this order:
    people with no avatar, empty `Next Affiliation` cells, and who to ask for each institute.
 4. **Portrait provenance** — every portrait added, with its source URL. Phase 6 requires this.
 5. **Link rot** — HARD and REDIRECT findings with file and line.
-6. **Drift check** — the `scripts/check-people.sh` output in a fenced block.
+6. **Mailing list** — current members who are not subscribed, as a list of names to ask. Never
+   addresses, and never a removal suggestion.
+7. **Drift check** — the `scripts/check-people.sh` output in a fenced block.
 
 Never merge from the routine. A human reviews and merges.
 
@@ -280,6 +319,7 @@ The scheduled run works from a clone of `origin/main`. It therefore has **no acc
 
 - **never deletes an author folder and never moves anyone to alumni** — it has no departure evidence;
 - **never adds an avatar**;
+- **never checks the mailing list** — the members page needs a UvA login;
 - **never edits files or opens a PR** — it opens an issue listing what it found;
 - **stays silent when there is nothing to report**, so the reminder keeps being worth reading.
 

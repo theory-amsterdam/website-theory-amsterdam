@@ -13,4 +13,6 @@ Three things that matter more than the rest:
 - **Departures need the private roster.** Absence from an institute listing page is not evidence
   that someone left. If `private_data/` is not present, skip the departure pass and say so.
 - **Nothing committed describes the private roster** — no filename, no structure, no field names.
-  State conclusions, never source records.
+  State conclusions, never source records. The same goes for the mailing-list membership.
+- **The mailing-list check (Phase 7b) is additive only.** Report current members who aren't
+  subscribed; never propose removing anyone.
