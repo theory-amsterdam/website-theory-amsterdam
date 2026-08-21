@@ -142,6 +142,18 @@ departures from these pages, you will eventually propose deleting a sitting prof
 The list is Amsterdam institutions only. Someone with an outside affiliation keeps it under
 `organizations` and is grouped by their Amsterdam institute.
 
+**A name on a group page is a candidate, not an arrival.** This site carries a deliberate subset of
+some departments — VU Theoretical Computer Science most visibly — so at any moment there are people
+on those pages who were considered and deliberately left off. They are recorded by name in the
+private notes under "Out of scope — do not re-propose".
+
+**Filter every candidate against that list before reporting it.** Otherwise the same already-rejected
+names resurface every two months, and a report that reliably contains wrong candidates trains its
+reader to skim past the section that might one day hold something real.
+
+Someone *new* appearing on one of these pages is still a genuine candidate — that is what the pages
+are for. It is only the standing exclusions that must not come back.
+
 One page publishes its own **Alumni** section (`ivi-tcs`), and two publish *Former Members* or
 *Retired* headings. A current member appearing there is a stronger lead than mere absence — but it
 is still only a lead, and it means *former member of that group*, not "left Amsterdam". On the
