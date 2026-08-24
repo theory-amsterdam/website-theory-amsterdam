@@ -75,7 +75,7 @@ In the Netherlands Jaco de Bakker was the originator of an extensive school of t
 [//]: # "retirement 2009, based on year of birth"
 from [wikipedia](https://en.wikipedia.org/wiki/Paul_Vit%C3%A1nyi):
 <img src="vitanyi.jpg" style="width:20%;padding:10px;float:left;display:block"></img>
-Paul Michael Béla Vitányi (born 21 July 1944) is a Dutch computer scientist, Professor of Computer Science at the University of Amsterdam and researcher at the Dutch Centrum Wiskunde & Informatica.
+Paul Michael Béla Vitányi (born 21 July 1944) is a Dutch computer scientist, Professor of Computer Science at the University of Amsterdam and [CWI fellow](https://www.illc.uva.nl/NewsandEvents/News/Appointments/newsitem/472/Paul-Vit%C3%A1nyi-appointed-as-CWI-fellow) at the Dutch Centrum Wiskunde & Informatica.
 
 Vitányi was born in Budapest to a Dutch mother and a Hungarian father. He received his degree of mathematical engineer from Delft University of Technology in 1971 and his Ph.D. from the Free University of Amsterdam in 1978. Vitányi was appointed Professor of Computer Science at the University of Amsterdam, and researcher at the National Research Institute for Mathematics and Computer Science in the Netherlands (CWI) where he is currently a CWI Fellow.
 
