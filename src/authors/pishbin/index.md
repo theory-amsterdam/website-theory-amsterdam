@@ -10,7 +10,7 @@ social:
     link: https://pishbinz.github.io/
   - icon: envelope
     icon_pack: fas
-    link: z.pishbin@uva.nl
+    link: mailto:z.pishbin@uva.nl
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=qSy13-cAAAAJ

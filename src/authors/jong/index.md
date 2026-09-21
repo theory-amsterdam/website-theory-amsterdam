@@ -10,7 +10,7 @@ social:
     link: https://staff.science.uva.nl/o.j.dejong/
   - icon: envelope
     icon_pack: fas
-    link: o.j.dejong@uva.nl 
+    link: mailto:o.j.dejong@uva.nl 
 organizations:
   - name: UvA ILLC
     url: https://www.illc.uva.nl/
