@@ -58,7 +58,8 @@ extract_urls() {
     for f in src/authors/*/index.md; do
       tr -d '\r' < "$f" | sed -n -e 's/^[ ]*link: *//p' -e 's/^[ ]*url: *//p'
     done
-    grep -ohE 'https?://[^)"< ]+' \
+    # Balanced (...) inside a URL is kept: Wikipedia's Foo_(disambiguation) style.
+    grep -ohE 'https?://([^()"< ]|\([^()"< ]*\))+' \
       src/home/sections/alumni.md \
       src/home/sections/seminars.md \
       src/home/sections/teaching.md \
