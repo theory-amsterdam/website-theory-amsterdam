@@ -19,7 +19,7 @@ social:
     link: https://scholar.google.com/citations?user=dD3X2gwAAAAJ
 organizations:
   - name: CWI Networks and Optimization
-    url: https://www.cwi.nl/research/groups/networks-and-optimization
+    url: https://www.cwi.nl/en/research/networks-and-optimization/
 
 email: ""
 superuser: false

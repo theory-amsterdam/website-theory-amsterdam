@@ -22,7 +22,7 @@ social:
     link: https://dblp.uni-trier.de/pid/b/DSsBoer.html
 organizations:
   - name: CWI Computer Security
-    url: https://www.cwi.nl/research/groups/computer-security
+    url: https://www.cwi.nl/en/research/computer-security/
   - name: Leiden Institute of Advanced Computer Science
     url: https://liacs.leidenuniv.nl/
 

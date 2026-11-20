@@ -18,7 +18,7 @@ social:
     link: https://scholar.google.com/citations?user=HjIpwxYAAAAJ
 organizations:
   - name: CWI Networks and Optimization
-    url: https://www.cwi.nl/research/groups/networks-and-optimization
+    url: https://www.cwi.nl/en/research/networks-and-optimization/
   - name: Universiteit Tilburg
     url: https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/eor
 

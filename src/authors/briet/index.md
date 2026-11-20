@@ -19,7 +19,7 @@ social:
     link: https://scholar.google.com/citations?user=pWvIuEoAAAAJ
 organizations:
   - name: CWI Algorithms and Complexity
-    url: https://www.cwi.nl/research/groups/algorithms-and-complexity
+    url: https://www.cwi.nl/en/research/algorithms-and-complexity/
   - name: QuSoft
     url: https://qusoft.org/
 

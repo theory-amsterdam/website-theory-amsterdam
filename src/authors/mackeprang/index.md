@@ -11,7 +11,7 @@ social:
     link: mailto:jelena.mackeprang@cwi.nl
 organizations:
   - name: CWI Algorithms and Complexity
-    url: https://www.cwi.nl/research/groups/algorithms-and-complexity
+    url: https://www.cwi.nl/en/research/algorithms-and-complexity/
   - name: QuSoft
     url: https://qusoft.org/
 

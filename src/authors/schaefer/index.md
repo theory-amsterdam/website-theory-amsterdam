@@ -22,7 +22,7 @@ social:
     link: https://dblp.uni-trier.de/pid/s/GuidoSchafer.html
 organizations:
   - name: CWI Networks and Optimization
-    url: https://www.cwi.nl/research/groups/networks-and-optimization
+    url: https://www.cwi.nl/en/research/networks-and-optimization/
   - name: UvA ILLC
     url: https://www.illc.uva.nl/
 
