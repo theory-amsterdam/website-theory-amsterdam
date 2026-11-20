@@ -49,15 +49,21 @@ scholar.google.ca'
 UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36'
 
 # ------------------------------------------------------------------ extraction
-# Four sources. The institutes <ul> matters twice over: those are also the pages
-# the two-monthly refresh fetches, so a 404 there means our own upstream moved.
+# Sources: profile frontmatter plus the hand-written pages. The institutes <ul>
+# matters twice over: those are also the pages the two-monthly refresh fetches,
+# so a 404 there means our own upstream moved. Posts are left out on purpose:
+# they are historical announcements, and their links are expected to rot.
 extract_urls() {
   {
     for f in src/authors/*/index.md; do
       tr -d '\r' < "$f" | sed -n -e 's/^[ ]*link: *//p' -e 's/^[ ]*url: *//p'
     done
-    grep -ohE 'https?://[^)"< ]+' \
+    # Balanced (...) inside a URL is kept: Wikipedia's Foo_(disambiguation) style.
+    grep -ohE 'https?://([^()"< ]|\([^()"< ]*\))+' \
       src/home/sections/alumni.md \
+      src/home/sections/seminars.md \
+      src/home/sections/teaching.md \
+      src/history/index.md \
       src/contact/index.md \
       src/institutes/index.njk 2>/dev/null
   } | sed 's/[[:space:]]*$//; s/[.,;]$//' \
@@ -189,6 +195,21 @@ awk -F'\t' '$2 ~ /^2/ {print $1"\t"$3}' "$pass1" | while IFS=$'\t' read -r u eff
   [ "${h1#www.}" = "${h2#www.}" ] && continue
   printf '  %s\n       -> %s\n' "$u" "$eff"
 done | head -60
+
+echo
+echo "== DATED — URL names an academic year, likely an old edition (advisory) =="
+# e.g. study guides at .../2022-2023/...: they keep resolving long after the year
+# is over, so no status code catches them. Only consecutive years count, so a
+# range like seminars-2026-2030 is not flagged.
+printf '%s\n' "$urls" | awk '{
+  s = $0
+  while (match(s, /20[0-9][0-9]-20[0-9][0-9]/)) {
+    y1 = substr(s, RSTART, 4) + 0; y2 = substr(s, RSTART + 5, 4) + 0
+    if (y2 == y1 + 1) { print "  " $0; break }
+    s = substr(s, RSTART + RLENGTH)
+  }
+}' | tee "$pass1.dated"
+[ -s "$pass1.dated" ] || echo "  (none)"
 
 echo
 echo "== SUMMARY =="

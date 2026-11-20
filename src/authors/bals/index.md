@@ -15,7 +15,7 @@ social:
 
 organizations:
   - name: CWI Networks and Optimization
-    url: https://www.cwi.nl/research/groups/networks-and-optimization
+    url: https://www.cwi.nl/en/research/networks-and-optimization/
   - name: VU Theoretical Computer Science
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/
 

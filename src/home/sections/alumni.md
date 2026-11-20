@@ -43,7 +43,7 @@
 | [Harold Nieuwboer](https://han28.github.io)                                        | Michael Walter, Eric Opdam                      | 2024        | University of Copenhagen |
 | [Rene Allerstorfer](https://www.linkedin.com/in/rene-allerstorfer-b2171a86/)       | Harry Buhrman                                   | 2024        | PsiQuantum |
 | [Philip Verduyn Lunel](https://www.linkedin.com/in/philip-verduyn-lunel-b81815a7/) | Harry Buhrman                                   | 2024        | Sorbonne Université |
-| [Hans-Dieter Hiep](https://www.drheap.nl)                                          | Frank S. de Boer                                | 2024        | NLnet Foundation |
+| [Hans-Dieter Hiep](https://www.drheap.org/)                                        | Frank S. de Boer                                | 2024        | NLnet Foundation |
 | [Yanlin Chen](https://sites.google.com/view/yanlin-chen)                           | Ronald de Wolf, Māris Ozols                     | 2024        | University of Maryland |
 | [Arjan Cornelissen](https://arriopolis.github.io/)                                 | Māris Ozols                                     | 2023        | Simons Institute, UC Berkeley |
 | [Subhasree Patro](https://subhasree-patro.github.io)                               | Harry Buhrman, Florian Speelman                 | 2023        | Eindhoven University of Technology |
