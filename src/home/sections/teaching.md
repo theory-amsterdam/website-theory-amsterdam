@@ -1,18 +1,18 @@
 ### Bachelor study programmes
 
-- [Dubbele BSc Wiskunde Informatica (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7273)
-- [BSc Informatica (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7278)
-- [BSc Kunstmatige Intelligentie (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7271)
-- [BSc Wiskunde (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7228)
-- [BSc Computer Science (VU)](https://studiegids.vu.nl/nl/Bachelor/2022-2023/computer-science)
-- [BSc Artificial Intelligence (VU)](https://studiegids.vu.nl/nl/bachelor/2022-2023/artificial-intelligence)
-- [BSc Mathematics  (VU)](https://studiegids.vu.nl/nl/Bachelor/2022-2023/mathematics)
+- [Dubbele BSc Wiskunde Informatica (UvA)](https://www.uva.nl/bachelor/bacheloropleidingen/informatica/studieprogramma/dubbele-bachelor-wi-inf)
+- [BSc Informatica (UvA)](https://www.uva.nl/bachelor/bacheloropleidingen/informatica)
+- [BSc Kunstmatige Intelligentie (UvA)](https://www.uva.nl/bachelor/bacheloropleidingen/kunstmatige-intelligentie)
+- [BSc Wiskunde (UvA)](https://www.uva.nl/bachelor/bacheloropleidingen/wiskunde)
+- [BSc Computer Science (VU)](https://vu.nl/en/education/bachelor/computer-science)
+- [BSc Artificial Intelligence (VU)](https://vu.nl/en/education/bachelor/artificial-intelligence)
+- [BSc Mathematics (VU)](https://vu.nl/en/education/bachelor/mathematics)
 
 ### Master study programmes
 
-- [MSc Artificial Intelligence (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7149)
-- [MSc Logic (UvA)](https://msclogic.illc.uva.nl/), [Logic and Computation track](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7279/250956)
-- [MSc Computer Science (UvA/VU)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7283), [Foundations of Computing and Concurrency](https://studiegids.vu.nl/en/Master/2022-2023/computer-science-joint-degree#)
-- [MSc Computational Science (UvA/VU)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7234)
+- [MSc Artificial Intelligence (UvA)](https://www.uva.nl/en/masters/masters-programmes/artificial-intelligence)
+- [MSc Logic (UvA)](https://msclogic.illc.uva.nl/), [Logic and Computation track](https://www.uva.nl/en/masters/masters-programmes/logic/study-programme)
+- [MSc Computer Science (UvA/VU)](https://www.uva.nl/en/masters/masters-programmes/computer-science), [Foundations of Computing and Concurrency](https://www.uva.nl/en/masters/masters-programmes/foundations-of-computing-and-concurrency-computer-science)
+- [MSc Computational Science (UvA/VU)](https://www.uva.nl/en/masters/masters-programmes/computational-science)
 - [MasterMath](https://elo.mastermath.nl/)
-- [MSc Mathematics: Discrete Mathematics and Quantum Information (UvA)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-opleiding/opleiding/7153/247636)
+- [MSc Mathematics: Discrete Mathematics and Quantum Information (UvA)](https://www.uva.nl/en/masters/masters-programmes/mathematics/study-programme)
