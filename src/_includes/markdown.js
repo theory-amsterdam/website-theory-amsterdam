@@ -29,6 +29,9 @@ function clean(md, pageUrl) {
       const alt = (attrs.match(/\balt="([^"]*)"/i) || [])[1] || "";
       return src ? `![${alt}](${abs(src, pageUrl)})` : "";
     })
+    // No email addresses in machine-readable output: point to the HTML page instead.
+    .replace(/<a\b[^>]*href="mailto:[^"]*"[^>]*>[\s\S]*?<\/a>/gi, `the email address on ${abs(pageUrl)}`)
+    .replace(/\[[^\]]*\]\(mailto:[^)]*\)/gi, `the email address on ${abs(pageUrl)}`)
     .replace(/^[ \t]*<br\b[^>]*>[ \t]*$/gim, "")
     .replace(/<h1\b[^>]*>([\s\S]*?)<\/h1>/gi, (_, t) => `# ${t.replace(/&amp;/g, "&").trim()}`)
     .replace(/(!?\[[^\]]*\])\(([^)\s]+)\)/g, (m, label, url) =>
@@ -56,7 +59,6 @@ const hasH1 = (md) => /^# /m.test(md);
 
 const SOCIAL_LABELS = {
   link: "Homepage",
-  envelope: "Email",
   "google-scholar": "Google Scholar",
   dblp: "DBLP",
   orcid: "ORCID",
@@ -65,9 +67,10 @@ const SOCIAL_LABELS = {
   github: "GitHub",
 };
 
-function socialLinks(social, { email = true } = {}) {
+/** Profile links, without mailto: no email addresses in machine-readable output. */
+function socialLinks(social) {
   return (social || [])
-    .filter((s) => s.link && (email || !s.link.startsWith("mailto:")))
+    .filter((s) => s.link && !s.link.startsWith("mailto:"))
     .map((s) => `[${SOCIAL_LABELS[s.icon] || s.icon}](${s.link})`);
 }
 
@@ -92,7 +95,7 @@ function personLine(author, { link = "html" } = {}) {
 }
 
 /** Full profile of a person: details list, then bio. */
-function personProfile(author, { headingLevel = 1, email = true } = {}) {
+function personProfile(author, { headingLevel = 1 } = {}) {
   const d = author.data;
   const h = "#".repeat(headingLevel);
   const lines = [`${h} ${d.title}`, ""];
@@ -104,7 +107,7 @@ function personProfile(author, { headingLevel = 1, email = true } = {}) {
       `- Affiliations: ${d.organizations.map((o) => (o.url ? `[${o.name}](${o.url})` : o.name)).join(", ")}`
     );
   if (d.interests && d.interests.length) lines.push(`- Research interests: ${d.interests.join(", ")}`);
-  const links = socialLinks(d.social, { email });
+  const links = socialLinks(d.social);
   if (links.length) lines.push(`- Links: ${links.join(", ")}`);
   lines.push(`- Profile page: ${site.url}${author.url}`);
   const bio = clean(rawBody(author.inputPath), author.url);

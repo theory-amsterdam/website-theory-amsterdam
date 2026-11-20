@@ -172,8 +172,9 @@ by hand for routine people/post edits. Templates live in `src/llms/` (`.11ty.js`
 - A **new `.njk` page** needs a mirror in `njk-pages.11ty.js`, its URL in `hasMirror` in
   `layout.njk`, and a line in `llms-txt.11ty.js`. New `.md` pages need nothing.
 - Give new top-level pages a `description:` in frontmatter (quote it — a `: ` inside breaks YAML).
-- `llms-full.txt` and JSON-LD deliberately **omit personal email addresses**; the per-person
-  mirrors keep them, as the HTML does.
+- **No email addresses** in any Markdown mirror, `llms.txt`/`llms-full.txt` or JSON-LD: mailto
+  social links are dropped, and mailto links in page bodies become "the email address on <HTML
+  page URL>" (`clean()` in `src/_includes/markdown.js`). Emails stay on the HTML pages only.
 - The `src/posts` passthrough skips `.md`/`.js`, so raw post sources (frontmatter, drafts) are not
   published next to the mirrors.
 
