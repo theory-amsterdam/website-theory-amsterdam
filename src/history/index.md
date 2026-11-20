@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: History
+description: "People in the history of theoretical computer science in Amsterdam: influential researchers whose work at CWI, UvA or VU made a lasting contribution to TCS."
 permalink: /history/
 ---
 # People in the history of TCS in Amsterdam

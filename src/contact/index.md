@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: Contact
+description: "Code of conduct, impressum and contact information for theory.amsterdam."
 permalink: /contact/
 ---
 <h1 class="text-center mb-5">Code of Conduct &amp; Contact</h1>

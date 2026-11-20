@@ -198,7 +198,7 @@ Write out every delta with a confidence tag before touching a file:
 | **Alumni row with an empty Next Affiliation** | needs-human | Fill that cell only. Precedent `d124a78`. Never invent an employer; blank is an honest answer. |
 | **Alumni link dead** (Phase 7) | certain if you find a replacement | Swap the URL in place, same row, same alignment. No replacement → leave it and note it. |
 | **Person returns as a member** | needs-human | Create the folder as a new person, **leave** the alumni row, and repoint its link to `/authors/<slug>/`. Precedent: `witteveen`. Alumni history is not deleted. |
-| **A genuinely new institute** | needs-human | Add to `instituteGroups` **and** the `<ul>` above it in `src/institutes/index.njk`, one commit. |
+| **A genuinely new institute** | needs-human | Add to `institutes` in `src/_data/groups.js` (and `scripts/check-people.sh`) **and** the `<ul>` in `src/institutes/index.njk`, one commit. |
 | **Stale bio or interests** | ignore | Self-authored. People edit their own pages (see PR #49). |
 
 ## Phase 6 — Avatars

@@ -55,13 +55,13 @@ template reads**. Don't add them to new files; no need to strip them from old on
 Every person needs **exactly one role group** and **one or more institute groups**. Matching is
 exact string equality, and **a typo silently removes the person from a page with no build error.**
 
-Role groups — `groupOrder` in `src/home/index.njk:6`, in render order:
+Role groups — `roles` in `src/_data/groups.js`, in render order (home page):
 
 ```
 Permanent Members · Postdocs · PhD Students · Research Assistants · Visitors · Alumni
 ```
 
-Institute groups — `instituteGroups` in `src/institutes/index.njk:6-19`, in render order:
+Institute groups — `institutes` in `src/_data/groups.js`, in render order (`/institutes/`):
 
 ```
 CWI Algorithms and Complexity · CWI Networks and Optimization · CWI Computer Security
@@ -81,7 +81,8 @@ rather than left rendering nothing (check C8 flags this).
 
 A `user_groups` value outside this vocabulary makes the person invisible on `/institutes/`.
 **Don't "fix" that by inventing a new group string** — either add the institute properly (edit
-`instituteGroups` **and** the `<ul>` of research-group links above it, in the same file) or drop
+`institutes` in `src/_data/groups.js` **and** the `<ul>` of research-group links in
+`src/institutes/index.njk`, plus the copy in `scripts/check-people.sh`) or drop
 the entry from `user_groups` and leave the affiliation in `organizations`. Findings that are
 accepted but not yet resolved go in `scripts/known-exceptions.txt`.
 
@@ -154,6 +155,28 @@ Subhasree Patro and Yfke Dulek appear in two tables on purpose: they were both P
 postdoc here. **Don't deduplicate them.**
 
 **Don't re-align the pipes** when adding a row — `0229b04` is a 60-line diff for a one-line change.
+
+## Machine-readable outputs (for LLMs, agents, crawlers)
+
+Generated at build time from the same frontmatter and Markdown as the HTML — nothing to maintain
+by hand for routine people/post edits. Templates live in `src/llms/` (`.11ty.js`, shared helpers in
+`src/_includes/markdown.js`), excluded from collections by `src/llms/llms.11tydata.js`.
+
+| Output | Source |
+|---|---|
+| `<url>index.html.md` for every page | `mirror.11ty.js` (all `.md` pages, automatic) and `njk-pages.11ty.js` (home, `/institutes/`, `/post/`) |
+| `/llms.txt`, `/llms-full.txt` | `llms-txt.11ty.js`, `llms-full.11ty.js` ([llmstxt.org](https://llmstxt.org/)) |
+| `/sitemap.xml`, `/robots.txt` | `sitemap.11ty.js`, `robots.11ty.js` |
+| meta description, canonical, Open Graph, JSON-LD (`Person` on profiles) | `<head>` of `src/_includes/layout.njk`, site constants in `src/_data/site.js` |
+
+- A **new `.njk` page** needs a mirror in `njk-pages.11ty.js`, its URL in `hasMirror` in
+  `layout.njk`, and a line in `llms-txt.11ty.js`. New `.md` pages need nothing.
+- Give new top-level pages a `description:` in frontmatter (quote it — a `: ` inside breaks YAML).
+- **No email addresses** in any Markdown mirror, `llms.txt`/`llms-full.txt` or JSON-LD: mailto
+  social links are dropped, and mailto links in page bodies become "the email address on <HTML
+  page URL>" (`clean()` in `src/_includes/markdown.js`). Emails stay on the HTML pages only.
+- The `src/posts` passthrough skips `.md`/`.js`, so raw post sources (frontmatter, drafts) are not
+  published next to the mirrors.
 
 ## Netlify
 
