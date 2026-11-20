@@ -166,7 +166,7 @@ from [ILLC Obituary](https://www.illc.uva.nl/NewsandEvents/News/Obituaries/Theo-
 
 
 ### Lex Schrijver
-[//]: # "retirement May 2013: https://www.cwi.nl/news/2013/cwi-lectures-organized-in-honour-of-mathematician-lex-schrijver"
+[//]: # "retirement May 2013: https://www.cwi.nl/en/news/cwi-lectures-organized-in-honour-of-mathematician-lex-schrijver/"
 *CWI/UvA · from 1989 · CWI Fellow and professor emeritus*
 
 from [wikipedia](https://en.wikipedia.org/wiki/Alexander_Schrijver):
