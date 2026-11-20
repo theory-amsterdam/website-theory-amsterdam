@@ -1,20 +1,9 @@
 ---
 layout: layout.njk
 title: Institutes
+description: "TCS researchers in Amsterdam grouped by institute and research group at CWI, the University of Amsterdam (UvA), Vrije Universiteit (VU) and QuSoft."
 permalink: /institutes/
 ---
-{% set instituteGroups = [
-  "CWI Algorithms and Complexity",
-  "CWI Networks and Optimization",
-  "CWI Computer Security",
-  "UvA ILLC",
-  "UvA Informatics Institute",
-  "UvA Korteweg-de Vries Institute for Mathematics",
-  "UvA Institute of Physics",
-  "UvA Van 't Hoff Institute for Molecular Sciences",
-  "VU Theoretical Computer Science",
-  "QuSoft"
-] %}
 
 <section class="py-3">
   <div class="section-heading mb-3"><h1>Institutes</h1></div>
@@ -43,7 +32,7 @@ permalink: /institutes/
 </section>
 
 <section class="py-3">
-  {% for group in instituteGroups %}
+  {% for group in groups.institutes %}
     {% set members = [] %}
     {% for author in collections.authors %}
       {% if author.data.user_groups and (group in author.data.user_groups) %}

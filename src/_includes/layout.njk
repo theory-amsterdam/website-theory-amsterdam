@@ -4,16 +4,70 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if title %}{{ title }} | {% endif %}Theory.Amsterdam</title>
+    {%- set isAuthor = tags and ("authors" in tags) %}
+    {%- set isPost = tags and ("posts" in tags) %}
+    {%- if description %}
+      {%- set metaDescription = description %}
+    {%- elif isAuthor %}
+      {%- set orgNames = [] %}
+      {%- for org in organizations or [] %}{% set orgNames = (orgNames.push(org.name), orgNames) %}{% endfor %}
+      {%- set metaDescription = title + (", " + role if role else "") + (" (" + orgNames | join(", ") + ")" if orgNames.length else "") + "." + (" Interests: " + interests | join(", ") + "." if interests and interests.length else "") %}
+    {%- elif isPost %}
+      {%- set metaDescription = page.inputPath | rawBody | excerpt | plainText | replace("**", "") | truncate(220) %}
+    {%- else %}
+      {%- set metaDescription = site.description %}
+    {%- endif %}
+    {%- set canonical = site.url + page.url %}
+    {%- set ogImage = site.url + (avatars[page.fileSlug] or "/assets/media/generic-avatar.jpg" if isAuthor else "/assets/media/theory.amsterdam.3.png") %}
+    {%- set hasMirror = (page.inputPath.endsWith(".md") or page.url == "/" or page.url == "/institutes/" or page.url == "/post/") %}
+    <meta name="description" content="{{ metaDescription }}">
+    <link rel="canonical" href="{{ canonical }}">
+    {%- if hasMirror %}
+    <link rel="alternate" type="text/markdown" href="{{ page.url }}index.html.md" title="Markdown version of this page">
+    {%- endif %}
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt">
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+    <meta property="og:site_name" content="{{ site.name }}">
+    <meta property="og:title" content="{{ title if title and title != 'Home' else site.name }}">
+    <meta property="og:description" content="{{ metaDescription }}">
+    <meta property="og:url" content="{{ canonical }}">
+    <meta property="og:type" content="{{ 'profile' if isAuthor else ('article' if isPost else 'website') }}">
+    <meta property="og:image" content="{{ ogImage }}">
+    <meta name="twitter:card" content="summary">
+    {#- JSON-LD (schema.org). Built as objects and serialised with dump so escaping is always right. #}
+    {%- set website = { "@type": "WebSite", "@id": site.url + "/#website", "name": site.name, "url": site.url + "/", "description": site.description, "inLanguage": "en" } %}
+    {%- set graph = [website] %}
+    {%- if isAuthor %}
+      {%- set affiliation = [] %}
+      {%- for org in organizations or [] %}
+        {%- set o = { "@type": "Organization", "name": org.name } %}
+        {%- if org.url %}{% set o = { "@type": "Organization", "name": org.name, "url": org.url } %}{% endif %}
+        {%- set affiliation = (affiliation.push(o), affiliation) %}
+      {%- endfor %}
+      {%- set sameAs = [] %}
+      {%- for s in social | withoutMailto %}{% set sameAs = (sameAs.push(s.link), sameAs) %}{% endfor %}
+      {%- set person = { "@type": "Person", "@id": canonical + "#person", "name": title, "url": canonical, "image": ogImage, "jobTitle": role, "affiliation": affiliation, "knowsAbout": interests or [], "sameAs": sameAs } %}
+      {%- set graph = (graph.push({ "@type": "ProfilePage", "url": canonical, "name": title, "isPartOf": { "@id": site.url + "/#website" }, "mainEntity": person }), graph) %}
+    {%- elif isPost %}
+      {%- set postAuthors = [] %}
+      {%- for slug in authors or [] %}
+        {%- for a in collections.authors %}{% if a.data.page.fileSlug == slug %}{% set postAuthors = (postAuthors.push({ "@type": "Person", "name": a.data.title, "url": site.url + a.url }), postAuthors) %}{% endif %}{% endfor %}
+      {%- endfor %}
+      {%- set graph = (graph.push({ "@type": "Article", "headline": title, "url": canonical, "datePublished": page.date | dateISO, "author": postAuthors, "description": metaDescription, "isPartOf": { "@id": site.url + "/#website" } }), graph) %}
+    {%- else %}
+      {%- set graph = (graph.push({ "@type": "WebPage", "url": canonical, "name": title, "description": metaDescription, "isPartOf": { "@id": site.url + "/#website" } }), graph) %}
+    {%- endif %}
+    <script type="application/ld+json">{{ { "@context": "https://schema.org", "@graph": graph } | dump | replace("<", "\\u003c") | safe }}</script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.6/css/academicons.min.css">
     <link rel="stylesheet" href="/assets/css/site.css">
   </head>
   <body data-bs-spy="scroll" data-bs-target="#navMenu" data-bs-offset="80">
-    <nav class="navbar navbar-expand-md navbar-light bg-light border-bottom sticky-top">
+    <nav aria-label="Main" class="navbar navbar-expand-md navbar-light bg-light border-bottom sticky-top">
       <div class="container">
         <a class="navbar-brand" href="/">Theory.Amsterdam</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu" aria-controls="navMenu" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navMenu">

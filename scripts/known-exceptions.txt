@@ -2,10 +2,10 @@
 # Listing something here suppresses its C1 failure so that NEW breakage stays
 # visible. It does not make the problem go away: each line is a person who is
 # currently invisible on /institutes/ because their institute is not in
-# instituteGroups (src/institutes/index.njk).
+# `institutes` (src/_data/groups.js).
 #
-# Resolving one means either adding the institute to instituteGroups AND the
-# <ul> of links above it, or dropping the entry from the person's user_groups
+# Resolving one means either adding the institute to `institutes` AND the
+# <ul> of links in src/institutes/index.njk, or dropping the entry from the person's user_groups
 # (their organizations list can still show the affiliation) — then delete the
 # line here.
 

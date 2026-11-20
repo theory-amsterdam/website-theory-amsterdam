@@ -22,8 +22,8 @@ fail() { printf 'FAIL  %s\n' "$1"; hard=1; }
 info() { printf 'INFO  %s\n' "$1"; }
 
 # ---------------------------------------------------------------- vocabulary
-# Must match groupOrder in src/home/index.njk and instituteGroups in
-# src/institutes/index.njk exactly. Both are matched as literal strings.
+# Must match `roles` and `institutes` in src/_data/groups.js exactly. Both are
+# matched as literal strings.
 ROLE_GROUPS='Permanent Members
 Postdocs
 PhD Students
